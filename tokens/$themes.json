@@ -1,0 +1,106 @@
+[
+  {
+    "id": "52989c058d6750a0495d615e5096924a188ec3f4",
+    "name": "core",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "enabled",
+      "Core tokens_Copy": "disabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:8371:1457",
+    "$figmaModeId": "8371:0",
+    "$figmaVariableReferences": {
+      "spacing.0": "8f523d095536f1e64659aa3c27ed9d309d700910",
+      "spacing.1": "654ab6839875b5ef1bcbc383c6268409990b9185",
+      "spacing.2": "f235226a69767827ca754cb324342441e865fd57",
+      "spacing.3": "7dda3ec5c302bcad1a3da8658a7fa2f800a36669",
+      "spacing.4": "57cf0d905108698034723e1346074974b3e86211",
+      "spacing.5": "7a753c4477fdc78bed264d8cce6c35c5c1231120",
+      "spacing.6": "90503a2d8ff5c72ebc4fdd52c71933d2d7a47f51",
+      "spacing.7": "f5b19b44d26e55c2b16a2ea1cd7891e5205b726c",
+      "spacing.8": "dadfae4ce6ac3d7b802fdd5eb659caea875aa133",
+      "spacing.9": "91b59b2f1644ed619075151f2de31f8eda94c7ed",
+      "spacing.10": "e481ae773d570a292448d7b94b4b63544994ddd1",
+      "spacing.11": "d19e9eca84e548a5fc344965e9fdef820e022028",
+      "spacing.12": "acef5e3c1b4c97839bcfcfe80ee93ba11b4de90e",
+      "spacing.13": "8b8319179f50c6a4cf2bea65c12808e9685dac59",
+      "spacing.14": "5a5fb4f30c3c908cbe124f7e4a934a6107a67cc3",
+      "spacing.15": "33fd41b30a5222f126a0610f68d02ffa78cd799f",
+      "spacing.16": "4761b016d655c4a8c076b4414db63043152d3a9b",
+      "spacing.17": "7f2bd380fd90d8de8746364f8f43dd2cb5006f52",
+      "spacing.18": "760cc2a2e6029b89e50226e8071544f225ebd966",
+      "spacing.19": "f7c4d7ca305ba2021c36058d1b476e1c354c1c1d",
+      "spacing.20": "ac3040e57ae444978db1ced5de7f842d6f14f4b1"
+    }
+  },
+  {
+    "id": "613bd7b4c3c74b3503cd41f248b86625a1991341",
+    "name": "bridging",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "bridging": "enabled",
+      "core": "source",
+      "Core tokens_Copy": "disabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:8371:1479",
+    "$figmaModeId": "8371:1",
+    "$figmaVariableReferences": {
+      "spacing.comp.null": "cea3f18f1dcb226ca8e729bf9b68a5ac8d7cc16e",
+      "spacing.comp.4-xs": "639ec8c446c55c6c8467152aaf1b60b3acd9c8a0",
+      "spacing.comp.3-xs": "8e2863538cdfc25ab6d23155790d7ff7dc03e6d8",
+      "spacing.comp.2-xs": "c7e55b9f5190a28a5e9da8b249c7bbcc6267c3a7",
+      "spacing.comp.xs": "d2c06218d2dc08b24d72bec36c6f2c6f6f2e39df",
+      "spacing.comp.s": "368d7e75e76505ccfbeee3e65fd98b321c3858a1",
+      "spacing.comp.m": "732779978baadf3f384513525c60c1e5252f117f",
+      "spacing.comp.l": "3a2c720c9cd23d9d0f08ed583ba40408e8929378",
+      "spacing.comp.xl": "7b228698769cf8701abddc781e4c43d524e8f2fb",
+      "spacing.comp.2-xl": "32b0eb2c3055de49db2a908238c29cef9c00e0b0",
+      "spacing.comp.3-xl": "55fce6fbb5f47ebe640c2e8c363767c711530c98",
+      "spacing.comp.4-xl": "1f7c61749ce6d3cf7e7f5c87e041b28ca979d1be",
+      "spacing.layout.desktop.xs": "2abb1bc04b5fbcbf742c93489781892c4b021ee2",
+      "spacing.layout.desktop.s": "1a0be5551c2ae7f86ac848e399006c582cab45c5",
+      "spacing.layout.desktop.m": "69ea02ceee4f34ded63c9ab48e8b12838cd8ff90",
+      "spacing.layout.desktop.l": "ff7eba89f52f1c6b5f21b5e71123262cc8dcc1d1",
+      "spacing.layout.desktop.xl": "3a928d1611ff6d32c45f945cfd4b24022456f83e",
+      "spacing.layout.desktop.jumbo": "0c49136cb5412adf1f327ed008752d595d47e9dd"
+    }
+  },
+  {
+    "id": "e75db054661874cc3446703ee362c5b345e9011a",
+    "name": "bridging-2",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "bridging-2": "enabled",
+      "Core tokens_Copy": "disabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:8449:5614",
+    "$figmaModeId": "8449:0",
+    "$figmaVariableReferences": {
+      "spacing.desktop.comp.null": "800712ff2c51afbdfffef01085a41ebc3d9a40da",
+      "spacing.desktop.comp.s": "2a4e12303505d5a66507d594a61ab6bf2c28cbc1",
+      "spacing.desktop.comp.m": "a6225a3d2fa8748efecfb89a4cadff8d6c6e5644",
+      "spacing.desktop.comp.l": "8bbee14fa0192ec32074ed8cef317e670557d1fc",
+      "spacing.desktop.comp.xl": "66de21711d2455c60ae6bb816e7ea54945d8a705",
+      "spacing.desktop.comp.2-xl": "38e2d74177eccd1983e7ecf12646066563894a23",
+      "spacing.desktop.layout.xs": "7603d5d06286fc1985faafa9a87ae14b36c02c56",
+      "spacing.desktop.layout.s": "f88810c47c9b8535dd3764bc9276c3c391cf1bbb",
+      "spacing.desktop.layout.m": "58da1119c88d3fc6810e4702c50bf1290697464e",
+      "spacing.desktop.layout.l": "6edaa96e772ed91715b010853dab3c86f714a612",
+      "spacing.desktop.layout.xl": "f163df6006115ab2190ceec934edda905913958a",
+      "spacing.desktop.layout.jumbo": "df4e3e024a47b77747a612c45504c1f276834373",
+      "spacing.mobile.comp.null": "009a9415b572c66ffff84da43382df4f1c197a77",
+      "spacing.mobile.comp.s": "1154f4366beeef8bd8481fb2f9876efd39cbf644",
+      "spacing.mobile.comp.m": "f8c8560f509fb5fce28368fe7e04e24dba7e6b92",
+      "spacing.mobile.comp.l": "27d35a9f97df8afe797f05144e3d0fd9e7be224b",
+      "spacing.mobile.comp.xl": "62d0d7150583cd45287b9285489d3c1d3b1b1043",
+      "spacing.mobile.comp.2-xl": "5713ed1d2e1b08e5f9d84d3106b43967cf5e2f2b",
+      "spacing.mobile.layout.xs": "a291330521fd54ef5609283c6b831b58176dbdd9",
+      "spacing.mobile.layout.s": "bf29caff6096ba427b74bced2db742d79895bb47",
+      "spacing.mobile.layout.m": "ca0880a7d7fb3a6192993023082dd317898be60b",
+      "spacing.mobile.layout.l": "36d8447343de8d2fa3bb76c88a9027445f745aac",
+      "spacing.mobile.layout.xl": "65a2d913f829ad29bd67c8ad576378f145fb7faa",
+      "spacing.mobile.layout.jumbo": "2ee4383725e67a483bea7cf71455d2f4082af665"
+    }
+  }
+]
