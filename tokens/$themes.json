@@ -4,8 +4,7 @@
     "name": "core",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core": "enabled",
-      "Core tokens_Copy": "disabled"
+      "core": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8371:1457",
     "$figmaModeId": "8371:0",
@@ -39,8 +38,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "bridging": "enabled",
-      "core": "source",
-      "Core tokens_Copy": "disabled"
+      "core": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:8371:1479",
     "$figmaModeId": "8371:1",
@@ -71,8 +69,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "bridging-2": "enabled",
-      "Core tokens_Copy": "disabled"
+      "bridging-2": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8449:5614",
     "$figmaModeId": "8449:0",
