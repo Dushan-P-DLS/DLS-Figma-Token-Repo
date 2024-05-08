@@ -99,5 +99,15 @@
       "spacing.mobile.layout.xl": "65a2d913f829ad29bd67c8ad576378f145fb7faa",
       "spacing.mobile.layout.jumbo": "2ee4383725e67a483bea7cf71455d2f4082af665"
     }
+  },
+  {
+    "id": "e877b8e934004b64cdbcb210b640407368244ddb",
+    "name": "Component Tokens",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Core tokens": "source",
+      "Bridging tokens": "source",
+      "Component tokens": "enabled"
+    }
   }
 ]
