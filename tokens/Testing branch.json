@@ -2,5 +2,9 @@
   "test-colour": {
     "value": "red",
     "type": "color"
+  },
+  "test-colour-2": {
+    "value": "blue",
+    "type": "color"
   }
 }
