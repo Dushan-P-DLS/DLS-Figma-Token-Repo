@@ -1,11 +1,6 @@
 {
   "tokenSetOrder": [
-    "core",
-    "bridging",
-    "bridging-2",
-    "bridging-3",
     "Core tokens",
-    "Core tokens_Copy",
     "Bridging tokens",
     "Component tokens"
   ]

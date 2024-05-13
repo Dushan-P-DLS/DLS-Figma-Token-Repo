@@ -184,7 +184,7 @@
         },
         "focus": {
           "01": {
-            "value": "$colors.tint.tertiary.03.40",
+            "value": "#1097E0",
             "type": "color",
             "description": "Accessibility focus colour"
           }
@@ -546,84 +546,6 @@
         "value": "{opacity.48}",
         "type": "opacity",
         "description": "Scrim opacity value"
-      }
-    }
-  },
-  "spacing-DUSH": {
-    "comp": {
-      "null": {
-        "value": "0",
-        "type": "spacing"
-      },
-      "4-xs": {
-        "value": "{spacing.1}",
-        "type": "spacing"
-      },
-      "3-xs": {
-        "value": "{spacing.2}",
-        "type": "spacing"
-      },
-      "2-xs": {
-        "value": "{spacing.3}",
-        "type": "spacing"
-      },
-      "xs": {
-        "value": "{spacing.4}",
-        "type": "spacing"
-      },
-      "s": {
-        "value": "{spacing.5}",
-        "type": "spacing"
-      },
-      "m": {
-        "value": "{spacing.6}",
-        "type": "spacing"
-      },
-      "l": {
-        "value": "{spacing.7}",
-        "type": "spacing"
-      },
-      "xl": {
-        "value": "{spacing.9}",
-        "type": "spacing"
-      },
-      "2-xl": {
-        "value": "{spacing.10}",
-        "type": "spacing"
-      },
-      "3-xl": {
-        "value": "{spacing.12}",
-        "type": "spacing"
-      },
-      "4-xl": {
-        "value": "{spacing.14}",
-        "type": "spacing"
-      }
-    },
-    "layout": {
-      "xs": {
-        "value": "{spacing.7}",
-        "type": "spacing"
-      },
-      "s": {
-        "value": "{spacing.9}",
-        "type": "spacing"
-      },
-      "m": {
-        "value": "{spacing.13}",
-        "type": "spacing"
-      },
-      "l": {
-        "value": "{spacing.15}",
-        "type": "spacing"
-      },
-      "xl": {
-        "value": "{spacing.17}",
-        "type": "spacing"
-      },
-      "jumbo": {
-        "value": "{spacing.19}",
-        "type": "spacing"
       }
     }
   }
