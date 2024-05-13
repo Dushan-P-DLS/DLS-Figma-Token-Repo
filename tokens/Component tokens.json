@@ -1071,7 +1071,7 @@
         "strip": {
           "background": {
             "promo": {
-              "value": "$colors.bridging.interactive.03",
+              "value": "$colors.alert.information",
               "type": "color"
             },
             "warning": {
