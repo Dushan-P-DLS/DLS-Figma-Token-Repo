@@ -1,1 +1,6 @@
-{}
+{
+  "test-colour": {
+    "value": "red",
+    "type": "color"
+  }
+}
