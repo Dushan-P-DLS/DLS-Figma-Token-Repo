@@ -1,7 +1,7 @@
 [
   {
     "id": "52989c058d6750a0495d615e5096924a188ec3f4",
-    "name": "core",
+    "name": "Core Tokens",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core tokens": "enabled"
@@ -12,7 +12,7 @@
   },
   {
     "id": "613bd7b4c3c74b3503cd41f248b86625a1991341",
-    "name": "bridging",
+    "name": "Bridging Tokens",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core tokens": "source",
