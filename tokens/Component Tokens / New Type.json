@@ -1,0 +1,12 @@
+{
+  "typography": {
+    "component": {
+      "button": {
+        "lg": {
+          "value": "{typography.header.sm.title05 (18)}",
+          "type": "typography"
+        }
+      }
+    }
+  }
+}
