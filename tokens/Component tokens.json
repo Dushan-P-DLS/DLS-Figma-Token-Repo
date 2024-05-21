@@ -846,7 +846,7 @@
         },
         "border": {
           "enabled": {
-            "value": "$colors.bridging.border.02",
+            "value": "red",
             "type": "color"
           },
           "hover": {
