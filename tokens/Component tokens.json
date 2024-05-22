@@ -432,57 +432,57 @@
           "type": {
             "primary": {
               "enabled": {
-                "value": "$colors.bridging.type.05",
+                "value": "$colors.bridging.interactive.type.05",
                 "type": "color",
                 "description": "Primary enabled text"
               },
               "hover": {
-                "value": "$colors.bridging.type.05",
+                "value": "$colors.bridging.interactive.type.05",
                 "type": "color",
                 "description": "Primary hover text"
               },
               "pressed": {
-                "value": "$colors.bridging.type.pressed.01",
+                "value": "$colors.bridging.interactive.type.pressed.01",
                 "type": "color",
                 "description": "Primary pressed text"
               }
             },
             "secondary": {
               "enabled": {
-                "value": "$colors.bridging.type.04",
+                "value": "$colors.bridging.interactive.type.04",
                 "type": "color",
                 "description": "Secondary enabled text"
               },
               "hover": {
-                "value": "$colors.bridging.type.hover.02",
+                "value": "$colors.bridging.interactive.type.hover.02",
                 "type": "color",
                 "description": "Secondary hover text"
               },
               "pressed": {
-                "value": "$colors.bridging.type.pressed.02",
+                "value": "$colors.bridging.interactive.type.pressed.02",
                 "type": "color",
                 "description": "Secondary pressed text"
               }
             },
             "tertiary": {
               "enabled": {
-                "value": "$colors.bridging.type.04",
+                "value": "$colors.bridging.interactive.type.04",
                 "type": "color",
                 "description": "Tertiary enabled text"
               },
               "hover": {
-                "value": "$colors.bridging.type.hover.02",
+                "value": "$colors.bridging.interactive.type.hover.02",
                 "type": "color",
                 "description": "Tertiary hover text"
               },
               "pressed": {
-                "value": "$colors.bridging.type.pressed.02",
+                "value": "$colors.bridging.interactive.type.pressed.02",
                 "type": "color",
                 "description": "Tertiary presed text"
               }
             },
             "disabled": {
-              "value": "$colors.bridging.type.02",
+              "value": "$colors.bridging.interactive.type.02",
               "type": "color",
               "description": "Disabled text"
             }
@@ -490,57 +490,57 @@
           "icon": {
             "primary": {
               "enabled": {
-                "value": "$colors.bridging.icon.05",
+                "value": "$colors.bridging.interactive.icon.05",
                 "type": "color",
                 "description": "Primary enabled icon"
               },
               "hover": {
-                "value": "$colors.bridging.icon.05",
+                "value": "$colors.bridging.interactive.icon.05",
                 "type": "color",
                 "description": "Primary hover icon"
               },
               "pressed": {
-                "value": "$colors.bridging.icon.pressed.01",
+                "value": "$colors.bridging.interactive.icon.pressed.01",
                 "type": "color",
                 "description": "Primary pressed icon"
               }
             },
             "secondary": {
               "enabled": {
-                "value": "$colors.bridging.icon.04",
+                "value": "$colors.bridging.interactive.icon.04",
                 "type": "color",
                 "description": "Secondary enabled icon"
               },
               "hover": {
-                "value": "$colors.bridging.icon.hover.02",
+                "value": "$colors.bridging.interactive.icon.hover.02",
                 "type": "color",
                 "description": "Secondary hover icon"
               },
               "pressed": {
-                "value": "$colors.bridging.icon.pressed.02",
+                "value": "$colors.bridging.interactive.icon.pressed.02",
                 "type": "color",
                 "description": "Secondary pressed icon"
               }
             },
             "tertiary": {
               "enabled": {
-                "value": "$colors.bridging.icon.04",
+                "value": "$colors.bridging.interactive.icon.04",
                 "type": "color",
                 "description": "Tertiary enabled icon"
               },
               "hover": {
-                "value": "$colors.bridging.icon.hover.02",
+                "value": "$colors.bridging.interactive.icon.hover.02",
                 "type": "color",
                 "description": "Tertiary hover icon"
               },
               "pressed": {
-                "value": "$colors.bridging.icon.pressed.02",
+                "value": "$colors.bridging.interactive.icon.pressed.02",
                 "type": "color",
                 "description": "Tertiary presed icon"
               }
             },
             "disabled": {
-              "value": "$colors.bridging.icon.02",
+              "value": "$colors.bridging.interactive.icon.02",
               "type": "color",
               "description": "Disabled icon"
             }
@@ -548,7 +548,7 @@
           "border": {
             "secondary": {
               "enabled": {
-                "value": "$colors.bridging.border.04",
+                "value": "$colors.bridging.interactive.border.04",
                 "type": "color",
                 "description": "Secondary button border colour"
               }
@@ -617,17 +617,17 @@
           "type": {
             "primary": {
               "enabled": {
-                "value": "$colors.bridging.type.04",
+                "value": "$colors.bridging.interactive.type.04",
                 "type": "color",
                 "description": "Inverse primary enabled text"
               },
               "hover": {
-                "value": "$colors.bridging.type.inverse.hover.01",
+                "value": "$colors.bridging.interactive.type.inverse.hover.01",
                 "type": "color",
                 "description": "Inverse primary hover text"
               },
               "pressed": {
-                "value": "$colors.bridging.type.inverse.pressed.02",
+                "value": "$colors.bridging.interactive.type.inverse.pressed.02",
                 "type": "color",
                 "description": "Inverse primary pressed text"
               }
@@ -639,12 +639,12 @@
                 "description": "Inverse secondary enabled text"
               },
               "hover": {
-                "value": "$colors.bridging.type.inverse.hover.01",
+                "value": "$colors.bridging.interactive.type.inverse.hover.01",
                 "type": "color",
                 "description": "Inverse secondary hover text"
               },
               "pressed": {
-                "value": "$colors.bridging.type.inverse.pressed.02",
+                "value": "$colors.bridging.interactive.type.inverse.pressed.02",
                 "type": "color",
                 "description": "Inverse secondary pressed text"
               }
@@ -656,18 +656,18 @@
                 "description": "Inverse tertiary enabled text"
               },
               "hover": {
-                "value": "$colors.bridging.type.inverse.hover.01",
+                "value": "$colors.bridging.interactive.type.inverse.hover.01",
                 "type": "color",
                 "description": "Inverse tertiary hover text"
               },
               "pressed": {
-                "value": "$colors.bridging.type.inverse.pressed.02",
+                "value": "$colors.bridging.interactive.type.inverse.pressed.02",
                 "type": "color",
                 "description": "Inverse tertiary pressed text"
               }
             },
             "disabled": {
-              "value": "$colors.bridging.type.02",
+              "value": "$colors.bridging.interactive.type.02",
               "type": "color",
               "description": "Inverse disabled text"
             }
@@ -675,17 +675,17 @@
           "icon": {
             "primary": {
               "enabled": {
-                "value": "$colors.bridging.icon.04",
+                "value": "$colors.bridging.interactive.icon.04",
                 "type": "color",
                 "description": "Inverse primary enabled icon"
               },
               "hover": {
-                "value": "$colors.bridging.icon.inverse.hover.01",
+                "value": "$colors.bridging.interactive.icon.inverse.hover.01",
                 "type": "color",
                 "description": "Inverse primary hover icon"
               },
               "pressed": {
-                "value": "$colors.bridging.icon.inverse.pressed.02",
+                "value": "$colors.bridging.interactive.icon.inverse.pressed.02",
                 "type": "color",
                 "description": "Inverse primary pressed icon"
               }
@@ -697,12 +697,12 @@
                 "description": "Inverse secondary enabled icon"
               },
               "hover": {
-                "value": "$colors.bridging.icon.inverse.hover.01",
+                "value": "$colors.bridging.interactive.icon.inverse.hover.01",
                 "type": "color",
                 "description": "Inverse secondary hover icon"
               },
               "pressed": {
-                "value": "$colors.bridging.icon.inverse.pressed.02",
+                "value": "$colors.bridging.interactive.icon.inverse.pressed.02",
                 "type": "color",
                 "description": "Inverse secondary pressed icon"
               }
@@ -714,18 +714,18 @@
                 "description": "Inverse tertiary enabled icon"
               },
               "hover": {
-                "value": "$colors.bridging.icon.inverse.hover.01",
+                "value": "$colors.bridging.interactive.icon.inverse.hover.01",
                 "type": "color",
                 "description": "Inverse tertiary hover icon"
               },
               "pressed": {
-                "value": "$colors.bridging.icon.inverse.pressed.02",
+                "value": "$colors.bridging.interactive.icon.inverse.pressed.02",
                 "type": "color",
                 "description": "Inverse tertiary pressed icon"
               }
             },
             "disabled": {
-              "value": "$colors.bridging.icon.02",
+              "value": "$colors.bridging.interactive.icon.02",
               "type": "color",
               "description": "Inverse disabled icon"
             }
@@ -733,7 +733,7 @@
           "border": {
             "secondary": {
               "enabled": {
-                "value": "{colors.bridging.border.05}",
+                "value": "{colors.bridging.interactive.border.05}",
                 "type": "color",
                 "description": "Interactive border colour"
               }
@@ -744,15 +744,15 @@
       "radio": {
         "border": {
           "enabled": {
-            "value": "$colors.bridging.border.02",
+            "value": "$colors.bridging.interactive.border.02",
             "type": "color"
           },
           "hover": {
-            "value": "$colors.bridging.border.01",
+            "value": "$colors.bridging.interactive.border.01",
             "type": "color"
           },
           "pressed": {
-            "value": "$colors.bridging.interactive.pressed.01",
+            "value": "$colors.bridging.interactive.border.01",
             "type": "color"
           },
           "error": {
@@ -776,27 +776,117 @@
         },
         "type": {
           "enabled": {
-            "value": "$colors.bridging.type.01",
+            "value": "$colors.bridging.interactive.type.01",
             "type": "color"
           },
           "disabled": {
-            "value": "$colors.bridging.type.02",
+            "value": "$colors.bridging.interactive.type.02",
             "type": "color"
           }
         },
         "background": {
-          "value": "$colors.bridging.background.ui.01",
+          "value": "$colors.bridging.interactive.background.ui.01",
           "type": "color"
+        },
+        "card": {
+          "border": {
+            "enabled": {
+              "value": "$colors.bridging.interactive.border.02",
+              "type": "color"
+            },
+            "hover": {
+              "value": "$colors.bridging.interactive.border.01",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{colors.bridging.interactive.border.01}",
+              "type": "color"
+            },
+            "error": {
+              "value": "$colors.alert.error",
+              "type": "color"
+            }
+          },
+          "selected": {
+            "border": {
+              "enabled": {
+                "value": "{colors.bridging.interactive.selected.border.default}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{colors.bridging.interactive.selected.border.hover}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{colors.bridging.interactive.selected.border.pressed}",
+                "type": "color"
+              },
+              "error": {
+                "value": "$colors.alert.error",
+                "type": "color"
+              }
+            },
+            "bg": {
+              "default": {
+                "value": "{colors.bridging.interactive.selected.bg.default}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{colors.bridging.interactive.selected.bg.hover}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{colors.bridging.interactive.selected.bg.pressed}",
+                "type": "color"
+              },
+              "error": {
+                "value": "$colors.bridging.interactive.background.ui.01",
+                "type": "color"
+              }
+            }
+          },
+          "type": {
+            "enabled": {
+              "value": "$colors.bridging.interactive.type.01",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "$colors.bridging.interactive.type.02",
+              "type": "color"
+            }
+          },
+          "background": {
+            "tttt": {
+              "value": "$colors.bridging.interactive.background.ui.01",
+              "type": "color"
+            },
+            "error": {
+              "value": "$colors.bridging.interactive.background.ui.01",
+              "type": "color"
+            },
+            "default": {
+              "value": "{colors.neutral.08}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{colors.neutral.07}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{colors.neutral.06}",
+              "type": "color"
+            }
+          }
         }
       },
       "checkbox": {
         "border": {
           "enabled": {
-            "value": "$colors.bridging.border.02",
+            "value": "$colors.bridging.interactive.border.02",
             "type": "color"
           },
           "hover": {
-            "value": "$colors.bridging.border.01",
+            "value": "$colors.bridging.interactive.border.01",
             "type": "color"
           },
           "pressed": {
@@ -806,11 +896,15 @@
           "error": {
             "value": "$colors.alert.error",
             "type": "color"
+          },
+          "disabled": {
+            "value": "$colors.bridging.interactive.disabled.03",
+            "type": "color"
           }
         },
         "background": {
           "unselected": {
-            "value": "$colors.bridging.background.ui.01",
+            "value": "$colors.bridging.interactive.background.ui.01",
             "type": "color"
           },
           "selected": {
@@ -831,54 +925,153 @@
           }
         },
         "icon": {
-          "value": "$colors.bridging.icon.05",
+          "value": "$colors.bridging.interactive.icon.05",
           "type": "color"
+        },
+        "card": {
+          "border": {
+            "enabled": {
+              "value": "$colors.bridging.interactive.border.02",
+              "type": "color"
+            },
+            "hover": {
+              "value": "$colors.bridging.interactive.border.01",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "$colors.bridging.interactive.border.01",
+              "type": "color"
+            },
+            "error": {
+              "value": "$colors.alert.error",
+              "type": "color"
+            }
+          },
+          "selected": {
+            "border": {
+              "enabled": {
+                "value": "{colors.bridging.interactive.selected.border.default}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{colors.bridging.interactive.selected.border.hover}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{colors.bridging.interactive.selected.border.pressed}",
+                "type": "color"
+              },
+              "error": {
+                "value": "$colors.alert.error",
+                "type": "color"
+              }
+            },
+            "bg": {
+              "default": {
+                "value": "{colors.bridging.interactive.selected.bg.default}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{colors.bridging.interactive.selected.bg.hover}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{colors.bridging.interactive.selected.bg.pressed}",
+                "type": "color"
+              },
+              "error": {
+                "value": "$colors.bridging.interactive.background.ui.01",
+                "type": "color"
+              }
+            }
+          },
+          "type": {
+            "enabled": {
+              "value": "$colors.bridging.interactive.type.01",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "$colors.bridging.interactive.type.02",
+              "type": "color"
+            }
+          },
+          "background": {
+            "tttt": {
+              "value": "$colors.bridging.interactive.background.ui.01",
+              "type": "color"
+            },
+            "default": {
+              "value": "{colors.neutral.08}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{colors.neutral.07}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{colors.neutral.06}",
+              "type": "color"
+            },
+            "error": {
+              "value": "{colors.neutral.08}",
+              "type": "color"
+            }
+          }
         }
       },
       "focus": {
-        "value": "$colors.bridging.focus.01",
-        "type": "color"
+        "value": "#1097e0",
+        "type": "color",
+        "description": "Figma- Need to update bridging token as this is a hex.\n- Original: $colors.bridging.focus.01"
       },
       "textInput": {
         "background": {
-          "value": "$colors.bridging.background.ui.01",
-          "type": "color"
+          "value": "$colors.bridging.interactive.background.ui.01",
+          "type": "color",
+          "hover": {
+            "value": "{colors.neutral.07}",
+            "type": "color"
+          }
         },
         "border": {
           "enabled": {
-            "value": "$colors.bridging.border.02",
+            "value": "$colors.bridging.interactive.border.02",
             "type": "color"
           },
           "hover": {
-            "value": "$colors.bridging.border.01",
+            "value": "$colors.bridging.interactive.border.01",
             "type": "color"
           },
           "active": {
-            "value": "$colors.bridging.border.04",
+            "value": "{colors.bridging.interactive.border.01}",
             "type": "color"
           },
           "error": {
             "value": "$colors.alert.error",
             "type": "color"
           }
+        },
+        "icon": {
+          "value": "{colors.bridging.interactive.icon.02}",
+          "type": "color"
         }
       },
       "dropdown": {
         "background": {
-          "value": "$colors.bridging.background.ui.01",
+          "value": "$colors.bridging.interactive.background.ui.01",
           "type": "color"
         },
         "border": {
           "enabled": {
-            "value": "$colors.bridging.border.02",
+            "value": "$colors.bridging.interactive.border.02",
             "type": "color"
           },
           "hover": {
-            "value": "$colors.bridging.border.01",
+            "value": "$colors.bridging.interactive.border.01",
             "type": "color"
           },
           "active": {
-            "value": "$colors.bridging.border.04",
+            "value": "{colors.bridging.interactive.border.01}",
             "type": "color"
           },
           "error": {
@@ -890,15 +1083,19 @@
       "form": {
         "type": {
           "label": {
-            "value": "$colors.bridging.type.01",
+            "value": "$colors.bridging.interactive.type.01",
             "type": "color"
           },
           "hint": {
-            "value": "$colors.bridging.type.02",
+            "value": "$colors.bridging.interactive.type.02",
             "type": "color"
           },
           "input": {
-            "value": "$colors.bridging.type.01",
+            "value": "$colors.bridging.interactive.type.01",
+            "type": "color"
+          },
+          "placeholder": {
+            "value": "$colors.bridging.interactive.type.03",
             "type": "color"
           },
           "validation": {
@@ -907,11 +1104,11 @@
               "type": "color"
             },
             "success": {
-              "value": "$colors.bridging.type.01",
+              "value": "$colors.bridging.interactive.type.01",
               "type": "color"
             },
             "information": {
-              "value": "$colors.bridging.type.01",
+              "value": "$colors.bridging.interactive.type.01",
               "type": "color"
             }
           }
@@ -923,29 +1120,37 @@
               "type": "color"
             },
             "success": {
-              "value": "$colors.alert.success",
+              "value": "$colors.bridging.interactive.type.01",
               "type": "color"
             },
             "information": {
-              "value": "$colors.alert.information",
+              "value": "$colors.bridging.interactive.type.01",
               "type": "color"
             }
+          },
+          "subtle": {
+            "value": "$colors.bridging.interactive.type.02",
+            "type": "color"
+          },
+          "enabled": {
+            "value": "$colors.bridging.interactive.type.01",
+            "type": "color"
           }
         },
         "modal": {
           "type": {
             "header": {
-              "value": "$colors.bridging.type.01",
+              "value": "$colors.bridging.interactive.type.01",
               "type": "color"
             },
             "copy": {
-              "value": "$colors.bridging.type.01",
+              "value": "$colors.bridging.interactive.type.01",
               "type": "color"
             }
           },
           "background": {
             "enabled": {
-              "value": "$colors.bridging.background.level.05",
+              "value": "$colors.bridging.interactive.background.level.05",
               "type": "color"
             }
           }
@@ -985,11 +1190,11 @@
         "interactive": {
           "border": {
             "enabled": {
-              "value": "{colors.bridging.border.03}",
+              "value": "{colors.bridging.interactive.border.03}",
               "type": "color"
             },
             "hover": {
-              "value": "{colors.bridging.border.03}",
+              "value": "{colors.bridging.interactive.border.03}",
               "type": "color"
             },
             "pressed": {
@@ -997,7 +1202,7 @@
               "type": "color"
             },
             "selected": {
-              "value": "$colors.bridging.border.04",
+              "value": "$colors.bridging.interactive.border.04",
               "type": "color"
             },
             "error": {
@@ -1007,27 +1212,52 @@
           },
           "background": {
             "enabled": {
-              "value": "$colors.bridging.background.ui.01",
+              "value": "$colors.bridging.interactive.background.ui.01",
               "type": "color",
               "description": "Align with base UI value"
             },
             "hover": {
-              "value": "$colors.bridging.background.level.01",
+              "value": "$colors.bridging.interactive.background.level.01",
               "type": "color",
               "description": "Allowance for darkmode value"
             },
             "pressed": {
-              "value": "$colors.bridging.background.level.02",
+              "value": "$colors.bridging.interactive.background.level.02",
               "type": "color",
               "description": "Allowance for darkmode value"
             },
             "selected": {
-              "value": "$colors.bridging.background.level.01",
+              "value": "$colors.bridging.interactive.background.level.01",
               "type": "color",
-              "description": "Allowance for darkmode value"
+              "description": "Allowance for darkmode value",
+              "enabled": {
+                "value": "$colors.bridging.interactive.background.ui.01",
+                "type": "color",
+                "description": "Align with base UI value"
+              },
+              "hover": {
+                "value": "$colors.bridging.interactive.background.level.01",
+                "type": "color",
+                "description": "Allowance for darkmode value"
+              },
+              "pressed": {
+                "value": "$colors.bridging.interactive.background.level.02",
+                "type": "color",
+                "description": "Allowance for darkmode value"
+              },
+              "selected": {
+                "value": "$colors.bridging.interactive.background.level.01",
+                "type": "color",
+                "description": "Allowance for darkmode value"
+              },
+              "error": {
+                "value": "$colors.bridging.interactive.background.ui.01",
+                "type": "color",
+                "description": "Allowance for darkmode value"
+              }
             },
             "error": {
-              "value": "$colors.bridging.background.ui.01",
+              "value": "$colors.bridging.interactive.background.ui.01",
               "type": "color",
               "description": "Allowance for darkmode value"
             }
@@ -1035,22 +1265,22 @@
         },
         "static": {
           "border": {
-            "value": "$colors.bridging.border.03",
+            "value": "$colors.bridging.interactive.border.03",
             "type": "color"
           },
           "background": {
             "level0": {
-              "value": "$colors.bridging.background.ui.01",
+              "value": "$colors.bridging.interactive.background.ui.01",
               "type": "color",
               "description": "Align with base UI value"
             },
             "level1": {
-              "value": "$colors.bridging.background.level.01",
+              "value": "$colors.bridging.interactive.background.level.01",
               "type": "color",
               "description": "Allowance for darkmode value"
             },
             "level5": {
-              "value": "$colors.bridging.background.level.05",
+              "value": "$colors.bridging.interactive.background.level.05",
               "type": "color",
               "description": "Allowance for darkmode value"
             }
@@ -1058,11 +1288,11 @@
         },
         "type": {
           "header": {
-            "value": "$colors.bridging.type.01",
+            "value": "$colors.bridging.interactive.type.01",
             "type": "color"
           },
           "body": {
-            "value": "$colors.bridging.type.01",
+            "value": "$colors.bridging.interactive.type.01",
             "type": "color"
           }
         }
@@ -1071,7 +1301,7 @@
         "strip": {
           "background": {
             "promo": {
-              "value": "$colors.alert.information",
+              "value": "$colors.bridging.interactive.03",
               "type": "color"
             },
             "warning": {
@@ -1118,15 +1348,15 @@
       },
       "typography": {
         "enabled": {
-          "value": "$colors.bridging.type.01",
+          "value": "$colors.bridging.interactive.type.01",
           "type": "color"
         },
         "muted": {
-          "value": "$colors.bridging.type.02",
+          "value": "$colors.bridging.interactive.type.02",
           "type": "color"
         },
         "highlight": {
-          "value": "$colors.bridging.type.highlight.01",
+          "value": "$colors.bridging.interactive.type.highlight.01",
           "type": "color"
         },
         "error": {
@@ -1135,25 +1365,25 @@
         },
         "inverse": {
           "enabled": {
-            "value": "$colors.bridging.type.05",
+            "value": "$colors.bridging.interactive.type.05",
             "type": "color"
           }
         },
         "secondary": {
           "highlight": {
-            "value": "$colors.bridging.type.highlight.02",
+            "value": "$colors.bridging.interactive.type.highlight.02",
             "type": "color"
           }
         }
       },
       "scrim": {
-        "value": "$colors.bridging.background.modal",
+        "value": "$colors.bridging.interactive.background.modal",
         "type": "color"
       },
       "modal": {
         "static": {
           "dividingLine": {
-            "value": "$colors.bridging.border.03",
+            "value": "$colors.bridging.interactive.border.03",
             "type": "color"
           }
         }
@@ -1347,6 +1577,520 @@
             }
           }
         }
+      }
+    }
+  },
+  "typography": {
+    "component": {
+      "header": {
+        "overline01 (18)": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "$fontWeights.component.bold",
+            "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.02",
+            "fontSize": "$fontSizes.lg.03",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03"
+          },
+          "type": "typography"
+        },
+        "overline02 (14)": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "$fontWeights.component.bold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.01",
+            "fontSize": "$fontSizes.lg.01",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.01"
+          },
+          "type": "typography"
+        },
+        "sm": {
+          "display (52)": {
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.sm.10",
+              "fontSize": "$fontSizes.sm.10",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.10"
+            },
+            "type": "typography"
+          },
+          "title01 (40)": {
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.sm.08",
+              "fontSize": "$fontSizes.sm.08",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.08"
+            },
+            "type": "typography"
+          },
+          "title02 (28)": {
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.sm.07",
+              "fontSize": "$fontSizes.sm.07",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.07"
+            },
+            "type": "typography"
+          },
+          "title03 (24)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.sm.06",
+              "fontSize": "$fontSizes.sm.06",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.06"
+            },
+            "type": "typography"
+          },
+          "title04 (22)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.03",
+              "fontSize": "$fontSizes.sm.05",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.05"
+            },
+            "type": "typography"
+          },
+          "title05 (18)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$fontSizes.sm.05",
+              "fontSize": "$fontSizes.sm.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.03"
+            },
+            "type": "typography"
+          },
+          "title06 (16)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.sm.02",
+              "fontSize": "$fontSizes.sm.02",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.02"
+            },
+            "type": "typography"
+          }
+        },
+        "md": {
+          "display (58)": {
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.displayRatio * $fontSizes.md.10",
+              "fontSize": "$fontSizes.md.10",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.10"
+            },
+            "type": "typography"
+          },
+          "title01 (44)": {
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.08",
+              "fontSize": "$fontSizes.md.08",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.08"
+            },
+            "type": "typography"
+          },
+          "title02 (32)": {
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.07",
+              "fontSize": "$fontSizes.md.07",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.07"
+            },
+            "type": "typography"
+          },
+          "title03 (26)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.06",
+              "fontSize": "$fontSizes.md.06",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.06"
+            },
+            "type": "typography"
+          },
+          "title04 (24)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.05",
+              "fontSize": "$fontSizes.md.05",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.05"
+            },
+            "type": "typography"
+          },
+          "title05 (20)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.04",
+              "fontSize": "$fontSizes.md.04",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.04"
+            },
+            "type": "typography"
+          },
+          "title06 (18)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.03",
+              "fontSize": "$fontSizes.md.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.03"
+            },
+            "type": "typography"
+          }
+        },
+        "lg": {
+          "display (64)": {
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.10",
+              "fontSize": "$fontSizes.lg.10",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.10"
+            },
+            "type": "typography"
+          },
+          "title01 (48)": {
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.08",
+              "fontSize": "$fontSizes.lg.08",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.08"
+            },
+            "type": "typography"
+          },
+          "title02 (36)": {
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.07",
+              "fontSize": "$fontSizes.lg.07",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.07"
+            },
+            "type": "typography"
+          },
+          "title03 (28)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.06",
+              "fontSize": "$fontSizes.lg.06",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+            },
+            "type": "typography"
+          },
+          "title04 (24)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.05",
+              "fontSize": "$fontSizes.lg.05",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.05"
+            },
+            "type": "typography"
+          },
+          "title05 (20)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.04",
+              "fontSize": "$fontSizes.lg.04",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.04"
+            },
+            "type": "typography"
+          },
+          "title06 (18)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.03",
+              "fontSize": "$fontSizes.lg.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03"
+            },
+            "type": "typography"
+          }
+        }
+      },
+      "body": {
+        "sm": {
+          "bodyXXL (20)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.04",
+              "fontSize": "$fontSizes.sm.04",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.04"
+            },
+            "type": "typography"
+          },
+          "bodyXL (18)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.03",
+              "fontSize": "$fontSizes.sm.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.03"
+            },
+            "type": "typography"
+          },
+          "bodyL (16)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.02",
+              "fontSize": "$fontSizes.sm.02",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.02"
+            },
+            "type": "typography"
+          },
+          "bodyL (16) - Roomy": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.roomyRatio * $fontSizes.sm.02",
+              "fontSize": "$fontSizes.sm.02",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.02"
+            },
+            "type": "typography"
+          },
+          "bodyM (14)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.01",
+              "fontSize": "$fontSizes.sm.01",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.01"
+            },
+            "type": "typography"
+          },
+          "bodyS (14)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.01",
+              "fontSize": "$fontSizes.sm.01",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.01"
+            },
+            "type": "typography"
+          },
+          "bodyXS (12)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.00",
+              "fontSize": "$fontSizes.sm.00",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.00"
+            },
+            "type": "typography"
+          }
+        },
+        "md": {
+          "bodyXXL (24)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.05",
+              "fontSize": "$fontSizes.md.05",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.05"
+            },
+            "type": "typography"
+          },
+          "bodyXL (20)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.04",
+              "fontSize": "$fontSizes.md.04",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.04"
+            },
+            "type": "typography"
+          },
+          "bodyL (18)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.03",
+              "fontSize": "$fontSizes.md.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.03"
+            },
+            "type": "typography"
+          },
+          "bodyL (18) - Roomy": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.roomyRatio * $fontSizes.md.03",
+              "fontSize": "$fontSizes.md.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.03"
+            },
+            "type": "typography"
+          },
+          "bodyM (16)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.02",
+              "fontSize": "$fontSizes.md.02",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.02"
+            },
+            "type": "typography"
+          },
+          "bodyS (14)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.01",
+              "fontSize": "$fontSizes.md.01",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.01"
+            },
+            "type": "typography"
+          },
+          "bodyXS (12)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.00",
+              "fontSize": "$fontSizes.md.00",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.00"
+            },
+            "type": "typography"
+          }
+        },
+        "lg": {
+          "bodyXXL (28)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.06",
+              "fontSize": "$fontSizes.lg.06",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+            },
+            "type": "typography"
+          },
+          "bodyXL (22)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.05",
+              "fontSize": "$fontSizes.sm.05",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.05"
+            },
+            "type": "typography"
+          },
+          "bodyL (18)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.03",
+              "fontSize": "$fontSizes.lg.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03"
+            },
+            "type": "typography"
+          },
+          "bodyL (18) - Roomy": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.roomyRatio * $fontSizes.lg.03",
+              "fontSize": "$fontSizes.lg.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03"
+            },
+            "type": "typography"
+          },
+          "bodyM (16)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.02",
+              "fontSize": "$fontSizes.lg.02",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.02"
+            },
+            "type": "typography"
+          },
+          "bodyS (14)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.01",
+              "fontSize": "$fontSizes.lg.01",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.01"
+            },
+            "type": "typography"
+          },
+          "bodyXS (12)": {
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.00",
+              "fontSize": "$fontSizes.lg.00",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.00"
+            },
+            "type": "typography"
+          }
+        }
+      },
+      "button": {
+        "sm": {
+          "value": {
+            "fontFamily": "$fontFamilies.component.button",
+            "fontWeight": "$fontWeights.component.semibold",
+            "lineHeight": "$lineHeights.component.button.sm * $fontSizes.component.button.sm",
+            "fontSize": "$fontSizes.component.button.sm",
+            "paragraphSpacing": "$paragraphSpacing.component.button.sm * $fontSizes.component.button.sm"
+          },
+          "type": "typography"
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "$fontFamilies.component.button",
+            "fontWeight": "$fontWeights.component.semibold",
+            "lineHeight": "$lineHeights.component.button.lg * $fontSizes.component.button.lg",
+            "fontSize": "$fontSizes.component.button.lg",
+            "paragraphSpacing": "$paragraphSpacing.component.button.lg * $fontSizes.component.button.lg"
+          },
+          "type": "typography"
+        },
+        "underline": {
+          "sm": {
+            "value": {
+              "fontFamily": "$fontFamilies.component.button",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$lineHeights.component.button.sm * $fontSizes.component.button.sm",
+              "fontSize": "$fontSizes.component.button.sm",
+              "paragraphSpacing": "$paragraphSpacing.component.button.sm * $fontSizes.component.button.sm"
+            },
+            "type": "typography"
+          },
+          "lg": {
+            "value": {
+              "fontFamily": "$fontFamilies.component.button",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$lineHeights.component.button.lg * $fontSizes.component.button.lg",
+              "fontSize": "$fontSizes.component.button.lg",
+              "paragraphSpacing": "$paragraphSpacing.component.button.lg * $fontSizes.component.button.lg"
+            },
+            "type": "typography"
+          }
+        }
+      },
+      "radio": {
+        "value": {
+          "fontFamily": "$fontFamilies.component.form",
+          "fontWeight": "$fontWeights.component.regular",
+          "lineHeight": "$lineHeights.component.form * $fontSizes.component.form.input",
+          "fontSize": "$fontSizes.component.form.input",
+          "paragraphSpacing": "$paragraphSpacing.component.form * $fontSizes.component.form.input"
+        },
+        "type": "typography"
       }
     }
   },
