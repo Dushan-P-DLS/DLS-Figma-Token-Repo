@@ -1026,7 +1026,7 @@
       },
       "textInput": {
         "background": {
-          "value": "$colors.bridging.interactive.background.ui.01",
+          "value": "{color.input.bg.enabled}",
           "type": "color",
           "hover": {
             "value": "{colors.neutral.07}",
@@ -1034,7 +1034,7 @@
           }
         },
         "hover": {
-          "value": "$colors.bridging.interactive.background.ui.01",
+          "value": "{color.input.bg.hover}",
           "type": "color",
           "hover": {
             "value": "{colors.neutral.07}",
@@ -1043,7 +1043,7 @@
           "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
         },
         "active": {
-          "value": "$colors.bridging.interactive.background.ui.01",
+          "value": "{color.input.bg.active}",
           "type": "color",
           "hover": {
             "value": "{colors.neutral.07}",
@@ -1052,7 +1052,7 @@
           "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
         },
         "disabled": {
-          "value": "$colors.bridging.interactive.background.ui.01",
+          "value": "{color.input.bg.error}",
           "type": "color",
           "hover": {
             "value": "{colors.neutral.07}",
