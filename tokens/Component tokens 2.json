@@ -1062,19 +1062,19 @@
         },
         "border": {
           "enabled": {
-            "value": "$colors.bridging.interactive.border.02",
+            "value": "{color.input.border.enabled}",
             "type": "color"
           },
           "hover": {
-            "value": "$colors.bridging.interactive.border.01",
+            "value": "{color.input.border.hover}",
             "type": "color"
           },
           "active": {
-            "value": "{colors.bridging.interactive.border.01}",
+            "value": "{color.input.border.active}",
             "type": "color"
           },
           "error": {
-            "value": "$colors.alert.error",
+            "value": "{color.input.border.error}",
             "type": "color"
           }
         },
