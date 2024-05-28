@@ -791,19 +791,23 @@
         "card": {
           "border": {
             "enabled": {
-              "value": "$colors.bridging.interactive.border.02",
+              "value": "{color.input.border.enabled}",
               "type": "color"
             },
             "hover": {
-              "value": "$colors.bridging.interactive.border.01",
+              "value": "{color.input.border.hover}",
               "type": "color"
             },
             "pressed": {
-              "value": "{colors.bridging.interactive.border.01}",
+              "value": "{color.input.border.active}",
               "type": "color"
             },
             "error": {
-              "value": "$colors.alert.error",
+              "value": "{color.input.border.error}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{color.input.border.disabled}",
               "type": "color"
             }
           },
@@ -824,6 +828,10 @@
               "error": {
                 "value": "$colors.alert.error",
                 "type": "color"
+              },
+              "disabled": {
+                "value": "{color.input.border.disabled}",
+                "type": "color"
               }
             },
             "bg": {
@@ -840,7 +848,11 @@
                 "type": "color"
               },
               "error": {
-                "value": "$colors.bridging.interactive.background.ui.01",
+                "value": "{color.input.bg.error}",
+                "type": "color"
+              },
+              "error-copy": {
+                "value": "{color.input.bg.disabled}",
                 "type": "color"
               }
             }
@@ -856,24 +868,24 @@
             }
           },
           "background": {
-            "tttt": {
-              "value": "$colors.bridging.interactive.background.ui.01",
-              "type": "color"
-            },
-            "error": {
-              "value": "$colors.bridging.interactive.background.ui.01",
-              "type": "color"
-            },
             "default": {
-              "value": "{colors.neutral.08}",
+              "value": "{color.input.bg.enabled}",
               "type": "color"
             },
             "hover": {
-              "value": "{colors.neutral.07}",
+              "value": "{color.input.bg.hover}",
               "type": "color"
             },
             "pressed": {
-              "value": "{colors.neutral.06}",
+              "value": "{color.input.bg.active}",
+              "type": "color"
+            },
+            "error": {
+              "value": "red",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{color.input.bg.disabled}",
               "type": "color"
             }
           }
@@ -996,24 +1008,24 @@
             }
           },
           "background": {
-            "tttt": {
-              "value": "$colors.bridging.interactive.background.ui.01",
-              "type": "color"
-            },
             "default": {
-              "value": "{colors.neutral.08}",
+              "value": "{color.input.bg.enabled}",
               "type": "color"
             },
             "hover": {
-              "value": "{colors.neutral.07}",
+              "value": "{color.input.bg.hover}",
               "type": "color"
             },
             "pressed": {
-              "value": "{colors.neutral.06}",
+              "value": "{color.input.bg.active}",
               "type": "color"
             },
             "error": {
-              "value": "{colors.neutral.08}",
+              "value": "{color.input.bg.error}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{color.input.bg.disabled}",
               "type": "color"
             }
           }
