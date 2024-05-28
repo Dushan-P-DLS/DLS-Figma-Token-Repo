@@ -788,159 +788,7 @@
           "value": "$colors.bridging.interactive.background.ui.01",
           "type": "color"
         },
-        "card": {
-          "border": {
-            "enabled": {
-              "value": "{color.input.border.enabled}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{color.input.border.hover}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{color.input.border.active}",
-              "type": "color"
-            },
-            "error": {
-              "value": "{color.input.border.error}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{color.input.border.disabled}",
-              "type": "color"
-            }
-          },
-          "selected": {
-            "border": {
-              "enabled": {
-                "value": "{colors.bridging.interactive.selected.border.default}",
-                "type": "color"
-              },
-              "hover": {
-                "value": "{colors.bridging.interactive.selected.border.hover}",
-                "type": "color"
-              },
-              "pressed": {
-                "value": "{colors.bridging.interactive.selected.border.pressed}",
-                "type": "color"
-              },
-              "error": {
-                "value": "$colors.alert.error",
-                "type": "color"
-              },
-              "disabled": {
-                "value": "{color.input.border.disabled}",
-                "type": "color"
-              }
-            },
-            "bg": {
-              "default": {
-                "value": "{colors.bridging.interactive.selected.bg.default}",
-                "type": "color"
-              },
-              "hover": {
-                "value": "{colors.bridging.interactive.selected.bg.hover}",
-                "type": "color"
-              },
-              "pressed": {
-                "value": "{colors.bridging.interactive.selected.bg.pressed}",
-                "type": "color"
-              },
-              "error": {
-                "value": "{color.input.bg.error}",
-                "type": "color"
-              },
-              "error-copy": {
-                "value": "{color.input.bg.disabled}",
-                "type": "color"
-              }
-            }
-          },
-          "type": {
-            "enabled": {
-              "value": "$colors.bridging.interactive.type.01",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "$colors.bridging.interactive.type.02",
-              "type": "color"
-            }
-          },
-          "background": {
-            "default": {
-              "value": "{color.input.bg.enabled}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{color.input.bg.hover}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{color.input.bg.active}",
-              "type": "color"
-            },
-            "error": {
-              "value": "red",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{color.input.bg.disabled}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "checkbox": {
-        "border": {
-          "enabled": {
-            "value": "$colors.bridging.interactive.border.02",
-            "type": "color"
-          },
-          "hover": {
-            "value": "$colors.bridging.interactive.border.01",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "$colors.bridging.interactive.pressed.01",
-            "type": "color"
-          },
-          "error": {
-            "value": "$colors.alert.error",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "$colors.bridging.interactive.disabled.03",
-            "type": "color"
-          }
-        },
-        "background": {
-          "unselected": {
-            "value": "$colors.bridging.interactive.background.ui.01",
-            "type": "color"
-          },
-          "selected": {
-            "value": "$colors.bridging.interactive.01",
-            "type": "color"
-          },
-          "hover": {
-            "value": "$colors.bridging.interactive.hover.01",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "$colors.bridging.interactive.pressed.01",
-            "type": "color"
-          },
-          "error": {
-            "value": "$colors.alert.error",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "value": "$colors.bridging.interactive.icon.05",
-          "type": "color"
-        },
-        "card": {
+        "card2": {
           "border": {
             "enabled": {
               "value": "$colors.bridging.interactive.border.02",
@@ -1031,6 +879,56 @@
           }
         }
       },
+      "checkbox": {
+        "border": {
+          "enabled": {
+            "value": "$colors.bridging.interactive.border.02",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$colors.bridging.interactive.border.01",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "$colors.bridging.interactive.pressed.01",
+            "type": "color"
+          },
+          "error": {
+            "value": "$colors.alert.error",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "$colors.bridging.interactive.disabled.03",
+            "type": "color"
+          }
+        },
+        "background": {
+          "unselected": {
+            "value": "$colors.bridging.interactive.background.ui.01",
+            "type": "color"
+          },
+          "selected": {
+            "value": "$colors.bridging.interactive.01",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$colors.bridging.interactive.hover.01",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "$colors.bridging.interactive.pressed.01",
+            "type": "color"
+          },
+          "error": {
+            "value": "$colors.alert.error",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "value": "$colors.bridging.interactive.icon.05",
+          "type": "color"
+        }
+      },
       "focus": {
         "value": "#1097e0",
         "type": "color",
@@ -1063,8 +961,17 @@
           },
           "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
         },
+        "error": {
+          "value": "green",
+          "type": "color",
+          "hover": {
+            "value": "{colors.neutral.07}",
+            "type": "color"
+          },
+          "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
+        },
         "disabled": {
-          "value": "{color.input.bg.error}",
+          "value": "{color.input.bg.disabled}",
           "type": "color",
           "hover": {
             "value": "{colors.neutral.07}",
