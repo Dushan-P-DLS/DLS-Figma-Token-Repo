@@ -799,30 +799,38 @@
               "type": "color"
             },
             "pressed": {
-              "value": "{colors.bridging.interactive.border.01}",
+              "value": "$colors.bridging.interactive.border.01",
               "type": "color"
             },
             "error": {
               "value": "$colors.alert.error",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{color.input.bg.disabled}",
               "type": "color"
             }
           },
           "selected": {
             "border": {
               "enabled": {
-                "value": "{colors.bridging.interactive.selected.border.default}",
+                "value": "{color.input.selected.border.enabled}",
                 "type": "color"
               },
               "hover": {
-                "value": "{colors.bridging.interactive.selected.border.hover}",
+                "value": "{color.input.selected.border.hover}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{colors.bridging.interactive.selected.border.pressed}",
+                "value": "{color.input.selected.border.active}",
                 "type": "color"
               },
               "error": {
                 "value": "$colors.alert.error",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{color.input.bg.disabled}",
                 "type": "color"
               }
             },
@@ -840,7 +848,11 @@
                 "type": "color"
               },
               "error": {
-                "value": "$colors.bridging.interactive.background.ui.01",
+                "value": "{color.input.bg.error}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{color.input.bg.disabled}",
                 "type": "color"
               }
             }
@@ -861,7 +873,7 @@
               "type": "color"
             },
             "error": {
-              "value": "$colors.bridging.interactive.background.ui.01",
+              "value": "{colors.neutral.08}",
               "type": "color"
             },
             "default": {
@@ -950,19 +962,23 @@
           "selected": {
             "border": {
               "enabled": {
-                "value": "{colors.bridging.interactive.selected.border.default}",
+                "value": "{color.input.selected.border.enabled}",
                 "type": "color"
               },
               "hover": {
-                "value": "{colors.bridging.interactive.selected.border.hover}",
+                "value": "{color.input.selected.border.hover}",
                 "type": "color"
               },
               "pressed": {
-                "value": "{colors.bridging.interactive.selected.border.pressed}",
+                "value": "{color.input.selected.border.active}",
                 "type": "color"
               },
               "error": {
                 "value": "$colors.alert.error",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{color.input.bg.disabled}",
                 "type": "color"
               }
             },
@@ -980,7 +996,11 @@
                 "type": "color"
               },
               "error": {
-                "value": "$colors.bridging.interactive.background.ui.01",
+                "value": "{color.input.bg.error}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{color.input.bg.disabled}",
                 "type": "color"
               }
             }
@@ -1051,8 +1071,17 @@
           },
           "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
         },
-        "disabled": {
+        "error": {
           "value": "{color.input.bg.error}",
+          "type": "color",
+          "hover": {
+            "value": "{colors.neutral.07}",
+            "type": "color"
+          },
+          "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
+        },
+        "disabled": {
+          "value": "{color.input.bg.disabled}",
           "type": "color",
           "hover": {
             "value": "{colors.neutral.07}",
@@ -1075,6 +1104,10 @@
           },
           "error": {
             "value": "{color.input.border.error}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.input.border.disabled}",
             "type": "color"
           }
         },
@@ -1125,6 +1158,10 @@
             "value": "$colors.bridging.interactive.type.03",
             "type": "color"
           },
+          "disabled": {
+            "value": "{colors.static.neutral.03}",
+            "type": "color"
+          },
           "validation": {
             "error": {
               "value": "$colors.alert.error",
@@ -1157,6 +1194,10 @@
           },
           "subtle": {
             "value": "$colors.bridging.interactive.type.02",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{colors.static.neutral.03}",
             "type": "color"
           },
           "enabled": {
@@ -1442,8 +1483,17 @@
           },
           "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
         },
-        "disabled": {
+        "error": {
           "value": "{color.input.bg.error}",
+          "type": "color",
+          "hover": {
+            "value": "{colors.neutral.07}",
+            "type": "color"
+          },
+          "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
+        },
+        "disabled": {
+          "value": "{color.input.bg.disabled}",
           "type": "color",
           "hover": {
             "value": "{colors.neutral.07}",
@@ -1466,6 +1516,10 @@
           },
           "error": {
             "value": "{color.input.border.error}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.input.border.disabled}",
             "type": "color"
           }
         },
@@ -1534,65 +1588,6 @@
         }
       },
       "checkbox-card": {
-        "background": {
-          "value": "{color.input.bg.enabled}",
-          "type": "color",
-          "hover": {
-            "value": "{colors.neutral.07}",
-            "type": "color"
-          }
-        },
-        "hover": {
-          "value": "{color.input.bg.hover}",
-          "type": "color",
-          "hover": {
-            "value": "{colors.neutral.07}",
-            "type": "color"
-          },
-          "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
-        },
-        "active": {
-          "value": "{color.input.bg.active}",
-          "type": "color",
-          "hover": {
-            "value": "{colors.neutral.07}",
-            "type": "color"
-          },
-          "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
-        },
-        "disabled": {
-          "value": "{color.input.bg.error}",
-          "type": "color",
-          "hover": {
-            "value": "{colors.neutral.07}",
-            "type": "color"
-          },
-          "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
-        },
-        "border": {
-          "enabled": {
-            "value": "{color.input.border.enabled}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{color.input.border.hover}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{color.input.border.active}",
-            "type": "color"
-          },
-          "error": {
-            "value": "{color.input.border.error}",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "value": "{colors.bridging.interactive.icon.02}",
-          "type": "color"
-        }
-      },
-      "radio-card": {
         "background": {
           "value": "{color.input.bg.enabled}",
           "type": "color",
