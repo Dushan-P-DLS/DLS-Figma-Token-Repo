@@ -846,7 +846,7 @@
                 "type": "color"
               },
               "disabled": {
-                "value": "{color.input.border.disabled}",
+                "value": "{colors.bridging.interactive.input.border.disabled}",
                 "type": "color"
               }
             },
@@ -864,11 +864,11 @@
                 "type": "color"
               },
               "error": {
-                "value": "{color.input.bg.error}",
+                "value": "{colors.bridging.interactive.input.bg.error}",
                 "type": "color"
               },
               "disabled": {
-                "value": "{color.input.bg.disabled}",
+                "value": "{colors.bridging.interactive.input.bg.disabled}",
                 "type": "color"
               }
             }
@@ -885,23 +885,23 @@
           },
           "bg": {
             "default": {
-              "value": "{color.input.bg.enabled}",
+              "value": "{colors.bridging.interactive.input.bg.enabled}",
               "type": "color"
             },
             "hover": {
-              "value": "{color.input.bg.hover}",
+              "value": "{colors.bridging.interactive.input.bg.hover}",
               "type": "color"
             },
             "pressed": {
-              "value": "{color.input.bg.active}",
+              "value": "{colors.bridging.interactive.input.bg.active}",
               "type": "color"
             },
             "error": {
-              "value": "{color.input.bg.error}",
+              "value": "{colors.bridging.interactive.input.bg.error}",
               "type": "color"
             },
             "disabled": {
-              "value": "{color.input.bg.disabled}",
+              "value": "{colors.bridging.interactive.input.bg.disabled}",
               "type": "color"
             }
           }
@@ -994,7 +994,7 @@
                 "type": "color"
               },
               "disabled": {
-                "value": "{color.input.border.disabled}",
+                "value": "{colors.bridging.interactive.input.border.disabled}",
                 "type": "color"
               }
             },
@@ -1012,11 +1012,11 @@
                 "type": "color"
               },
               "error": {
-                "value": "{color.input.bg.error}",
+                "value": "{colors.bridging.interactive.input.bg.error}",
                 "type": "color"
               },
               "disabled": {
-                "value": "{color.input.bg.disabled}",
+                "value": "{colors.bridging.interactive.input.bg.disabled}",
                 "type": "color"
               }
             }
@@ -1033,23 +1033,23 @@
           },
           "bg": {
             "default": {
-              "value": "{color.input.bg.active}",
+              "value": "{colors.bridging.interactive.input.bg.active}",
               "type": "color"
             },
             "hover": {
-              "value": "{color.input.bg.hover}",
+              "value": "{colors.bridging.interactive.input.bg.hover}",
               "type": "color"
             },
             "pressed": {
-              "value": "{color.input.bg.active}",
+              "value": "{colors.bridging.interactive.input.bg.active}",
               "type": "color"
             },
             "error": {
-              "value": "{color.input.bg.error}",
+              "value": "{colors.bridging.interactive.input.bg.error}",
               "type": "color"
             },
             "disabled": {
-              "value": "{color.input.bg.disabled}",
+              "value": "{colors.bridging.interactive.input.bg.disabled}",
               "type": "color"
             }
           }
@@ -1062,7 +1062,7 @@
       },
       "textInput": {
         "background": {
-          "value": "{color.input.bg.enabled}",
+          "value": "{colors.bridging.interactive.input.bg.enabled}",
           "type": "color",
           "hover": {
             "value": "{colors.neutral.07}",
@@ -1070,7 +1070,7 @@
           }
         },
         "hover": {
-          "value": "{color.input.bg.hover}",
+          "value": "{colors.bridging.interactive.input.bg.hover}",
           "type": "color",
           "hover": {
             "value": "{colors.neutral.07}",
@@ -1079,7 +1079,7 @@
           "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
         },
         "active": {
-          "value": "{color.input.bg.active}",
+          "value": "{colors.bridging.interactive.input.bg.active}",
           "type": "color",
           "hover": {
             "value": "{colors.neutral.07}",
@@ -1088,7 +1088,7 @@
           "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
         },
         "error": {
-          "value": "{color.input.bg.error}",
+          "value": "{colors.bridging.interactive.input.bg.error}",
           "type": "color",
           "hover": {
             "value": "{colors.neutral.07}",
@@ -1097,7 +1097,7 @@
           "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
         },
         "disabled": {
-          "value": "{color.input.bg.disabled}",
+          "value": "{colors.bridging.interactive.input.bg.disabled}",
           "type": "color",
           "hover": {
             "value": "{colors.neutral.07}",
@@ -1107,19 +1107,19 @@
         },
         "border": {
           "enabled": {
-            "value": "{color.input.border.enabled}",
+            "value": "{colors.bridging.interactive.input.border.enabled}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.input.border.hover}",
+            "value": "{colors.bridging.interactive.input.border.hover}",
             "type": "color"
           },
           "active": {
-            "value": "{color.input.border.active}",
+            "value": "{colors.bridging.interactive.input.border.active}",
             "type": "color"
           },
           "error": {
-            "value": "{color.input.border.error}",
+            "value": "{colors.bridging.interactive.input.border.error}",
             "type": "color"
           }
         },
