@@ -163,7 +163,8 @@
         "padding": {
           "icon": {
             "value": "$spacing.bridging.md",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "🗑️This isn't being used anywhere."
           },
           "breakpoint": {
             "sm": {
@@ -189,51 +190,51 @@
         "01": {
           "value": "$colors.primary.01",
           "type": "color",
-          "description": "Dark Blue"
+          "description": "🗑️ Not being used."
         },
         "02": {
           "value": "$colors.primary.02",
           "type": "color",
-          "description": "Light Blue"
+          "description": "Light Blue\n🗑️"
         }
       },
       "secondary": {
         "01": {
           "value": "$colors.secondary.01",
           "type": "color",
-          "description": "Yellow Light"
+          "description": "Yellow Light\n🗑️ "
         },
         "02": {
           "value": "$colors.secondary.02",
           "type": "color",
-          "description": "Yellow Dark"
+          "description": "Yellow Dark\n🗑️"
         },
         "03": {
           "value": "$colors.secondary.03",
           "type": "color",
-          "description": "Purple Light"
+          "description": "Purple Light\n🗑️"
         },
         "04": {
           "value": "$colors.secondary.04",
           "type": "color",
-          "description": "Purple Dark"
+          "description": "Purple Dark\n🗑️"
         }
       },
       "tertiary": {
         "01": {
           "value": "$colors.tertiary.01",
           "type": "color",
-          "description": "Green Light"
+          "description": "Green Light\n🗑️"
         },
         "02": {
           "value": "$colors.tertiary.02",
           "type": "color",
-          "description": "Green Dark"
+          "description": "Green Dark\n🗑️"
         },
         "03": {
           "value": "$colors.tertiary.03",
           "type": "color",
-          "description": "Pink Light"
+          "description": "Pink Light\n🗑️"
         },
         "04": {
           "value": "$colors.tertiary.04",
@@ -1241,17 +1242,20 @@
           "type": {
             "header": {
               "value": "$colors.bridging.interactive.type.01",
-              "type": "color"
+              "type": "color",
+              "description": "🗑️This isn't been used anywhere."
             },
             "copy": {
               "value": "$colors.bridging.interactive.type.01",
-              "type": "color"
+              "type": "color",
+              "description": "🗑️Not been used anywhere"
             }
           },
           "background": {
             "enabled": {
               "value": "$colors.bridging.interactive.background.level.05",
-              "type": "color"
+              "type": "color",
+              "description": "🗑️ This isn't been used anywhere."
             }
           }
         }
