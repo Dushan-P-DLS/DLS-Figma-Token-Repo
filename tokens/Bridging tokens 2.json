@@ -27,15 +27,15 @@
           },
           "border": {
             "enabled": {
-              "value": "{colors.bridging.interactive.border.02}",
+              "value": "{colors.bridging.border.02}",
               "type": "color"
             },
             "hover": {
-              "value": "{colors.bridging.interactive.border.01}",
+              "value": "{colors.bridging.border.01}",
               "type": "color"
             },
             "active": {
-              "value": "{colors.bridging.interactive.border.01}",
+              "value": "{colors.bridging.border.01}",
               "type": "color"
             },
             "error": {

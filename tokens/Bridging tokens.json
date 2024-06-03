@@ -60,12 +60,12 @@
         "02": {
           "value": "$colors.primary.02",
           "type": "color",
-          "description": ""
+          "description": "🗑️"
         },
         "03": {
           "value": "$colors.secondary.04",
           "type": "color",
-          "description": "Reserve for a tertiary button colour or tertiary interaction colour"
+          "description": "(OLD) Reserve for a tertiary button colour or tertiary interaction colour.\n🎯This is onlt being used on the stripe of the \"notification card\".\n"
         },
         "link": {
           "01": {
@@ -98,7 +98,7 @@
           "03": {
             "value": "$colors.tint.primary.01.70",
             "type": "color",
-            "description": "Secondary inverse pressed; Tertiary inverse pressed"
+            "description": "Secondary inverse pressed; Tertiary inverse pressed.\n🗑️"
           }
         },
         "hover": {
@@ -121,12 +121,13 @@
           },
           "02": {
             "value": "$colors.primary.02",
-            "type": "color"
+            "type": "color",
+            "description": "🗑️"
           },
           "03": {
             "value": "$colors.secondary.04",
             "type": "color",
-            "description": ""
+            "description": "🗑️"
           },
           "link": {
             "01": {
@@ -199,227 +200,6 @@
             "description": "iOS interactive"
           }
         },
-        "border": {
-          "01": {
-            "value": "$colors.neutral.01",
-            "type": "color",
-            "description": "Primary border colour"
-          },
-          "02": {
-            "value": "$colors.neutral.02",
-            "type": "color",
-            "description": "Secondary border colour"
-          },
-          "03": {
-            "value": "$colors.neutral.05",
-            "type": "color",
-            "description": "Tertiary border colour"
-          },
-          "04": {
-            "value": "$colors.primary.01",
-            "type": "color",
-            "description": "Interactive border colour"
-          },
-          "05": {
-            "value": "$colors.static.neutral.08",
-            "type": "color",
-            "description": ""
-          }
-        },
-        "icon": {
-          "01": {
-            "value": "$colors.neutral.01",
-            "type": "color",
-            "description": "Primary icon; input icon"
-          },
-          "02": {
-            "value": "$colors.neutral.02",
-            "type": "color",
-            "description": "Secondary icon colour"
-          },
-          "03": {
-            "value": "$colors.neutral.03",
-            "type": "color",
-            "description": "Inactive icon colour"
-          },
-          "04": {
-            "value": "$colors.bridging.interactive.01",
-            "type": "color",
-            "description": "Interactive icon colour"
-          },
-          "05": {
-            "value": "$colors.static.neutral.08",
-            "type": "color",
-            "description": "icon on interactive colour"
-          },
-          "highlight": {
-            "01": {
-              "value": "red",
-              "type": "color"
-            },
-            "02": {
-              "value": "$colors.secondary.04",
-              "type": "color"
-            }
-          },
-          "pressed": {
-            "01": {
-              "value": "$colors.tint.primary.01.20",
-              "type": "color"
-            },
-            "02": {
-              "value": "$colors.tint.primary.01.80",
-              "type": "color"
-            }
-          },
-          "hover": {
-            "01": {
-              "value": "$colors.static.neutral.08",
-              "type": "color"
-            },
-            "02": {
-              "value": "$colors.bridging.interactive.01",
-              "type": "color"
-            }
-          },
-          "inverse": {
-            "pressed": {
-              "01": {
-                "value": "$colors.tint.primary.01.80",
-                "type": "color"
-              },
-              "02": {
-                "value": "$colors.tint.primary.01.20",
-                "type": "color"
-              }
-            },
-            "hover": {
-              "01": {
-                "value": "$colors.bridging.interactive.01",
-                "type": "color"
-              }
-            }
-          }
-        },
-        "type": {
-          "01": {
-            "value": "$colors.neutral.01",
-            "type": "color",
-            "description": "Body copy;Headers;Input labels;Input text"
-          },
-          "02": {
-            "value": "$colors.neutral.02",
-            "type": "color",
-            "description": "Secondary text colour"
-          },
-          "03": {
-            "value": "$colors.neutral.03",
-            "type": "color",
-            "description": "Inactive text colour"
-          },
-          "04": {
-            "value": "$colors.bridging.interactive.01",
-            "type": "color",
-            "description": "Interactive text colour"
-          },
-          "05": {
-            "value": "$colors.static.neutral.08",
-            "type": "color",
-            "description": "Text on interactive colour"
-          },
-          "highlight": {
-            "01": {
-              "value": "$colors.bridging.interactive.01",
-              "type": "color",
-              "description": "Primary highlight"
-            },
-            "02": {
-              "value": "$colors.secondary.04",
-              "type": "color",
-              "description": "Secondary highlight"
-            }
-          },
-          "pressed": {
-            "01": {
-              "value": "$colors.tint.primary.01.20",
-              "type": "color"
-            },
-            "02": {
-              "value": "$colors.tint.primary.01.80",
-              "type": "color"
-            }
-          },
-          "hover": {
-            "01": {
-              "value": "$colors.static.neutral.08",
-              "type": "color"
-            },
-            "02": {
-              "value": "$colors.bridging.interactive.01",
-              "type": "color"
-            }
-          },
-          "inverse": {
-            "pressed": {
-              "01": {
-                "value": "$colors.tint.primary.01.80",
-                "type": "color"
-              },
-              "02": {
-                "value": "$colors.tint.primary.01.20",
-                "type": "color"
-              }
-            },
-            "hover": {
-              "01": {
-                "value": "$colors.bridging.interactive.01",
-                "type": "color"
-              }
-            }
-          }
-        },
-        "background": {
-          "ui": {
-            "01": {
-              "value": "$colors.neutral.08",
-              "type": "color"
-            },
-            "04": {
-              "value": "$colors.neutral.01",
-              "type": "color"
-            }
-          },
-          "level": {
-            "01": {
-              "value": "$colors.neutral.08",
-              "type": "color"
-            },
-            "02": {
-              "value": "$colors.neutral.08",
-              "type": "color"
-            },
-            "03": {
-              "value": "$colors.neutral.08",
-              "type": "color"
-            },
-            "04": {
-              "value": "$colors.neutral.08",
-              "type": "color"
-            },
-            "05": {
-              "value": "$colors.neutral.08",
-              "type": "color"
-            },
-            "gradient01": {
-              "value": "$colors.gradient.05",
-              "type": "color"
-            }
-          },
-          "modal": {
-            "value": "$colors.neutral.01",
-            "type": "color"
-          }
-        },
         "selected": {
           "bg": {
             "default": {
@@ -449,6 +229,227 @@
               "type": "color"
             }
           }
+        }
+      },
+      "border": {
+        "01": {
+          "value": "$colors.neutral.01",
+          "type": "color",
+          "description": "Primary border colour"
+        },
+        "02": {
+          "value": "$colors.neutral.02",
+          "type": "color",
+          "description": "Secondary border colour"
+        },
+        "03": {
+          "value": "$colors.neutral.05",
+          "type": "color",
+          "description": "Tertiary border colour"
+        },
+        "04": {
+          "value": "$colors.primary.01",
+          "type": "color",
+          "description": "Interactive border colour"
+        },
+        "05": {
+          "value": "$colors.static.neutral.08",
+          "type": "color",
+          "description": ""
+        }
+      },
+      "icon": {
+        "01": {
+          "value": "$colors.neutral.01",
+          "type": "color",
+          "description": "Primary icon; input icon\n⭐Somehow the icons have been moved under the interactive section.\n\n"
+        },
+        "02": {
+          "value": "$colors.neutral.02",
+          "type": "color",
+          "description": "Secondary icon colour"
+        },
+        "03": {
+          "value": "$colors.neutral.03",
+          "type": "color",
+          "description": "Inactive icon colour"
+        },
+        "04": {
+          "value": "$colors.bridging.interactive.01",
+          "type": "color",
+          "description": "Interactive icon colour"
+        },
+        "05": {
+          "value": "$colors.static.neutral.08",
+          "type": "color",
+          "description": "icon on interactive colour"
+        },
+        "highlight": {
+          "01": {
+            "value": "red",
+            "type": "color"
+          },
+          "02": {
+            "value": "$colors.secondary.04",
+            "type": "color"
+          }
+        },
+        "pressed": {
+          "01": {
+            "value": "$colors.tint.primary.01.20",
+            "type": "color"
+          },
+          "02": {
+            "value": "$colors.tint.primary.01.80",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "01": {
+            "value": "$colors.static.neutral.08",
+            "type": "color"
+          },
+          "02": {
+            "value": "$colors.bridging.interactive.01",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "pressed": {
+            "01": {
+              "value": "$colors.tint.primary.01.80",
+              "type": "color"
+            },
+            "02": {
+              "value": "$colors.tint.primary.01.20",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "01": {
+              "value": "$colors.bridging.interactive.01",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "type": {
+        "01": {
+          "value": "$colors.neutral.01",
+          "type": "color",
+          "description": "Body copy;Headers;Input labels;Input text"
+        },
+        "02": {
+          "value": "$colors.neutral.02",
+          "type": "color",
+          "description": "Secondary text colour"
+        },
+        "03": {
+          "value": "$colors.neutral.03",
+          "type": "color",
+          "description": "Inactive text colour"
+        },
+        "04": {
+          "value": "$colors.bridging.interactive.01",
+          "type": "color",
+          "description": "Interactive text colour"
+        },
+        "05": {
+          "value": "$colors.static.neutral.08",
+          "type": "color",
+          "description": "Text on interactive colour"
+        },
+        "highlight": {
+          "01": {
+            "value": "$colors.bridging.interactive.01",
+            "type": "color",
+            "description": "Primary highlight"
+          },
+          "02": {
+            "value": "$colors.secondary.04",
+            "type": "color",
+            "description": "Secondary highlight"
+          }
+        },
+        "pressed": {
+          "01": {
+            "value": "$colors.tint.primary.01.20",
+            "type": "color"
+          },
+          "02": {
+            "value": "$colors.tint.primary.01.80",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "01": {
+            "value": "$colors.static.neutral.08",
+            "type": "color"
+          },
+          "02": {
+            "value": "$colors.bridging.interactive.01",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "pressed": {
+            "01": {
+              "value": "$colors.tint.primary.01.80",
+              "type": "color"
+            },
+            "02": {
+              "value": "$colors.tint.primary.01.20",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "01": {
+              "value": "$colors.bridging.interactive.01",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "background": {
+        "ui": {
+          "01": {
+            "value": "$colors.neutral.08",
+            "type": "color"
+          },
+          "04": {
+            "value": "$colors.neutral.01",
+            "type": "color"
+          }
+        },
+        "level": {
+          "01": {
+            "value": "$colors.neutral.08",
+            "type": "color"
+          },
+          "02": {
+            "value": "$colors.neutral.08",
+            "type": "color"
+          },
+          "03": {
+            "value": "$colors.neutral.08",
+            "type": "color"
+          },
+          "04": {
+            "value": "$colors.neutral.08",
+            "type": "color"
+          },
+          "05": {
+            "value": "$colors.neutral.08",
+            "type": "color"
+          },
+          "gradient01": {
+            "value": "$colors.gradient.05",
+            "type": "color"
+          }
+        },
+        "modal": {
+          "value": "$colors.neutral.01",
+          "type": "color"
         }
       }
     }
