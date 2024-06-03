@@ -1114,7 +1114,7 @@
             "value": "{colors.neutral.07}",
             "type": "color"
           },
-          "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
+          "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted.\n"
         },
         "disabled": {
           "value": "{colors.bridging.interactive.input.bg.disabled}",
@@ -1147,7 +1147,7 @@
             }
           },
           "disabled": {
-            "value": "{colors.bridging.interactive.input.border.error}",
+            "value": "{colors.bridging.interactive.input.border.disabled}",
             "type": "color"
           }
         },
