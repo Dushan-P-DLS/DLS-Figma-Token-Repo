@@ -337,7 +337,7 @@
         "01": {
           "value": "$colors.neutral.01",
           "type": "color",
-          "description": "Body copy;Headers;Input labels;Input text"
+          "description": "Body copy;Headers;Input labels;Input text\n$colors.neutral.01"
         },
         "02": {
           "value": "$colors.neutral.02",
