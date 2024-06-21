@@ -376,18 +376,18 @@
         }
       }
     },
-    "type": {
-      "01": {
+    "text": {
+      "default": {
         "type": "color",
         "value": "{colors.neutral.01}",
         "description": "Body copy;Headers;Input labels;Input text\n$colors.neutral.01"
       },
-      "02": {
+      "subtle": {
         "type": "color",
         "value": "$colors.neutral.02",
         "description": "Secondary text colour"
       },
-      "03": {
+      "muted": {
         "type": "color",
         "value": "$colors.neutral.03",
         "description": "Inactive text colour"
@@ -395,12 +395,12 @@
       "04": {
         "type": "color",
         "value": "$colors.bridging.interactive.01",
-        "description": "Interactive text colour"
+        "description": "Interactive text colour\n⚠️ This might not be in use ⚠️"
       },
       "05": {
         "type": "color",
         "value": "$colors.static.neutral.08",
-        "description": "Text on interactive colour"
+        "description": "Text on interactive colour\n⚠️ This might not be in use ⚠️"
       },
       "highlight": {
         "01": {
