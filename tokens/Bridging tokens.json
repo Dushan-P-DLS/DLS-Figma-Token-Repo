@@ -258,81 +258,6 @@
           "description": ""
         }
       },
-      "icon": {
-        "01": {
-          "type": "color",
-          "value": "$colors.neutral.01",
-          "description": "Primary icon; input icon\n⭐Somehow the icons have been moved under the interactive section.\n\n"
-        },
-        "02": {
-          "type": "color",
-          "value": "$colors.neutral.02",
-          "description": "Secondary icon colour"
-        },
-        "03": {
-          "type": "color",
-          "value": "$colors.neutral.03",
-          "description": "Inactive icon colour"
-        },
-        "04": {
-          "type": "color",
-          "value": "$colors.bridging.interactive.01",
-          "description": "Interactive icon colour"
-        },
-        "05": {
-          "type": "color",
-          "value": "$colors.static.neutral.08",
-          "description": "icon on interactive colour"
-        },
-        "highlight": {
-          "01": {
-            "type": "color",
-            "value": "red"
-          },
-          "02": {
-            "type": "color",
-            "value": "$colors.secondary.04"
-          }
-        },
-        "pressed": {
-          "01": {
-            "type": "color",
-            "value": "$colors.tint.primary.01.20"
-          },
-          "02": {
-            "type": "color",
-            "value": "$colors.tint.primary.01.80"
-          }
-        },
-        "hover": {
-          "01": {
-            "type": "color",
-            "value": "$colors.static.neutral.08"
-          },
-          "02": {
-            "type": "color",
-            "value": "$colors.bridging.interactive.01"
-          }
-        },
-        "inverse": {
-          "pressed": {
-            "01": {
-              "type": "color",
-              "value": "$colors.tint.primary.01.80"
-            },
-            "02": {
-              "type": "color",
-              "value": "$colors.tint.primary.01.20"
-            }
-          },
-          "hover": {
-            "01": {
-              "type": "color",
-              "value": "$colors.bridging.interactive.01"
-            }
-          }
-        }
-      },
       "background": {
         "ui": {
           "01": {
@@ -373,6 +298,81 @@
         "modal": {
           "type": "color",
           "value": "$colors.neutral.01"
+        }
+      }
+    },
+    "icon": {
+      "default": {
+        "type": "color",
+        "value": "$colors.neutral.01",
+        "description": "Primary icon; input icon\n⭐Somehow the icons have been moved under the interactive section.\n\n"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "$colors.neutral.02",
+        "description": "Secondary icon colour"
+      },
+      "muted": {
+        "type": "color",
+        "value": "$colors.neutral.03",
+        "description": "Inactive icon colour"
+      },
+      "04": {
+        "type": "color",
+        "value": "$colors.bridging.interactive.01",
+        "description": "Interactive icon colour"
+      },
+      "05": {
+        "type": "color",
+        "value": "$colors.static.neutral.08",
+        "description": "icon on interactive colour"
+      },
+      "highlight": {
+        "01": {
+          "type": "color",
+          "value": "red"
+        },
+        "02": {
+          "type": "color",
+          "value": "$colors.secondary.04"
+        }
+      },
+      "pressed": {
+        "01": {
+          "type": "color",
+          "value": "$colors.tint.primary.01.20"
+        },
+        "02": {
+          "type": "color",
+          "value": "$colors.tint.primary.01.80"
+        }
+      },
+      "hover": {
+        "01": {
+          "type": "color",
+          "value": "$colors.static.neutral.08"
+        },
+        "02": {
+          "type": "color",
+          "value": "$colors.bridging.interactive.01"
+        }
+      },
+      "inverse": {
+        "pressed": {
+          "01": {
+            "type": "color",
+            "value": "$colors.tint.primary.01.80"
+          },
+          "02": {
+            "type": "color",
+            "value": "$colors.tint.primary.01.20"
+          }
+        },
+        "hover": {
+          "01": {
+            "type": "color",
+            "value": "$colors.bridging.interactive.01"
+          }
         }
       }
     },

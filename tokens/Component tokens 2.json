@@ -492,57 +492,57 @@
             "primary": {
               "enabled": {
                 "type": "color",
-                "value": "$colors.bridging.icon.05",
+                "value": "$colors.icon.05",
                 "description": "Primary enabled icon"
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.bridging.icon.05",
+                "value": "$colors.icon.05",
                 "description": "Primary hover icon"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.bridging.icon.pressed.01",
+                "value": "$colors.icon.pressed.01",
                 "description": "Primary pressed icon"
               }
             },
             "secondary": {
               "enabled": {
                 "type": "color",
-                "value": "$colors.bridging.icon.04",
+                "value": "$colors.icon.04",
                 "description": "Secondary enabled icon"
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.bridging.icon.hover.02",
+                "value": "$colors.icon.hover.02",
                 "description": "Secondary hover icon"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.bridging.icon.pressed.02",
+                "value": "$colors.icon.pressed.02",
                 "description": "Secondary pressed icon"
               }
             },
             "tertiary": {
               "enabled": {
                 "type": "color",
-                "value": "$colors.bridging.icon.04",
+                "value": "$colors.icon.04",
                 "description": "Tertiary enabled icon"
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.bridging.icon.hover.02",
+                "value": "$colors.icon.hover.02",
                 "description": "Tertiary hover icon"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.bridging.icon.pressed.02",
+                "value": "$colors.icon.pressed.02",
                 "description": "Tertiary presed icon"
               }
             },
             "disabled": {
               "type": "color",
-              "value": "$colors.bridging.icon.02",
+              "value": "$colors.icon.subtle",
               "description": "Disabled icon"
             }
           },
@@ -677,17 +677,17 @@
             "primary": {
               "enabled": {
                 "type": "color",
-                "value": "$colors.bridging.icon.04",
+                "value": "$colors.icon.04",
                 "description": "Inverse primary enabled icon"
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.bridging.icon.inverse.hover.01",
+                "value": "$colors.icon.inverse.hover.01",
                 "description": "Inverse primary hover icon"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.bridging.icon.inverse.pressed.02",
+                "value": "$colors.icon.inverse.pressed.02",
                 "description": "Inverse primary pressed icon"
               }
             },
@@ -699,12 +699,12 @@
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.bridging.icon.inverse.hover.01",
+                "value": "$colors.icon.inverse.hover.01",
                 "description": "Inverse secondary hover icon"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.bridging.icon.inverse.pressed.02",
+                "value": "$colors.icon.inverse.pressed.02",
                 "description": "Inverse secondary pressed icon"
               }
             },
@@ -716,18 +716,18 @@
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.bridging.icon.inverse.hover.01",
+                "value": "$colors.icon.inverse.hover.01",
                 "description": "Inverse tertiary hover icon"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.bridging.icon.inverse.pressed.02",
+                "value": "$colors.icon.inverse.pressed.02",
                 "description": "Inverse tertiary pressed icon"
               }
             },
             "disabled": {
               "type": "color",
-              "value": "$colors.bridging.icon.02",
+              "value": "$colors.icon.subtle",
               "description": "Inverse disabled icon"
             }
           },
@@ -975,7 +975,7 @@
         },
         "icon": {
           "type": "color",
-          "value": "$colors.bridging.icon.05"
+          "value": "$colors.icon.05"
         },
         "card": {
           "border": {
@@ -1154,7 +1154,7 @@
         },
         "icon": {
           "type": "color",
-          "value": "{colors.bridging.icon.02}"
+          "value": "{colors.icon.subtle}"
         }
       },
       "dropdown": {
@@ -1557,7 +1557,7 @@
         },
         "icon": {
           "type": "color",
-          "value": "{colors.bridging.icon.02}"
+          "value": "{colors.icon.subtle}"
         }
       }
     }
