@@ -5,46 +5,46 @@
         "input": {
           "bg": {
             "enabled": {
-              "value": "{colors.neutral.08}",
-              "type": "color"
+              "type": "color",
+              "value": "{colors.neutral.08}"
             },
             "hover": {
-              "value": "{colors.neutral.07}",
-              "type": "color"
+              "type": "color",
+              "value": "{colors.neutral.07}"
             },
             "active": {
-              "value": "{colors.neutral.08}",
-              "type": "color"
+              "type": "color",
+              "value": "{colors.neutral.08}"
             },
             "error": {
-              "value": "{colors.tint.tertiary.04.10}",
-              "type": "color"
+              "type": "color",
+              "value": "{colors.tint.tertiary.04.10}"
             },
             "disabled": {
-              "value": "{colors.neutral.06}",
-              "type": "color"
+              "type": "color",
+              "value": "{colors.neutral.06}"
             }
           },
           "border": {
             "enabled": {
-              "value": "{colors.bridging.border.02}",
-              "type": "color"
+              "type": "color",
+              "value": "{colors.bridging.border.02}"
             },
             "hover": {
-              "value": "{colors.bridging.border.01}",
-              "type": "color"
+              "type": "color",
+              "value": "{colors.bridging.border.01}"
             },
             "active": {
-              "value": "{colors.bridging.border.01}",
-              "type": "color"
+              "type": "color",
+              "value": "{colors.bridging.border.01}"
             },
             "error": {
-              "value": "{colors.alert.error}",
-              "type": "color"
+              "type": "color",
+              "value": "{colors.alert.error}"
             },
             "disabled": {
-              "value": "rgba({colors.neutral.06}, 0)",
-              "type": "color"
+              "type": "color",
+              "value": "rgba({colors.neutral.06}, 0)"
             }
           }
         }
