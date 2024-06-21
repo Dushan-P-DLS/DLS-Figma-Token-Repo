@@ -333,83 +333,6 @@
           }
         }
       },
-      "type": {
-        "01": {
-          "type": "color",
-          "value": "$colors.neutral.01",
-          "description": "Body copy;Headers;Input labels;Input text\n$colors.neutral.01"
-        },
-        "02": {
-          "type": "color",
-          "value": "$colors.neutral.02",
-          "description": "Secondary text colour"
-        },
-        "03": {
-          "type": "color",
-          "value": "$colors.neutral.03",
-          "description": "Inactive text colour"
-        },
-        "04": {
-          "type": "color",
-          "value": "$colors.bridging.interactive.01",
-          "description": "Interactive text colour"
-        },
-        "05": {
-          "type": "color",
-          "value": "$colors.static.neutral.08",
-          "description": "Text on interactive colour"
-        },
-        "highlight": {
-          "01": {
-            "type": "color",
-            "value": "$colors.bridging.interactive.01",
-            "description": "Primary highlight"
-          },
-          "02": {
-            "type": "color",
-            "value": "$colors.secondary.04",
-            "description": "Secondary highlight"
-          }
-        },
-        "pressed": {
-          "01": {
-            "type": "color",
-            "value": "$colors.tint.primary.01.20"
-          },
-          "02": {
-            "type": "color",
-            "value": "$colors.tint.primary.01.80"
-          }
-        },
-        "hover": {
-          "01": {
-            "type": "color",
-            "value": "$colors.static.neutral.08"
-          },
-          "02": {
-            "type": "color",
-            "value": "$colors.bridging.interactive.01"
-          }
-        },
-        "inverse": {
-          "pressed": {
-            "01": {
-              "type": "color",
-              "value": "$colors.tint.primary.01.80"
-            },
-            "02": {
-              "type": "color",
-              "value": "$colors.tint.primary.01.20"
-            }
-          },
-          "hover": {
-            "01": {
-              "type": "color",
-              "value": "$colors.bridging.interactive.01"
-            }
-          }
-        }
-      },
       "background": {
         "ui": {
           "01": {
@@ -450,6 +373,83 @@
         "modal": {
           "type": "color",
           "value": "$colors.neutral.01"
+        }
+      }
+    },
+    "type": {
+      "01": {
+        "type": "color",
+        "value": "{colors.neutral.01}",
+        "description": "Body copy;Headers;Input labels;Input text\n$colors.neutral.01"
+      },
+      "02": {
+        "type": "color",
+        "value": "$colors.neutral.02",
+        "description": "Secondary text colour"
+      },
+      "03": {
+        "type": "color",
+        "value": "$colors.neutral.03",
+        "description": "Inactive text colour"
+      },
+      "04": {
+        "type": "color",
+        "value": "$colors.bridging.interactive.01",
+        "description": "Interactive text colour"
+      },
+      "05": {
+        "type": "color",
+        "value": "$colors.static.neutral.08",
+        "description": "Text on interactive colour"
+      },
+      "highlight": {
+        "01": {
+          "type": "color",
+          "value": "$colors.bridging.interactive.01",
+          "description": "Primary highlight"
+        },
+        "02": {
+          "type": "color",
+          "value": "$colors.secondary.04",
+          "description": "Secondary highlight"
+        }
+      },
+      "pressed": {
+        "01": {
+          "type": "color",
+          "value": "$colors.tint.primary.01.20"
+        },
+        "02": {
+          "type": "color",
+          "value": "$colors.tint.primary.01.80"
+        }
+      },
+      "hover": {
+        "01": {
+          "type": "color",
+          "value": "$colors.static.neutral.08"
+        },
+        "02": {
+          "type": "color",
+          "value": "$colors.bridging.interactive.01"
+        }
+      },
+      "inverse": {
+        "pressed": {
+          "01": {
+            "type": "color",
+            "value": "$colors.tint.primary.01.80"
+          },
+          "02": {
+            "type": "color",
+            "value": "$colors.tint.primary.01.20"
+          }
+        },
+        "hover": {
+          "01": {
+            "type": "color",
+            "value": "$colors.bridging.interactive.01"
+          }
         }
       }
     },
