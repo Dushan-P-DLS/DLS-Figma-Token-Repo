@@ -433,12 +433,12 @@
             "primary": {
               "enabled": {
                 "type": "color",
-                "value": "$colors.text.05",
+                "value": "$colors.text.onDark",
                 "description": "Primary enabled text"
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.text.05",
+                "value": "$colors.text.onDark",
                 "description": "Primary hover text"
               },
               "pressed": {
@@ -491,12 +491,12 @@
             "primary": {
               "enabled": {
                 "type": "color",
-                "value": "$colors.icon.05",
+                "value": "$colors.icon.onDark",
                 "description": "Primary enabled icon"
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.icon.05",
+                "value": "$colors.icon.onDark",
                 "description": "Primary hover icon"
               },
               "pressed": {
@@ -926,7 +926,7 @@
         },
         "icon": {
           "type": "color",
-          "value": "$colors.icon.05"
+          "value": "$colors.icon.onDark"
         },
         "card": {
           "border": {
@@ -1393,7 +1393,7 @@
         "inverse": {
           "enabled": {
             "type": "color",
-            "value": "$colors.text.05"
+            "value": "$colors.text.onDark"
           }
         },
         "secondary": {

@@ -322,10 +322,10 @@
         "value": "$colors.bridging.interactive.01",
         "description": "Interactive icon colour"
       },
-      "05": {
+      "onDark": {
         "type": "color",
-        "value": "$colors.static.neutral.08",
-        "description": "icon on interactive colour"
+        "value": "{colors.static.neutral.08}",
+        "description": "This is used for elements that need to be white that sit on various backgrounds."
       },
       "highlight": {
         "01": {
@@ -397,10 +397,15 @@
         "value": "$colors.bridging.interactive.01",
         "description": "Interactive text colour\n⚠️ This might not be in use ⚠️"
       },
-      "05": {
+      "onDark": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
+        },
         "type": "color",
         "value": "$colors.static.neutral.08",
-        "description": "Text on interactive colour\n⚠️ This might not be in use ⚠️"
+        "description": "Text on interactive colour\n\nThis is used for elements that need to be white that sit on various background"
       },
       "highlight": {
         "01": {
@@ -467,13 +472,13 @@
           "type": "color",
           "value": "{colors.neutral.08}"
         },
-        "disabled": {
-          "type": "color",
-          "value": "{colors.neutral.06}"
-        },
         "error": {
           "type": "color",
           "value": "{colors.tint.tertiary.04.10}"
+        },
+        "disabled": {
+          "type": "color",
+          "value": "{colors.neutral.06}"
         }
       },
       "border": {
@@ -493,9 +498,23 @@
           "type": "color",
           "value": "{colors.alert.error}"
         },
+        "selected": {
+          "type": "color",
+          "value": "{colors.primary.01}"
+        },
         "disabled": {
           "type": "color",
           "value": "rgba({colors.neutral.06}, 0)"
+        }
+      },
+      "selected": {
+        "fg": {
+          "type": "color",
+          "value": "{colors.neutral.08}"
+        },
+        "bg": {
+          "type": "color",
+          "value": "{colors.primary.01}"
         }
       }
     }
@@ -617,6 +636,16 @@
         "value": "{opacity.48}",
         "description": "Scrim opacity value"
       }
+    }
+  },
+  "border": {
+    "small": {
+      "type": "borderWidth",
+      "value": "{borderWidth.border01}"
+    },
+    "medium": {
+      "type": "borderWidth",
+      "value": "{borderWidth.border02}"
     }
   }
 }
