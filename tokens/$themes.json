@@ -394,6 +394,8 @@
       "colors.input.border.error": "9747171bd4029c93d6df360f1892f41046c200da",
       "colors.input.border.selected": "9ea19d4311e687e1bcd0282d14b9125b66e15b1d",
       "colors.input.border.disabled": "42e12f2d7875b94392bda9991d550eafa36977af",
+      "colors.input.selected.fg": "62de8f9e8e40149c0913ff2faa2e4ea43d33e069",
+      "colors.input.selected.bg": "c2c73390497509a718693633ca501994e6078384",
       "fontSizes.bridging.form.01": "d64c41da9ccd5ef509f72a772a952986503f623c",
       "fontSizes.bridging.form.02": "a3afb58f2e44c3e0b4326fc07829225e88371696",
       "borderWidth.bridging.default": "9f8df08ae77512c2b41f721efb1a3e227ebbeb7a",
@@ -407,10 +409,9 @@
       "lineHeights.bridging.form": "c22adb0f54c7d59adecb7142e3551d52c0b2c744",
       "paragraphSpacing.bridging.form": "7afe31ca89e42ae4653b803df8b36ddfe92a0c97",
       "opacity.bridging.01": "d3bdb394114c9f336715fc85e41d8ba5bfec96ff",
-      "colors.input.selected.fg": "62de8f9e8e40149c0913ff2faa2e4ea43d33e069",
-      "colors.input.selected.bg": "c2c73390497509a718693633ca501994e6078384",
       "border.small": "87e1c25e4b8d83c604679d5a2d56284b6c9ce671",
-      "border.medium": "2882f78bd18d92550caf245919584c856c4ac735"
+      "border.medium": "2882f78bd18d92550caf245919584c856c4ac735",
+      "DUSH.TEST.1": "4f8e141bda9e28c28e02a77b0aaf23697ad47696"
     }
   },
   {

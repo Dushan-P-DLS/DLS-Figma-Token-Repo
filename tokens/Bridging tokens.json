@@ -647,5 +647,13 @@
       "type": "borderWidth",
       "value": "{borderWidth.border02}"
     }
+  },
+  "DUSH": {
+    "TEST": {
+      "1": {
+        "type": "color",
+        "value": "rgba({colors.primary.01}, 0.5)"
+      }
+    }
   }
 }
