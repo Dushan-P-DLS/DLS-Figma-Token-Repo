@@ -648,11 +648,90 @@
       "value": "{borderWidth.border02}"
     }
   },
-  "DUSH": {
-    "TEST": {
-      "1": {
+  "action": {
+    "primary": {
+      "default": {
         "type": "color",
-        "value": "rgba({colors.primary.01}, 0.5)"
+        "value": "{colors.primary.01}"
+      },
+      "hover": {
+        "type": "color",
+        "value": "{colors.tint.primary.01.80}"
+      },
+      "pressed": {
+        "type": "color",
+        "value": "{colors.tint.primary.01.70}"
+      },
+      "fg": {
+        "type": "color",
+        "value": "{colors.neutral.08}"
+      }
+    },
+    "secondary": {
+      "default": {
+        "type": "color",
+        "value": "rgba({colors.neutral.08}, 0)"
+      },
+      "hover": {
+        "type": "color",
+        "value": "{colors.tint.primary.01.10}"
+      },
+      "pressed": {
+        "type": "color",
+        "value": "{colors.tint.primary.01.20}"
+      },
+      "fg": {
+        "type": "color",
+        "value": "{colors.primary.01}"
+      },
+      "border": {
+        "type": "color",
+        "value": "{colors.primary.01}"
+      }
+    },
+    "supporting": {
+      "default": {
+        "type": "color",
+        "value": "{colors.neutral.08}"
+      },
+      "hover": {
+        "type": "color",
+        "value": "{colors.neutral.06}"
+      },
+      "pressed": {
+        "type": "color",
+        "value": "{colors.neutral.04}"
+      },
+      "border": {
+        "type": "color",
+        "value": "{colors.neutral.03}",
+        "description": "This won't be a11y so the component needs to have a visual que to achieve a11y."
+      },
+      "fg": {
+        "type": "color",
+        "value": "{colors.neutral.00}"
+      },
+      "inverse": {
+        "default": {
+          "type": "color",
+          "value": "{colors.neutral.01}"
+        },
+        "hover": {
+          "type": "color",
+          "value": "rgba({colors.neutral.01}, 0.2)"
+        },
+        "pressed": {
+          "type": "color",
+          "value": "rgba({colors.neutral.01}, 0.5)"
+        },
+        "border": {
+          "type": "color",
+          "value": "{colors.neutral.06}"
+        },
+        "fg": {
+          "type": "color",
+          "value": "{colors.neutral.08}"
+        }
       }
     }
   }

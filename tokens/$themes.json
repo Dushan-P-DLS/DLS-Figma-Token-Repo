@@ -267,8 +267,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core tokens": "source",
-      "Bridging tokens": "enabled",
-      "Bridging tokens 2": "enabled"
+      "Bridging tokens": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:11142:11158",
     "$figmaModeId": "11142:1",
@@ -718,7 +717,6 @@
     },
     "selectedTokenSets": {
       "Core tokens": "source",
-      "Bridging tokens 2": "source",
       "Bridging tokens": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:11142:11240",
