@@ -68,21 +68,28 @@
       "fg": {
         "type": "color",
         "value": "{colors.neutral.08}"
+      }
+    },
+    "secondary": {
+      "default": {
+        "type": "color",
+        "value": "rgba({colors.neutral.08}, 0)"
       },
-      "disabled": {
-        "bg": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {}
-            }
-          },
-          "type": "color",
-          "value": "{colors.tint.primary.01.50}"
-        },
-        "fg": {
-          "type": "color",
-          "value": "{colors.tint.primary.01.20}"
-        }
+      "hover": {
+        "type": "color",
+        "value": "{colors.neutral.07}"
+      },
+      "pressed": {
+        "type": "color",
+        "value": "{colors.neutral.06}"
+      },
+      "fg": {
+        "type": "color",
+        "value": "{colors.primary.01}"
+      },
+      "border": {
+        "type": "color",
+        "value": "{colors.primary.01}"
       }
     },
     "supporting": {
@@ -106,16 +113,6 @@
         "type": "color",
         "value": "{colors.neutral.00}"
       },
-      "disabled": {
-        "bg": {
-          "type": "color",
-          "value": "{colors.neutral.05}"
-        },
-        "fg": {
-          "type": "color",
-          "value": "{colors.neutral.03}"
-        }
-      },
       "inverse": {
         "default": {
           "type": "color",
@@ -136,44 +133,7 @@
         "fg": {
           "type": "color",
           "value": "{colors.neutral.08}"
-        },
-        "disabled": {
-          "bg": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {}
-              }
-            },
-            "type": "color",
-            "value": "{colors.neutral.01}"
-          },
-          "fg": {
-            "type": "color",
-            "value": "{colors.neutral.02}"
-          }
         }
-      }
-    },
-    "secondary": {
-      "default": {
-        "type": "color",
-        "value": "rgba({colors.neutral.08}, 0)"
-      },
-      "hover": {
-        "type": "color",
-        "value": "{colors.neutral.07}"
-      },
-      "pressed": {
-        "type": "color",
-        "value": "{colors.neutral.06}"
-      },
-      "fg": {
-        "type": "color",
-        "value": "{colors.primary.01}"
-      },
-      "border": {
-        "type": "color",
-        "value": "{colors.primary.01}"
       }
     }
   }
