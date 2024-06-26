@@ -278,7 +278,8 @@
       "spacing-DUSH.17": "321e11579a806834a5e7c69cb0f09eaee0a74244",
       "spacing-DUSH.18": "25fe72c22a1a65e3522eb3bd7506af01a4ddd390",
       "spacing-DUSH.19": "faba9881e04c1bc8e7288041298686bb3c560c6c",
-      "spacing-DUSH.20": "0da5611745a71c1d42e175812436a3a5d2c9dfa1"
+      "spacing-DUSH.20": "0da5611745a71c1d42e175812436a3a5d2c9dfa1",
+      "spacing.12px": "b4a5aed88dae172fc13eebd76f484787374f30c6"
     }
   },
   {
@@ -303,6 +304,20 @@
       "colors.bridging.interactive.input.border.active": "6bc2a29b61fab3d1b2c3b1a46b2238daf101a0df",
       "colors.bridging.interactive.input.border.error": "1ef2c2941abfb966a2893cefa33508d315120ab7",
       "colors.bridging.interactive.input.border.disabled": "b7a5a46e8bb672d6e4588c743fc77a48bd66ff93",
+      "action.primary.default": "9d9bed554388755041af5a935ddc5565f36e8ef1",
+      "action.primary.hover": "3361f1e2c3009057b414e69c302bfd598cebfd93",
+      "action.primary.pressed": "c916e445e6c921701120f63f74c1f2fdf5f97c45",
+      "action.primary.fg": "3d3b5be7efb7139ba9bcf64363bd8388cebca04d",
+      "action.supporting.default": "d60fdacb1d155c0a3425d41a3bb3bf4d18e5cd09",
+      "action.supporting.hover": "382d507fa80a2c2e2f60bffb2924d21c44f3a4ec",
+      "action.supporting.pressed": "f4a6b49e295d66f0715a73605a13599b9f69b4ef",
+      "action.supporting.border": "04dddd8f0d1b47a6475902225b95acac44a6867c",
+      "action.supporting.fg": "e2971b0a1b10adf64b4042ea4442779d3256c739",
+      "action.supporting.inverse.default": "f2dd9eb5f89835a970e72dda21af7404a1029595",
+      "action.supporting.inverse.hover": "9012209c94ed3704e10b38657948dafa796baf24",
+      "action.supporting.inverse.pressed": "1f35fde0e7daea155f980749440f885cbcd6c57b",
+      "action.supporting.inverse.border": "69292a8f524d0868bcd2970f204430b7018a0bc3",
+      "action.supporting.inverse.fg": "eac6a3a43ea0b5ced3428f82924ba74c91dc3cbf",
       "spacing.bridging.default": "ae57660e29fb7fa6d5d9711081a50ef9c12d0215",
       "spacing.bridging.sm": "4bdfb797e85ae5b259bf6d953f4c745b0dd632dc",
       "spacing.bridging.md": "ecaea5c16537c4c177cdc901f60884f767b04fc1",
@@ -719,7 +734,6 @@
     },
     "selectedTokenSets": {
       "Core tokens": "source",
-      "Component tokens 2": "enabled",
       "Bridging tokens 2": "source",
       "Bridging tokens": "source"
     },
