@@ -689,48 +689,6 @@
         "value": "{colors.primary.01}"
       }
     },
-    "onPrimary": {
-      "primary": {
-        "default": {
-          "type": "color",
-          "value": "{colors.static.neutral.08}"
-        },
-        "hover": {
-          "type": "color",
-          "value": "{colors.tint.primary.01.20}"
-        },
-        "pressed": {
-          "type": "color",
-          "value": "{colors.tint.primary.01.30}"
-        },
-        "fg": {
-          "type": "color",
-          "value": "{colors.neutral.01}"
-        }
-      },
-      "secondary": {
-        "default": {
-          "type": "color",
-          "value": "{colors.primary.01}"
-        },
-        "hover": {
-          "type": "color",
-          "value": "{colors.tint.primary.01.90}"
-        },
-        "pressed": {
-          "type": "color",
-          "value": "{colors.tint.primary.01.80}"
-        },
-        "fg": {
-          "type": "color",
-          "value": "{colors.neutral.08}"
-        },
-        "border": {
-          "type": "color",
-          "value": "{colors.neutral.08}"
-        }
-      }
-    },
     "utility": {
       "default": {
         "type": "color",
@@ -760,11 +718,11 @@
         },
         "hover": {
           "type": "color",
-          "value": "rgba({colors.neutral.01}, 0.4)"
+          "value": "rgba({colors.neutral.08}, 0.15)"
         },
         "pressed": {
           "type": "color",
-          "value": "rgba({colors.neutral.01}, 0.6)"
+          "value": "rgba({colors.neutral.08}, 0.3)"
         },
         "border": {
           "type": "color",
