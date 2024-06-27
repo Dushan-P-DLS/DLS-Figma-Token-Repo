@@ -718,11 +718,11 @@
         },
         "hover": {
           "type": "color",
-          "value": "rgba({colors.neutral.08}, 0.15)"
+          "value": "{colors.neutral.01}"
         },
         "pressed": {
           "type": "color",
-          "value": "rgba({colors.neutral.08}, 0.3)"
+          "value": "{colors.neutral.02}"
         },
         "border": {
           "type": "color",
