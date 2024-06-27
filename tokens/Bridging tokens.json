@@ -665,6 +665,10 @@
       "fg": {
         "type": "color",
         "value": "{colors.neutral.08}"
+      },
+      "border": {
+        "type": "color",
+        "value": "{colors.neutral.08}"
       }
     },
     "secondary": {

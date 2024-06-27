@@ -1310,6 +1310,15 @@
       "type": "borderRadius",
       "value": "8px"
     },
+    "radius-12": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {}
+        }
+      },
+      "type": "borderRadius",
+      "value": "12px"
+    },
     "radius02": {
       "type": "borderRadius",
       "value": "16px"
@@ -1318,9 +1327,27 @@
       "type": "borderRadius",
       "value": "128px"
     },
+    "radius-24": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {}
+        }
+      },
+      "type": "borderRadius",
+      "value": "24px"
+    },
     "radius08": {
       "type": "borderRadius",
       "value": "64px"
+    },
+    "round": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {}
+        }
+      },
+      "type": "borderRadius",
+      "value": "9999px"
     }
   },
   "typography": {
