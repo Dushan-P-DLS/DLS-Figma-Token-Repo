@@ -4,7 +4,8 @@
     "name": "Core Tokens",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core tokens": "enabled"
+      "Core tokens": "enabled",
+      "Bridging tokens2": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:11142:10944",
     "$figmaModeId": "11142:0",
@@ -267,7 +268,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core tokens": "source",
-      "Bridging tokens": "enabled"
+      "Bridging tokens2": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:11142:11158",
     "$figmaModeId": "11142:1",
@@ -389,16 +390,6 @@
       "action.secondary.pressed": "44a3e4001bff1e7e22551fa5fa62bc46d3e2e0c1",
       "action.secondary.fg": "5344545651ff6c466e82d07a06f2a49767f056b5",
       "action.secondary.border": "c4778e378458a903e90184473d656b6753345a20",
-      "action.supporting.default": "d60fdacb1d155c0a3425d41a3bb3bf4d18e5cd09",
-      "action.supporting.hover": "382d507fa80a2c2e2f60bffb2924d21c44f3a4ec",
-      "action.supporting.pressed": "f4a6b49e295d66f0715a73605a13599b9f69b4ef",
-      "action.supporting.border": "04dddd8f0d1b47a6475902225b95acac44a6867c",
-      "action.supporting.fg": "e2971b0a1b10adf64b4042ea4442779d3256c739",
-      "action.supporting.inverse.default": "f2dd9eb5f89835a970e72dda21af7404a1029595",
-      "action.supporting.inverse.hover": "9012209c94ed3704e10b38657948dafa796baf24",
-      "action.supporting.inverse.pressed": "1f35fde0e7daea155f980749440f885cbcd6c57b",
-      "action.supporting.inverse.border": "69292a8f524d0868bcd2970f204430b7018a0bc3",
-      "action.supporting.inverse.fg": "eac6a3a43ea0b5ced3428f82924ba74c91dc3cbf",
       "action.onPrimary.primary.default": "2bdebd0f9c92b75834f6dd1989d448f854bb9ab1",
       "action.onPrimary.primary.hover": "ec7be5caa39bbdae0d7492987a560a1d1c1b26bd",
       "action.onPrimary.primary.pressed": "7b7f3c7aedd53f06b679073d2bf49e9e5e5a66d4",
@@ -407,7 +398,29 @@
       "action.onPrimary.secondary.hover": "2644e65a146528b34c9d89dda48b25fe51b27dd9",
       "action.onPrimary.secondary.pressed": "7d4d59e7316cf9d090f7ff6982421a5c8f6df194",
       "action.onPrimary.secondary.fg": "6cc7e51eaba49324f28fab43a2616c6051b9e62d",
-      "action.onPrimary.secondary.border": "8649a5b6a179cef78965338d0d3d99bd491208ed"
+      "action.onPrimary.secondary.border": "8649a5b6a179cef78965338d0d3d99bd491208ed",
+      "action.utility.default": "d60fdacb1d155c0a3425d41a3bb3bf4d18e5cd09",
+      "action.utility.hover": "382d507fa80a2c2e2f60bffb2924d21c44f3a4ec",
+      "action.utility.pressed": "f4a6b49e295d66f0715a73605a13599b9f69b4ef",
+      "action.utility.border": "04dddd8f0d1b47a6475902225b95acac44a6867c",
+      "action.utility.fg": "e2971b0a1b10adf64b4042ea4442779d3256c739",
+      "action.utility.inverse.default": "f2dd9eb5f89835a970e72dda21af7404a1029595",
+      "action.utility.inverse.hover": "9012209c94ed3704e10b38657948dafa796baf24",
+      "action.utility.inverse.pressed": "1f35fde0e7daea155f980749440f885cbcd6c57b",
+      "action.utility.inverse.border": "69292a8f524d0868bcd2970f204430b7018a0bc3",
+      "action.utility.inverse.fg": "eac6a3a43ea0b5ced3428f82924ba74c91dc3cbf",
+      "action.link.default": "5ab8f457922bdc7fd291b25cb2023df70b6f7a03",
+      "action.link.hover": "dce52cc74b0f4bd1ee3d5c696c26327cded92b25",
+      "action.link.pressed": "bfba77d486b681363651833d935322440d73c624",
+      "action.link.visited": "821aa379f975a692b67ca6f9dd2d1300acaa78ad",
+      "action.link.muted.default": "69be1f804f681bd2139f283ff35f4898819c699b",
+      "action.link.muted.hover": "f8a41f75afde9f9827ed173e1905cf120e448f22",
+      "action.link.muted.pressed": "d5981dfcdd41c94096dddec33a2757bbe1ac094d",
+      "action.link.muted.visited": "0ec52d191afcafd72b16e6f55f2c14a158ed0e54",
+      "action.link.inverted.default": "0e2045dfd0f71e7f7071ac6e2cf8b75cffd2ec65",
+      "action.link.inverted.hover": "3d8d4ca73e56fadaaba3d5c4667c7185f2dd4bef",
+      "action.link.inverted.pressed": "dedcd5bcfd678474864d359d3339fbe4e403e0c2",
+      "action.link.inverted.visited": "4e46be529d5b47d51065febfb12313d1c0d65644"
     }
   },
   {
@@ -715,7 +728,8 @@
     },
     "selectedTokenSets": {
       "Core tokens": "source",
-      "Bridging tokens": "source"
+      "Bridging tokens": "source",
+      "Bridging tokens2": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:11142:11240",
     "$figmaModeId": "11142:2",

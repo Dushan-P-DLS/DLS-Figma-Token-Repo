@@ -2,6 +2,7 @@
   "tokenSetOrder": [
     "Core tokens",
     "Bridging tokens",
+    "Bridging tokens2",
     "Component tokens"
   ]
 }
