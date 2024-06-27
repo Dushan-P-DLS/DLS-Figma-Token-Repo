@@ -4,8 +4,7 @@
     "name": "Core Tokens",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core tokens": "enabled",
-      "Bridging tokens2": "disabled"
+      "Core tokens": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:11142:10944",
     "$figmaModeId": "11142:0",
@@ -268,7 +267,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core tokens": "source",
-      "Bridging tokens2": "enabled"
+      "Component tokens": "enabled",
+      "Bridging tokens": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:11142:11158",
     "$figmaModeId": "11142:1",
@@ -417,10 +417,10 @@
       "action.link.muted.hover": "f8a41f75afde9f9827ed173e1905cf120e448f22",
       "action.link.muted.pressed": "d5981dfcdd41c94096dddec33a2757bbe1ac094d",
       "action.link.muted.visited": "0ec52d191afcafd72b16e6f55f2c14a158ed0e54",
-      "action.link.inverted.default": "0e2045dfd0f71e7f7071ac6e2cf8b75cffd2ec65",
-      "action.link.inverted.hover": "3d8d4ca73e56fadaaba3d5c4667c7185f2dd4bef",
-      "action.link.inverted.pressed": "dedcd5bcfd678474864d359d3339fbe4e403e0c2",
-      "action.link.inverted.visited": "4e46be529d5b47d51065febfb12313d1c0d65644"
+      "action.link.inverse.default": "0e2045dfd0f71e7f7071ac6e2cf8b75cffd2ec65",
+      "action.link.inverse.hover": "3d8d4ca73e56fadaaba3d5c4667c7185f2dd4bef",
+      "action.link.inverse.pressed": "dedcd5bcfd678474864d359d3339fbe4e403e0c2",
+      "action.link.inverse.visited": "4e46be529d5b47d51065febfb12313d1c0d65644"
     }
   },
   {
@@ -728,8 +728,7 @@
     },
     "selectedTokenSets": {
       "Core tokens": "source",
-      "Bridging tokens": "source",
-      "Bridging tokens2": "disabled"
+      "Bridging tokens": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:11142:11240",
     "$figmaModeId": "11142:2",

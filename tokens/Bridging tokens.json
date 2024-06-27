@@ -811,7 +811,7 @@
           "value": "{colors.secondary.04}"
         }
       },
-      "inverted": {
+      "inverse": {
         "default": {
           "type": "color",
           "value": "{colors.neutral.08}"
