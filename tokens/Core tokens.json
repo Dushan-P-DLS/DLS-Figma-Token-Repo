@@ -1802,5 +1802,19 @@
         }
       }
     }
+  },
+  "lineHeight": {
+    "16": {
+      "value": "16px",
+      "type": "lineHeights"
+    },
+    "20": {
+      "value": "20px",
+      "type": "lineHeights"
+    },
+    "24": {
+      "value": "24px",
+      "type": "lineHeights"
+    }
   }
 }

@@ -1,448 +1,672 @@
 {
-  "typography": {
-    "header": {
-      "overline01 (16)": {
-        "type": "typography",
-        "value": {
-          "fontFamily": "$fontFamilies.02",
-          "fontWeight": "$fontWeights.figma.bold",
-          "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.02",
-          "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03",
-          "fontSize": "$fontSizes.lg.02"
-        }
+  "Typography": {
+    "overline01": {
+      "value": {
+        "fontFamily": "$fontFamilies.02",
+        "fontWeight": "$fontWeights.figma.bold",
+        "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.02",
+        "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03",
+        "fontSize": "$fontSizes.lg.02"
       },
-      "sm": {
-        "display (52)": {
-          "type": "typography",
+      "type": "typography"
+    },
+    "Mobile": {
+      "Display": {
+        "X-Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.01",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.sm.10",
+            "fontSize": "$fontSizes.sm.08",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.09"
+          },
+          "type": "typography"
+        },
+        "Large": {
           "value": {
             "fontFamily": "$fontFamilies.01",
             "fontWeight": "$fontWeights.figma.semibold",
             "lineHeight": "$lineHeights.displayRatio * $fontSizes.sm.09",
-            "fontSize": "$fontSizes.sm.09",
+            "fontSize": "{fontSizes.lg.07}",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.09"
-          }
-        },
-        "title01 (40)": {
-          "type": "typography",
+          },
+          "type": "typography"
+        }
+      },
+      "Header": {
+        "2X-Large": {
           "value": {
             "fontFamily": "$fontFamilies.01",
             "fontWeight": "$fontWeights.figma.semibold",
             "lineHeight": "$lineHeights.displayRatio * $fontSizes.sm.08",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.08",
             "fontSize": "$fontSizes.sm.08"
-          }
+          },
+          "type": "typography"
         },
-        "title02 (28)": {
-          "type": "typography",
+        "X-Large": {
           "value": {
             "fontFamily": "$fontFamilies.01",
             "fontWeight": "$fontWeights.figma.semibold",
             "lineHeight": "$lineHeights.displayRatio * $fontSizes.sm.07",
             "fontSize": "$fontSizes.sm.07",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.07"
-          }
+          },
+          "type": "typography"
         },
-        "title03 (24)": {
-          "type": "typography",
+        "Large": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.semibold",
             "lineHeight": "$lineHeights.displayRatio * $fontSizes.sm.06",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.06",
             "fontSize": "$fontSizes.sm.06"
-          }
+          },
+          "type": "typography"
         },
-        "title04 (22)": {
-          "type": "typography",
+        "Medium": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.semibold",
             "lineHeight": "$lineHeights.displayRatio * $fontSizes.sm.04",
             "fontSize": "$fontSizes.sm.04",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.04"
-          }
+          },
+          "type": "typography"
         },
-        "title05 (18)": {
-          "type": "typography",
+        "Small": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.semibold",
             "lineHeight": "$lineHeights.headerRatio * $fontSizes.sm.02",
             "fontSize": "$fontSizes.sm.02",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.02"
-          }
+          },
+          "type": "typography"
         },
-        "title06 (16)": {
-          "type": "typography",
+        "X-Small": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.semibold",
             "lineHeight": "$lineHeights.headerRatio * $fontSizes.sm.01",
             "fontSize": "$fontSizes.sm.01",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.01"
-          }
+          },
+          "type": "typography"
         }
       },
-      "md": {
-        "display (58)": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.01",
-            "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.displayRatio * $fontSizes.md.09",
-            "fontSize": "$fontSizes.md.09",
-            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.09"
-          }
-        },
-        "title01 (44)": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.01",
-            "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.displayRatio * $fontSizes.md.08",
-            "fontSize": "$fontSizes.md.08",
-            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.08"
-          }
-        },
-        "title02 (32)": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.01",
-            "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.displayRatio * $fontSizes.md.07",
-            "fontSize": "$fontSizes.md.07",
-            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.07"
-          }
-        },
-        "title03 (26)": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.02",
-            "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.displayRatio * $fontSizes.md.06",
-            "fontSize": "$fontSizes.md.06",
-            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.06"
-          }
-        },
-        "title04 (24)": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.02",
-            "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.displayRatio * $fontSizes.md.05",
-            "fontSize": "$fontSizes.md.05",
-            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.05"
-          }
-        },
-        "title05 (20)": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.02",
-            "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.04",
-            "fontSize": "$fontSizes.md.04",
-            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.04"
-          }
-        },
-        "title06 (18)": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.02",
-            "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.03",
-            "fontSize": "$fontSizes.md.03",
-            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.03"
-          }
-        }
-      },
-      "lg": {
-        "display (50)": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.01",
-            "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.09",
-            "fontSize": "$fontSizes.lg.09",
-            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.09"
-          }
-        },
-        "title01 (48)": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.01",
-            "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.08",
-            "fontSize": "$fontSizes.lg.08",
-            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.08"
-          }
-        },
-        "title02 (36)": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.01",
-            "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.07",
-            "fontSize": "$fontSizes.lg.07",
-            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.07"
-          }
-        },
-        "title03 (28)": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.02",
-            "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.06",
-            "fontSize": "$fontSizes.lg.06",
-            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
-          }
-        },
-        "title04 (24)": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.02",
-            "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.05",
-            "fontSize": "$fontSizes.lg.05",
-            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.05"
-          }
-        },
-        "title05 (20)": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.02",
-            "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.04",
-            "fontSize": "$fontSizes.lg.04",
-            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.04"
-          }
-        },
-        "title06 (18)": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.02",
-            "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.03",
-            "fontSize": "$fontSizes.lg.03",
-            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03"
-          }
-        }
-      }
-    },
-    "body": {
-      "sm": {
-        "bodyXXL (20)": {
-          "type": "typography",
+      "Body": {
+        "2X-Large": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.04",
             "fontSize": "$fontSizes.sm.04",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.04"
-          }
+          },
+          "type": "typography"
         },
-        "bodyXL (18)": {
-          "type": "typography",
+        "X-Large": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.03",
             "fontSize": "$fontSizes.sm.03",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.03"
-          }
+          },
+          "type": "typography"
         },
-        "bodyL (16)": {
-          "type": "typography",
+        "Large": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.02",
             "fontSize": "$fontSizes.sm.02",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.02"
-          }
+          },
+          "type": "typography"
         },
-        "bodyL (16) - Roomy": {
-          "type": "typography",
+        "Large - Roomy": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.roomyRatio * $fontSizes.sm.02",
             "fontSize": "$fontSizes.sm.02",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.02"
-          }
+          },
+          "type": "typography"
         },
-        "bodyM (14)": {
-          "type": "typography",
+        "Medium": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.01",
             "fontSize": "$fontSizes.sm.01",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.01"
-          }
+          },
+          "type": "typography"
         },
-        "bodyS (14)": {
-          "type": "typography",
+        "Small": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.01",
             "fontSize": "$fontSizes.sm.01",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.01"
-          }
+          },
+          "type": "typography"
         },
-        "bodyXS (12)": {
-          "type": "typography",
+        "X-Small": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.00",
             "fontSize": "$fontSizes.sm.00",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.00"
-          }
+          },
+          "type": "typography"
         }
       },
-      "md": {
-        "bodyXXL (24)": {
-          "type": "typography",
+      "Label": {
+        "Large-Emphasized": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.bold}",
+            "lineHeight": "{lineHeight.24}",
+            "fontSize": "{fontSizes.md.02}",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        },
+        "Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.semibold}",
+            "lineHeight": "{lineHeight.24}",
+            "fontSize": "$fontSizes.lg.02",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        },
+        "Medium-Emphasized": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.bold}",
+            "lineHeight": "{lineHeight.20}",
+            "fontSize": "{fontSizes.lg.01}",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        },
+        "Medium": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.semibold}",
+            "lineHeight": "{lineHeight.20}",
+            "fontSize": "$fontSizes.lg.01",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        },
+        "Small-Emphasized": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.bold}",
+            "lineHeight": "{lineHeight.16}",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06",
+            "fontSize": "{fontSizes.lg.01}"
+          },
+          "type": "typography"
+        },
+        "Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.semibold}",
+            "lineHeight": "{fontSizes.lg.01}",
+            "fontSize": "$fontSizes.lg.01",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "Tablet": {
+      "Display": {
+        "X-Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.01",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.md.10",
+            "fontSize": "{fontSizes.md.09}",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.09"
+          },
+          "type": "typography"
+        },
+        "Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.01",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.md.09",
+            "fontSize": "{fontSizes.md.08}",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.09"
+          },
+          "type": "typography"
+        }
+      },
+      "Header": {
+        "2X-Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.01",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.md.08",
+            "fontSize": "$fontSizes.md.08",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.08"
+          },
+          "type": "typography"
+        },
+        "X-Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.01",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.md.07",
+            "fontSize": "$fontSizes.md.07",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.07"
+          },
+          "type": "typography"
+        },
+        "Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.md.06",
+            "fontSize": "$fontSizes.md.06",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.06"
+          },
+          "type": "typography"
+        },
+        "Medium": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.md.05",
+            "fontSize": "$fontSizes.md.05",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.05"
+          },
+          "type": "typography"
+        },
+        "Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.04",
+            "fontSize": "$fontSizes.md.04",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.04"
+          },
+          "type": "typography"
+        },
+        "X-Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.03",
+            "fontSize": "$fontSizes.md.03",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.03"
+          },
+          "type": "typography"
+        }
+      },
+      "Body": {
+        "2X-Large": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.05",
             "fontSize": "$fontSizes.md.05",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.05"
-          }
+          },
+          "type": "typography"
         },
-        "bodyXL (20)": {
-          "type": "typography",
+        "X-Large": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.04",
             "fontSize": "$fontSizes.md.04",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.04"
-          }
+          },
+          "type": "typography"
         },
-        "bodyL (18)": {
-          "type": "typography",
+        "Large": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.03",
             "fontSize": "$fontSizes.md.03",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.03"
-          }
+          },
+          "type": "typography"
         },
-        "bodyL (18) - Roomy": {
-          "type": "typography",
+        "Large - Roomy": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.roomyRatio * $fontSizes.md.03",
             "fontSize": "$fontSizes.md.03",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.03"
-          }
+          },
+          "type": "typography"
         },
-        "bodyM (16)": {
-          "type": "typography",
+        "Medium": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.02",
             "fontSize": "$fontSizes.md.02",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.02"
-          }
+          },
+          "type": "typography"
         },
-        "bodyS (14)": {
-          "type": "typography",
+        "Small": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.01",
             "fontSize": "$fontSizes.md.01",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.01"
-          }
+          },
+          "type": "typography"
         },
-        "bodyXS (12)": {
-          "type": "typography",
+        "X-Small": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.00",
             "fontSize": "$fontSizes.md.00",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.00"
-          }
+          },
+          "type": "typography"
         }
       },
-      "lg": {
-        "bodyXXL (28)": {
-          "type": "typography",
+      "Label": {
+        "Large-Emphasized": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.bold}",
+            "lineHeight": "{lineHeight.24}",
+            "fontSize": "{fontSizes.md.02}",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        },
+        "Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.semibold}",
+            "lineHeight": "{lineHeight.24}",
+            "fontSize": "$fontSizes.lg.02",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        },
+        "Medium-Emphasized": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.bold}",
+            "lineHeight": "{lineHeight.20}",
+            "fontSize": "{fontSizes.lg.01}",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        },
+        "Medium": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.semibold}",
+            "lineHeight": "{lineHeight.20}",
+            "fontSize": "$fontSizes.lg.01",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        },
+        "Small-Emphasized": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.bold}",
+            "lineHeight": "{lineHeight.16}",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06",
+            "fontSize": "{fontSizes.lg.01}"
+          },
+          "type": "typography"
+        },
+        "Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.semibold}",
+            "lineHeight": "{fontSizes.lg.01}",
+            "fontSize": "$fontSizes.lg.01",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "Desktop": {
+      "Display": {
+        "X-Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.01",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.10",
+            "fontSize": "{fontSizes.lg.10}",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.09"
+          },
+          "type": "typography"
+        },
+        "Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.01",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.09",
+            "fontSize": "{fontSizes.lg.09}",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.09"
+          },
+          "type": "typography"
+        }
+      },
+      "Header": {
+        "2X-Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.01",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.08",
+            "fontSize": "$fontSizes.lg.08",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.08"
+          },
+          "type": "typography"
+        },
+        "X-Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.01",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.07",
+            "fontSize": "$fontSizes.lg.07",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.07"
+          },
+          "type": "typography"
+        },
+        "Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.06",
+            "fontSize": "$fontSizes.lg.06",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        },
+        "Medium": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.05",
+            "fontSize": "$fontSizes.lg.05",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.05"
+          },
+          "type": "typography"
+        },
+        "Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.04",
+            "fontSize": "$fontSizes.lg.04",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.04"
+          },
+          "type": "typography"
+        },
+        "X-Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.03",
+            "fontSize": "$fontSizes.lg.03",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03"
+          },
+          "type": "typography"
+        }
+      },
+      "Body": {
+        "2X-Large": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.06",
             "fontSize": "$fontSizes.lg.06",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
-          }
+          },
+          "type": "typography"
         },
-        "bodyXL (22)": {
-          "type": "typography",
+        "X-Large": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.05",
             "fontSize": "$fontSizes.sm.05",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.05"
-          }
+          },
+          "type": "typography"
         },
-        "bodyL (18)": {
-          "type": "typography",
+        "Large": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.03",
             "fontSize": "$fontSizes.lg.03",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03"
-          }
+          },
+          "type": "typography"
         },
-        "bodyL (18) - Roomy": {
-          "type": "typography",
+        "Large - Roomy": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.roomyRatio * $fontSizes.lg.03",
             "fontSize": "$fontSizes.lg.03",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03"
-          }
+          },
+          "type": "typography"
         },
-        "bodyM (16)": {
-          "type": "typography",
+        "Medium": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.02",
             "fontSize": "$fontSizes.lg.02",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.02"
-          }
+          },
+          "type": "typography"
         },
-        "bodyS (14)": {
-          "type": "typography",
+        "Small": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.01",
             "fontSize": "$fontSizes.lg.01",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.01"
-          }
+          },
+          "type": "typography"
         },
-        "bodyXS (12)": {
-          "type": "typography",
+        "X-Small": {
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.regular",
             "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.00",
             "fontSize": "$fontSizes.lg.00",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.00"
-          }
+          },
+          "type": "typography"
+        }
+      },
+      "Label": {
+        "Large-Emphasized": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.bold}",
+            "lineHeight": "{lineHeight.24}",
+            "fontSize": "$fontSizes.lg.02",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        },
+        "Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.semibold}",
+            "lineHeight": "{lineHeight.24}",
+            "fontSize": "$fontSizes.lg.02",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        },
+        "Medium-Emphasized": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.bold}",
+            "lineHeight": "{lineHeight.20}",
+            "fontSize": "{fontSizes.lg.01}",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        },
+        "Medium": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.semibold}",
+            "lineHeight": "{lineHeight.20}",
+            "fontSize": "$fontSizes.lg.01",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
+        },
+        "Small-Emphasized": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.bold}",
+            "lineHeight": "{lineHeight.16}",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06",
+            "fontSize": "{fontSizes.lg.01}"
+          },
+          "type": "typography"
+        },
+        "Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "{fontWeights.figma.semibold}",
+            "lineHeight": "{fontSizes.lg.01}",
+            "fontSize": "$fontSizes.lg.01",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+          },
+          "type": "typography"
         }
       }
     }
