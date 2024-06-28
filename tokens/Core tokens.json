@@ -1373,14 +1373,19 @@
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.09"
           }
         },
-        "title01 (40)": {
+        "DUSHAN": {
           "type": "typography",
           "value": {
             "fontFamily": "$fontFamilies.01",
             "fontWeight": "$fontWeights.figma.semibold",
             "lineHeight": "$lineHeights.displayRatio * $fontSizes.sm.08",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.08",
-            "fontSize": "$fontSizes.sm.08"
+            "fontSize": "50px"
+          },
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {}
+            }
           }
         },
         "title02 (28)": {

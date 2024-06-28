@@ -795,31 +795,31 @@
   },
   "input": {
     "radius": {
-      "type": "borderRadius",
-      "value": "{borderRadius.radius01}"
+      "value": "{borderRadius.radius01}",
+      "type": "borderRadius"
     }
   },
   "icon": {
     "size": {
       "small": {
-        "type": "sizing",
-        "value": "{sizing.02}"
+        "value": "{sizing.02}",
+        "type": "sizing"
       },
       "medium": {
-        "type": "sizing",
-        "value": "{sizing.03}"
+        "value": "{sizing.03}",
+        "type": "sizing"
       },
       "large": {
-        "type": "sizing",
-        "value": "{sizing.04}"
+        "value": "{sizing.04}",
+        "type": "sizing"
       },
       "x-large": {
-        "type": "sizing",
-        "value": "{sizing.06}"
+        "value": "{sizing.06}",
+        "type": "sizing"
       },
       "jumbo": {
-        "type": "sizing",
-        "value": "{sizing.08}"
+        "value": "{sizing.08}",
+        "type": "sizing"
       }
     }
   }
