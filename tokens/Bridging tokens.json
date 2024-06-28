@@ -822,5 +822,16 @@
         "type": "sizing"
       }
     }
+  },
+  "Typography": {
+    "69": {
+      "value": {
+        "fontFamily": "Roboto",
+        "fontWeight": "Bold",
+        "fontSize": "69",
+        "lineHeight": "100%"
+      },
+      "type": "typography"
+    }
   }
 }
