@@ -792,5 +792,35 @@
         }
       }
     }
+  },
+  "input": {
+    "radius": {
+      "type": "borderRadius",
+      "value": "{borderRadius.radius01}"
+    }
+  },
+  "icon": {
+    "size": {
+      "small": {
+        "type": "sizing",
+        "value": "{sizing.02}"
+      },
+      "medium": {
+        "type": "sizing",
+        "value": "{sizing.03}"
+      },
+      "large": {
+        "type": "sizing",
+        "value": "{sizing.04}"
+      },
+      "x-large": {
+        "type": "sizing",
+        "value": "{sizing.06}"
+      },
+      "jumbo": {
+        "type": "sizing",
+        "value": "{sizing.08}"
+      }
+    }
   }
 }
