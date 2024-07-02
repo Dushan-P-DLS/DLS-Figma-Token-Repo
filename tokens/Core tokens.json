@@ -1374,6 +1374,11 @@
           }
         },
         "DUSHAN": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {}
+            }
+          },
           "type": "typography",
           "value": {
             "fontFamily": "$fontFamilies.01",
@@ -1381,11 +1386,6 @@
             "lineHeight": "$lineHeights.displayRatio * $fontSizes.sm.08",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.08",
             "fontSize": "50px"
-          },
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {}
-            }
           }
         },
         "title02 (28)": {
@@ -1805,16 +1805,16 @@
   },
   "lineHeight": {
     "16": {
-      "value": "16px",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "value": "16px"
     },
     "20": {
-      "value": "20px",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "value": "20px"
     },
     "24": {
-      "value": "24px",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "value": "24px"
     }
   }
 }
