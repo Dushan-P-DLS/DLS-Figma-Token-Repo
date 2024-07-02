@@ -1373,7 +1373,7 @@
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.09"
           }
         },
-        "DUSHAN": {
+        "title01 (32)": {
           "$extensions": {
             "studio.tokens": {
               "modify": {}
@@ -1815,6 +1815,14 @@
     "24": {
       "type": "lineHeights",
       "value": "24px"
+    }
+  },
+  "DUSH": {
+    "ROUND": {
+      "TEST": {
+        "type": "borderRadius",
+        "value": "50%"
+      }
     }
   }
 }
