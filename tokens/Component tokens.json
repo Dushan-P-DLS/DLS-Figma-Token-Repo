@@ -5,80 +5,80 @@
         "sm": {
           "padding": {
             "vertical": {
-              "value": "$spacing.bridging.sm",
-              "type": "spacing"
+              "type": "spacing",
+              "value": "$spacing.bridging.sm"
             },
             "horizontal": {
-              "value": "$spacing.bridging.default",
-              "type": "spacing"
+              "type": "spacing",
+              "value": "$spacing.bridging.default"
             }
           },
           "iconOnly": {
             "padding": {
-              "value": "$spacing.bridging.sm",
-              "type": "spacing"
+              "type": "spacing",
+              "value": "$spacing.bridging.sm"
             }
           }
         },
         "lg": {
           "padding": {
             "vertical": {
-              "value": "$spacing.bridging.default",
-              "type": "spacing"
+              "type": "spacing",
+              "value": "$spacing.bridging.default"
             },
             "horizontal": {
-              "value": "$spacing.bridging.lg",
-              "type": "spacing"
+              "type": "spacing",
+              "value": "$spacing.bridging.lg"
             }
           },
           "iconOnly": {
             "padding": {
-              "value": "$spacing.bridging.default",
-              "type": "spacing"
+              "type": "spacing",
+              "value": "$spacing.bridging.default"
             }
           }
         },
         "icon": {
           "padding": {
-            "value": "$spacing.bridging.sm",
-            "type": "spacing"
+            "type": "spacing",
+            "value": "$spacing.bridging.sm"
           }
         },
         "spacing": {
-          "value": "$spacing.bridging.default",
           "type": "spacing",
+          "value": "$spacing.bridging.default",
           "description": "Used to space between button components"
         }
       },
       "radio": {
         "padding": {
-          "value": "$spacing.bridging.form.type.padding",
-          "type": "spacing"
+          "type": "spacing",
+          "value": "$spacing.bridging.form.type.padding"
         },
         "icon": {
           "padding": {
-            "value": "$spacing.bridging.sm",
-            "type": "spacing"
+            "type": "spacing",
+            "value": "$spacing.bridging.sm"
           }
         }
       },
       "form": {
         "section": {
           "padding": {
-            "value": "$spacing.bridging.sm",
-            "type": "spacing"
+            "type": "spacing",
+            "value": "$spacing.bridging.sm"
           }
         },
         "icon": {
           "padding": {
-            "value": "$spacing.bridging.sm",
-            "type": "spacing"
+            "type": "spacing",
+            "value": "$spacing.bridging.sm"
           }
         },
         "type": {
           "padding": {
-            "value": "$spacing.bridging.form.type.padding",
-            "type": "spacing"
+            "type": "spacing",
+            "value": "$spacing.bridging.form.type.padding"
           }
         }
       },
@@ -87,52 +87,52 @@
           "sm": {
             "breakpoint": {
               "sm": {
-                "value": "$spacing.bridging.md",
-                "type": "spacing"
+                "type": "spacing",
+                "value": "$spacing.bridging.md"
               },
               "md": {
-                "value": "$spacing.bridging.lg",
-                "type": "spacing"
+                "type": "spacing",
+                "value": "$spacing.bridging.lg"
               },
               "lg": {
-                "value": "$spacing.bridging.lg",
-                "type": "spacing"
+                "type": "spacing",
+                "value": "$spacing.bridging.lg"
               },
               "xs": {
-                "value": "$spacing.bridging.sm",
-                "type": "spacing"
+                "type": "spacing",
+                "value": "$spacing.bridging.sm"
               }
             }
           },
           "md": {
             "breakpoint": {
               "sm": {
-                "value": "$spacing.bridging.md",
-                "type": "spacing"
+                "type": "spacing",
+                "value": "$spacing.bridging.md"
               },
               "md": {
-                "value": "$spacing.bridging.lg",
-                "type": "spacing"
+                "type": "spacing",
+                "value": "$spacing.bridging.lg"
               },
               "lg": {
-                "value": "$spacing.bridging.padding.04",
-                "type": "spacing"
+                "type": "spacing",
+                "value": "$spacing.bridging.padding.04"
               }
             }
           },
           "lg": {
             "breakpoint": {
               "sm": {
-                "value": "$spacing.bridging.padding.04",
-                "type": "spacing"
+                "type": "spacing",
+                "value": "$spacing.bridging.padding.04"
               },
               "md": {
-                "value": "$spacing.bridging.padding.05",
-                "type": "spacing"
+                "type": "spacing",
+                "value": "$spacing.bridging.padding.05"
               },
               "lg": {
-                "value": "$spacing.bridging.padding.06",
-                "type": "spacing"
+                "type": "spacing",
+                "value": "$spacing.bridging.padding.06"
               }
             }
           }
@@ -141,20 +141,20 @@
       "notification": {
         "padding": {
           "sm": {
-            "value": "$spacing.bridging.sm",
-            "type": "spacing"
+            "type": "spacing",
+            "value": "$spacing.bridging.sm"
           },
           "md": {
-            "value": "$spacing.bridging.md",
-            "type": "spacing"
+            "type": "spacing",
+            "value": "$spacing.bridging.md"
           },
           "lg": {
-            "value": "$spacing.bridging.lg",
-            "type": "spacing"
+            "type": "spacing",
+            "value": "$spacing.bridging.lg"
           },
           "icon": {
-            "value": "$spacing.bridging.md",
             "type": "spacing",
+            "value": "$spacing.bridging.md",
             "description": "Top and right padding tokens for icon"
           }
         }
@@ -162,21 +162,21 @@
       "modal": {
         "padding": {
           "icon": {
-            "value": "$spacing.bridging.md",
-            "type": "spacing"
+            "type": "spacing",
+            "value": "$spacing.bridging.md"
           },
           "breakpoint": {
             "sm": {
-              "value": "$spacing.bridging.md",
-              "type": "spacing"
+              "type": "spacing",
+              "value": "$spacing.bridging.md"
             },
             "md": {
-              "value": "$spacing.bridging.lg",
-              "type": "spacing"
+              "type": "spacing",
+              "value": "$spacing.bridging.lg"
             },
             "lg": {
-              "value": "$spacing.bridging.lg",
-              "type": "spacing"
+              "type": "spacing",
+              "value": "$spacing.bridging.lg"
             }
           }
         }
@@ -187,57 +187,57 @@
     "component": {
       "primary": {
         "01": {
-          "value": "$colors.primary.01",
           "type": "color",
+          "value": "$colors.primary.01",
           "description": "Dark Blue"
         },
         "02": {
-          "value": "$colors.primary.02",
           "type": "color",
+          "value": "$colors.primary.02",
           "description": "Light Blue"
         }
       },
       "secondary": {
         "01": {
-          "value": "$colors.secondary.01",
           "type": "color",
+          "value": "$colors.secondary.01",
           "description": "Yellow Light"
         },
         "02": {
-          "value": "$colors.secondary.02",
           "type": "color",
+          "value": "$colors.secondary.02",
           "description": "Yellow Dark"
         },
         "03": {
-          "value": "$colors.secondary.03",
           "type": "color",
+          "value": "$colors.secondary.03",
           "description": "Purple Light"
         },
         "04": {
-          "value": "$colors.secondary.04",
           "type": "color",
+          "value": "$colors.secondary.04",
           "description": "Purple Dark"
         }
       },
       "tertiary": {
         "01": {
-          "value": "$colors.tertiary.01",
           "type": "color",
+          "value": "$colors.tertiary.01",
           "description": "Green Light"
         },
         "02": {
-          "value": "$colors.tertiary.02",
           "type": "color",
+          "value": "$colors.tertiary.02",
           "description": "Green Dark"
         },
         "03": {
-          "value": "$colors.tertiary.03",
           "type": "color",
+          "value": "$colors.tertiary.03",
           "description": "Pink Light"
         },
         "04": {
-          "value": "$colors.tertiary.04",
           "type": "color",
+          "value": "$colors.tertiary.04",
           "description": "Pink Dark"
         }
       },
@@ -245,25 +245,25 @@
         "primary": {
           "01": {
             "60": {
-              "value": "$colors.tint.primary.01.60",
               "type": "color",
+              "value": "$colors.tint.primary.01.60",
               "description": "tint-primary-01-60"
             },
             "80": {
-              "value": "$colors.tint.primary.01.80",
               "type": "color",
+              "value": "$colors.tint.primary.01.80",
               "description": "tint-primary-01-80"
             }
           },
           "02": {
             "60": {
-              "value": "$colors.tint.primary.02.60",
               "type": "color",
+              "value": "$colors.tint.primary.02.60",
               "description": "tint-primary-02-60"
             },
             "80": {
-              "value": "$colors.tint.primary.02.80",
               "type": "color",
+              "value": "$colors.tint.primary.02.80",
               "description": "tint-primary-02-80"
             }
           }
@@ -271,49 +271,49 @@
         "secondary": {
           "01": {
             "60": {
-              "value": "$colors.tint.secondary.01.60",
               "type": "color",
+              "value": "$colors.tint.secondary.01.60",
               "description": "tint-secondary-01-60"
             },
             "80": {
-              "value": "$colors.tint.secondary.01.80",
               "type": "color",
+              "value": "$colors.tint.secondary.01.80",
               "description": "tint-secondary-01-80"
             }
           },
           "02": {
             "60": {
-              "value": "$colors.tint.secondary.02.60",
               "type": "color",
+              "value": "$colors.tint.secondary.02.60",
               "description": "tint-secondary-02-60"
             },
             "80": {
-              "value": "$colors.tint.secondary.02.80",
               "type": "color",
+              "value": "$colors.tint.secondary.02.80",
               "description": "tint-secondary-02-80"
             }
           },
           "03": {
             "60": {
-              "value": "$colors.tint.secondary.03.60",
               "type": "color",
+              "value": "$colors.tint.secondary.03.60",
               "description": "tint-secondary-03-60"
             },
             "80": {
-              "value": "$colors.tint.secondary.03.80",
               "type": "color",
+              "value": "$colors.tint.secondary.03.80",
               "description": "tint-secondary-03-80"
             }
           },
           "04": {
             "60": {
-              "value": "$colors.tint.secondary.04.60",
               "type": "color",
+              "value": "$colors.tint.secondary.04.60",
               "description": "tint-secondary-04-60"
             },
             "80": {
-              "value": "$colors.tint.secondary.04.80",
               "type": "color",
+              "value": "$colors.tint.secondary.04.80",
               "description": "tint-secondary-04-80"
             }
           }
@@ -321,49 +321,49 @@
         "tertiary": {
           "01": {
             "60": {
-              "value": "$colors.tint.tertiary.01.60",
               "type": "color",
+              "value": "$colors.tint.tertiary.01.60",
               "description": "tint-tertiary-01-60"
             },
             "80": {
-              "value": "$colors.tint.tertiary.01.80",
               "type": "color",
+              "value": "$colors.tint.tertiary.01.80",
               "description": "tint-tertiary-01-80"
             }
           },
           "02": {
             "60": {
-              "value": "$colors.tint.tertiary.02.60",
               "type": "color",
+              "value": "$colors.tint.tertiary.02.60",
               "description": "tint-tertiary-02-60"
             },
             "80": {
-              "value": "$colors.tint.tertiary.02.80",
               "type": "color",
+              "value": "$colors.tint.tertiary.02.80",
               "description": "tint-tertiary-02-80"
             }
           },
           "03": {
             "60": {
-              "value": "$colors.tint.tertiary.03.60",
               "type": "color",
+              "value": "$colors.tint.tertiary.03.60",
               "description": "tint-tertiary-03-60"
             },
             "80": {
-              "value": "$colors.tint.tertiary.03.80",
               "type": "color",
+              "value": "$colors.tint.tertiary.03.80",
               "description": "tint-tertiary-03-80"
             }
           },
           "04": {
             "60": {
-              "value": "$colors.tint.tertiary.04.60",
               "type": "color",
+              "value": "$colors.tint.tertiary.04.60",
               "description": "tint-tertiary-04-60"
             },
             "80": {
-              "value": "$colors.tint.tertiary.04.80",
               "type": "color",
+              "value": "$colors.tint.tertiary.04.80",
               "description": "tint-tertiary-04-80"
             }
           }
@@ -374,182 +374,182 @@
           "background": {
             "primary": {
               "enabled": {
-                "value": "$colors.bridging.interactive.01",
                 "type": "color",
+                "value": "$colors.bridging.interactive.01",
                 "description": "Primary interaction button & link colour"
               },
               "hover": {
-                "value": "$colors.bridging.interactive.hover.01",
                 "type": "color",
+                "value": "$colors.bridging.interactive.hover.01",
                 "description": "Primary hover button colour"
               },
               "pressed": {
-                "value": "$colors.bridging.interactive.pressed.01",
                 "type": "color",
+                "value": "$colors.bridging.interactive.pressed.01",
                 "description": "Primary pressed button colour"
               }
             },
             "secondary": {
               "enabled": {
-                "value": "$colors.UtilityFigmaOnly.noColour",
                 "type": "color",
+                "value": "$colors.UtilityFigmaOnly.noColour",
                 "description": "No background colour"
               },
               "hover": {
-                "value": "$colors.bridging.interactive.hover.02",
                 "type": "color",
+                "value": "$colors.bridging.interactive.hover.02",
                 "description": "Secondary hover button colour"
               },
               "pressed": {
-                "value": "$colors.bridging.interactive.pressed.02",
                 "type": "color",
+                "value": "$colors.bridging.interactive.pressed.02",
                 "description": "Secondary pressed button colour"
               }
             },
             "tertiary": {
               "enabled": {
-                "value": "$colors.UtilityFigmaOnly.noColour",
                 "type": "color",
+                "value": "$colors.UtilityFigmaOnly.noColour",
                 "description": "No background colour"
               },
               "hover": {
-                "value": "$colors.bridging.interactive.hover.02",
                 "type": "color",
+                "value": "$colors.bridging.interactive.hover.02",
                 "description": "Tertiary hover button colour"
               },
               "pressed": {
-                "value": "$colors.bridging.interactive.pressed.02",
                 "type": "color",
+                "value": "$colors.bridging.interactive.pressed.02",
                 "description": "Tertiary pressed button colour"
               }
             },
             "disabled": {
-              "value": "$colors.bridging.interactive.disabled.01",
               "type": "color",
+              "value": "$colors.bridging.interactive.disabled.01",
               "description": "Disabled button - background colour"
             }
           },
           "type": {
             "primary": {
               "enabled": {
-                "value": "$colors.bridging.type.05",
                 "type": "color",
+                "value": "$colors.text.onDark",
                 "description": "Primary enabled text"
               },
               "hover": {
-                "value": "$colors.bridging.type.05",
                 "type": "color",
+                "value": "$colors.text.onDark",
                 "description": "Primary hover text"
               },
               "pressed": {
-                "value": "$colors.bridging.type.pressed.01",
                 "type": "color",
+                "value": "$colors.text.pressed.01",
                 "description": "Primary pressed text"
               }
             },
             "secondary": {
               "enabled": {
-                "value": "$colors.bridging.type.04",
                 "type": "color",
+                "value": "$colors.text.04",
                 "description": "Secondary enabled text"
               },
               "hover": {
-                "value": "$colors.bridging.type.hover.02",
                 "type": "color",
+                "value": "$colors.text.hover.02",
                 "description": "Secondary hover text"
               },
               "pressed": {
-                "value": "$colors.bridging.type.pressed.02",
                 "type": "color",
+                "value": "$colors.text.pressed.02",
                 "description": "Secondary pressed text"
               }
             },
             "tertiary": {
               "enabled": {
-                "value": "$colors.bridging.type.04",
                 "type": "color",
+                "value": "$colors.text.04",
                 "description": "Tertiary enabled text"
               },
               "hover": {
-                "value": "$colors.bridging.type.hover.02",
                 "type": "color",
+                "value": "$colors.text.hover.02",
                 "description": "Tertiary hover text"
               },
               "pressed": {
-                "value": "$colors.bridging.type.pressed.02",
                 "type": "color",
+                "value": "$colors.text.pressed.02",
                 "description": "Tertiary presed text"
               }
             },
             "disabled": {
-              "value": "$colors.bridging.type.02",
               "type": "color",
+              "value": "$colors.text.subtle",
               "description": "Disabled text"
             }
           },
           "icon": {
             "primary": {
               "enabled": {
-                "value": "$colors.bridging.icon.05",
                 "type": "color",
+                "value": "$colors.icon.onDark",
                 "description": "Primary enabled icon"
               },
               "hover": {
-                "value": "$colors.bridging.icon.05",
                 "type": "color",
+                "value": "$colors.icon.onDark",
                 "description": "Primary hover icon"
               },
               "pressed": {
-                "value": "$colors.bridging.icon.pressed.01",
                 "type": "color",
+                "value": "$colors.icon.pressed.01",
                 "description": "Primary pressed icon"
               }
             },
             "secondary": {
               "enabled": {
-                "value": "$colors.bridging.icon.04",
                 "type": "color",
+                "value": "$colors.icon.04",
                 "description": "Secondary enabled icon"
               },
               "hover": {
-                "value": "$colors.bridging.icon.hover.02",
                 "type": "color",
+                "value": "$colors.icon.hover.02",
                 "description": "Secondary hover icon"
               },
               "pressed": {
-                "value": "$colors.bridging.icon.pressed.02",
                 "type": "color",
+                "value": "$colors.icon.pressed.02",
                 "description": "Secondary pressed icon"
               }
             },
             "tertiary": {
               "enabled": {
-                "value": "$colors.bridging.icon.04",
                 "type": "color",
+                "value": "$colors.icon.04",
                 "description": "Tertiary enabled icon"
               },
               "hover": {
-                "value": "$colors.bridging.icon.hover.02",
                 "type": "color",
+                "value": "$colors.icon.hover.02",
                 "description": "Tertiary hover icon"
               },
               "pressed": {
-                "value": "$colors.bridging.icon.pressed.02",
                 "type": "color",
+                "value": "$colors.icon.pressed.02",
                 "description": "Tertiary presed icon"
               }
             },
             "disabled": {
-              "value": "$colors.bridging.icon.02",
               "type": "color",
+              "value": "$colors.icon.subtle",
               "description": "Disabled icon"
             }
           },
           "border": {
             "secondary": {
               "enabled": {
-                "value": "$colors.bridging.border.04",
                 "type": "color",
+                "value": "$colors.bridging.border.04",
                 "description": "Secondary button border colour"
               }
             }
@@ -559,182 +559,182 @@
           "background": {
             "primary": {
               "enabled": {
-                "value": "$colors.bridging.interactive.inverse.01",
                 "type": "color",
+                "value": "$colors.bridging.interactive.inverse.01",
                 "description": "Inverse primary interaction button colour"
               },
               "hover": {
-                "value": "$colors.bridging.interactive.inverse.hover.01",
                 "type": "color",
+                "value": "$colors.bridging.interactive.inverse.hover.01",
                 "description": "Inverse primary hover button colour"
               },
               "pressed": {
-                "value": "$colors.bridging.interactive.inverse.pressed.02",
                 "type": "color",
+                "value": "$colors.bridging.interactive.inverse.pressed.02",
                 "description": "Inverse primary pressed button colour"
               }
             },
             "secondary": {
               "enabled": {
-                "value": "$colors.UtilityFigmaOnly.noColour",
                 "type": "color",
+                "value": "$colors.UtilityFigmaOnly.noColour",
                 "description": "No background colour"
               },
               "hover": {
-                "value": "$colors.bridging.interactive.inverse.hover.01",
                 "type": "color",
+                "value": "$colors.bridging.interactive.inverse.hover.01",
                 "description": "Inverse secondary hover button colour"
               },
               "pressed": {
-                "value": "$colors.bridging.interactive.inverse.pressed.02",
                 "type": "color",
+                "value": "$colors.bridging.interactive.inverse.pressed.02",
                 "description": "Inverse secondary pressed button colour"
               }
             },
             "tertiary": {
               "enabled": {
-                "value": "$colors.UtilityFigmaOnly.noColour",
                 "type": "color",
+                "value": "$colors.UtilityFigmaOnly.noColour",
                 "description": "No background colour"
               },
               "hover": {
-                "value": "$colors.bridging.interactive.inverse.hover.01",
                 "type": "color",
+                "value": "$colors.bridging.interactive.inverse.hover.01",
                 "description": "Inverse tertiary hover button colour"
               },
               "pressed": {
-                "value": "$colors.bridging.interactive.inverse.pressed.02",
                 "type": "color",
+                "value": "$colors.bridging.interactive.inverse.pressed.02",
                 "description": "Inverse tertiary pressed button colour"
               }
             },
             "disabled": {
-              "value": "$colors.bridging.interactive.disabled.01",
               "type": "color",
+              "value": "$colors.bridging.interactive.disabled.01",
               "description": "Disabled button - background colour"
             }
           },
           "type": {
             "primary": {
               "enabled": {
-                "value": "$colors.bridging.type.04",
                 "type": "color",
+                "value": "$colors.text.04",
                 "description": "Inverse primary enabled text"
               },
               "hover": {
-                "value": "$colors.bridging.type.inverse.hover.01",
                 "type": "color",
+                "value": "$colors.text.inverse.hover.01",
                 "description": "Inverse primary hover text"
               },
               "pressed": {
-                "value": "$colors.bridging.type.inverse.pressed.02",
                 "type": "color",
+                "value": "$colors.text.inverse.pressed.02",
                 "description": "Inverse primary pressed text"
               }
             },
             "secondary": {
               "enabled": {
-                "value": "$colors.bridging.interactive.inverse.01",
                 "type": "color",
+                "value": "$colors.bridging.interactive.inverse.01",
                 "description": "Inverse secondary enabled text"
               },
               "hover": {
-                "value": "$colors.bridging.type.inverse.hover.01",
                 "type": "color",
+                "value": "$colors.text.inverse.hover.01",
                 "description": "Inverse secondary hover text"
               },
               "pressed": {
-                "value": "$colors.bridging.type.inverse.pressed.02",
                 "type": "color",
+                "value": "$colors.text.inverse.pressed.02",
                 "description": "Inverse secondary pressed text"
               }
             },
             "tertiary": {
               "enabled": {
-                "value": "$colors.bridging.interactive.inverse.01",
                 "type": "color",
+                "value": "$colors.bridging.interactive.inverse.01",
                 "description": "Inverse tertiary enabled text"
               },
               "hover": {
-                "value": "$colors.bridging.type.inverse.hover.01",
                 "type": "color",
+                "value": "$colors.text.inverse.hover.01",
                 "description": "Inverse tertiary hover text"
               },
               "pressed": {
-                "value": "$colors.bridging.type.inverse.pressed.02",
                 "type": "color",
+                "value": "$colors.text.inverse.pressed.02",
                 "description": "Inverse tertiary pressed text"
               }
             },
             "disabled": {
-              "value": "$colors.bridging.type.02",
               "type": "color",
+              "value": "$colors.text.subtle",
               "description": "Inverse disabled text"
             }
           },
           "icon": {
             "primary": {
               "enabled": {
-                "value": "$colors.bridging.icon.04",
                 "type": "color",
+                "value": "$colors.icon.04",
                 "description": "Inverse primary enabled icon"
               },
               "hover": {
-                "value": "$colors.bridging.icon.inverse.hover.01",
                 "type": "color",
+                "value": "$colors.icon.inverse.hover.01",
                 "description": "Inverse primary hover icon"
               },
               "pressed": {
-                "value": "$colors.bridging.icon.inverse.pressed.02",
                 "type": "color",
+                "value": "$colors.icon.inverse.pressed.02",
                 "description": "Inverse primary pressed icon"
               }
             },
             "secondary": {
               "enabled": {
-                "value": "$colors.bridging.interactive.inverse.01",
                 "type": "color",
+                "value": "$colors.bridging.interactive.inverse.01",
                 "description": "Inverse secondary enabled icon"
               },
               "hover": {
-                "value": "$colors.bridging.icon.inverse.hover.01",
                 "type": "color",
+                "value": "$colors.icon.inverse.hover.01",
                 "description": "Inverse secondary hover icon"
               },
               "pressed": {
-                "value": "$colors.bridging.icon.inverse.pressed.02",
                 "type": "color",
+                "value": "$colors.icon.inverse.pressed.02",
                 "description": "Inverse secondary pressed icon"
               }
             },
             "tertiary": {
               "enabled": {
-                "value": "$colors.bridging.interactive.inverse.01",
                 "type": "color",
+                "value": "$colors.bridging.interactive.inverse.01",
                 "description": "Inverse tertiary enabled icon"
               },
               "hover": {
-                "value": "$colors.bridging.icon.inverse.hover.01",
                 "type": "color",
+                "value": "$colors.icon.inverse.hover.01",
                 "description": "Inverse tertiary hover icon"
               },
               "pressed": {
-                "value": "$colors.bridging.icon.inverse.pressed.02",
                 "type": "color",
+                "value": "$colors.icon.inverse.pressed.02",
                 "description": "Inverse tertiary pressed icon"
               }
             },
             "disabled": {
-              "value": "$colors.bridging.icon.02",
               "type": "color",
+              "value": "$colors.icon.subtle",
               "description": "Inverse disabled icon"
             }
           },
           "border": {
             "secondary": {
               "enabled": {
-                "value": "{colors.bridging.border.05}",
                 "type": "color",
+                "value": "{colors.bridging.border.05}",
                 "description": "Interactive border colour"
               }
             }
@@ -744,209 +744,441 @@
       "radio": {
         "border": {
           "enabled": {
-            "value": "$colors.bridging.border.02",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.border.02"
           },
           "hover": {
-            "value": "$colors.bridging.border.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.border.01"
           },
           "pressed": {
-            "value": "$colors.bridging.interactive.pressed.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.border.01"
           },
           "error": {
-            "value": "$colors.alert.error",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.alert.error"
           },
           "selected": {
             "enabled": {
-              "value": "$colors.bridging.interactive.01",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.bridging.interactive.01"
             },
             "hover": {
-              "value": "$colors.bridging.interactive.hover.01",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.bridging.interactive.hover.01"
             },
             "error": {
-              "value": "$colors.alert.error",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.alert.error"
             }
           }
         },
         "type": {
           "enabled": {
-            "value": "$colors.bridging.type.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.text.default"
           },
           "disabled": {
-            "value": "$colors.bridging.type.02",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.text.subtle"
           }
         },
         "background": {
-          "value": "$colors.bridging.background.ui.01",
-          "type": "color"
+          "type": "color",
+          "value": "$colors.bridging.background.ui.01"
+        },
+        "card": {
+          "border": {
+            "enabled": {
+              "type": "color",
+              "value": "$colors.bridging.border.02"
+            },
+            "hover": {
+              "type": "color",
+              "value": "$colors.bridging.border.01"
+            },
+            "pressed": {
+              "type": "color",
+              "value": "{colors.bridging.border.01}"
+            },
+            "error": {
+              "type": "color",
+              "value": "$colors.alert.error"
+            }
+          },
+          "selected": {
+            "border": {
+              "enabled": {
+                "type": "color",
+                "value": "{colors.bridging.interactive.selected.border.default}"
+              },
+              "hover": {
+                "type": "color",
+                "value": "{colors.bridging.interactive.selected.border.hover}"
+              },
+              "pressed": {
+                "type": "color",
+                "value": "{colors.bridging.interactive.selected.border.pressed}"
+              },
+              "error": {
+                "type": "color",
+                "value": "$colors.alert.error"
+              }
+            },
+            "bg": {
+              "default": {
+                "type": "color",
+                "value": "{colors.bridging.interactive.selected.bg.default}"
+              },
+              "hover": {
+                "type": "color",
+                "value": "{colors.bridging.interactive.selected.bg.hover}"
+              },
+              "pressed": {
+                "type": "color",
+                "value": "{colors.bridging.interactive.selected.bg.pressed}"
+              },
+              "error": {
+                "type": "color",
+                "value": "$colors.bridging.background.ui.01"
+              }
+            }
+          },
+          "type": {
+            "enabled": {
+              "type": "color",
+              "value": "$colors.text.default"
+            },
+            "disabled": {
+              "type": "color",
+              "value": "$colors.text.subtle"
+            }
+          },
+          "background": {
+            "tttt": {
+              "type": "color",
+              "value": "$colors.bridging.background.ui.01"
+            },
+            "error": {
+              "type": "color",
+              "value": "$colors.bridging.background.ui.01"
+            },
+            "default": {
+              "type": "color",
+              "value": "{colors.neutral.08}"
+            },
+            "hover": {
+              "type": "color",
+              "value": "{colors.neutral.07}"
+            },
+            "pressed": {
+              "type": "color",
+              "value": "{colors.neutral.06}"
+            }
+          }
         }
       },
       "checkbox": {
         "border": {
           "enabled": {
-            "value": "$colors.bridging.border.02",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.border.02"
           },
           "hover": {
-            "value": "$colors.bridging.border.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.border.01"
           },
           "pressed": {
-            "value": "$colors.bridging.interactive.pressed.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.interactive.pressed.01"
           },
           "error": {
-            "value": "$colors.alert.error",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.alert.error"
+          },
+          "disabled": {
+            "type": "color",
+            "value": "$colors.bridging.interactive.disabled.03"
           }
         },
         "background": {
           "unselected": {
-            "value": "$colors.bridging.background.ui.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.background.ui.01"
           },
           "selected": {
-            "value": "$colors.bridging.interactive.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.interactive.01"
           },
           "hover": {
-            "value": "$colors.bridging.interactive.hover.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.interactive.hover.01"
           },
           "pressed": {
-            "value": "$colors.bridging.interactive.pressed.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.interactive.pressed.01"
           },
           "error": {
-            "value": "$colors.alert.error",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.alert.error"
           }
         },
         "icon": {
-          "value": "$colors.bridging.icon.05",
-          "type": "color"
+          "type": "color",
+          "value": "$colors.icon.onDark"
+        },
+        "card": {
+          "border": {
+            "enabled": {
+              "type": "color",
+              "value": "$colors.bridging.border.02"
+            },
+            "hover": {
+              "type": "color",
+              "value": "$colors.bridging.border.01"
+            },
+            "pressed": {
+              "type": "color",
+              "value": "$colors.bridging.border.01"
+            },
+            "error": {
+              "type": "color",
+              "value": "$colors.alert.error"
+            }
+          },
+          "selected": {
+            "border": {
+              "enabled": {
+                "type": "color",
+                "value": "{colors.bridging.interactive.selected.border.default}"
+              },
+              "hover": {
+                "type": "color",
+                "value": "{colors.bridging.interactive.selected.border.hover}"
+              },
+              "pressed": {
+                "type": "color",
+                "value": "{colors.bridging.interactive.selected.border.pressed}"
+              },
+              "error": {
+                "type": "color",
+                "value": "$colors.alert.error"
+              }
+            },
+            "bg": {
+              "default": {
+                "type": "color",
+                "value": "{colors.bridging.interactive.selected.bg.default}"
+              },
+              "hover": {
+                "type": "color",
+                "value": "{colors.bridging.interactive.selected.bg.hover}"
+              },
+              "pressed": {
+                "type": "color",
+                "value": "{colors.bridging.interactive.selected.bg.pressed}"
+              },
+              "error": {
+                "type": "color",
+                "value": "$colors.bridging.background.ui.01"
+              }
+            }
+          },
+          "type": {
+            "enabled": {
+              "type": "color",
+              "value": "$colors.text.default"
+            },
+            "disabled": {
+              "type": "color",
+              "value": "$colors.text.subtle"
+            }
+          },
+          "background": {
+            "tttt": {
+              "type": "color",
+              "value": "$colors.bridging.background.ui.01"
+            },
+            "default": {
+              "type": "color",
+              "value": "{colors.neutral.08}"
+            },
+            "hover": {
+              "type": "color",
+              "value": "{colors.neutral.07}"
+            },
+            "pressed": {
+              "type": "color",
+              "value": "{colors.neutral.06}"
+            },
+            "error": {
+              "type": "color",
+              "value": "{colors.neutral.08}"
+            }
+          }
         }
       },
       "focus": {
-        "value": "$colors.bridging.focus.01",
-        "type": "color"
+        "type": "color",
+        "value": "#1097e0",
+        "description": "Figma- Need to update bridging token as this is a hex.\n- Original: $colors.bridging.focus.01"
       },
       "textInput": {
         "background": {
+          "hover": {
+            "value": "{colors.neutral.07}",
+            "type": "color"
+          },
+          "type": "color",
+          "value": "$colors.bridging.background.ui.01"
+        },
+        "hover": {
+          "hover": {
+            "value": "{colors.neutral.07}",
+            "type": "color"
+          },
+          "type": "color",
           "value": "$colors.bridging.background.ui.01",
-          "type": "color"
+          "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
+        },
+        "active": {
+          "hover": {
+            "value": "{colors.neutral.07}",
+            "type": "color"
+          },
+          "type": "color",
+          "value": "$colors.bridging.background.ui.01",
+          "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
+        },
+        "disabled": {
+          "hover": {
+            "value": "{colors.neutral.07}",
+            "type": "color"
+          },
+          "type": "color",
+          "value": "$colors.bridging.background.ui.01",
+          "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
         },
         "border": {
           "enabled": {
-            "value": "$colors.bridging.border.02",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.border.02"
           },
           "hover": {
-            "value": "$colors.bridging.border.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.border.01"
           },
           "active": {
-            "value": "$colors.bridging.border.04",
-            "type": "color"
+            "type": "color",
+            "value": "{colors.bridging.border.01}"
           },
           "error": {
-            "value": "$colors.alert.error",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.alert.error"
           }
+        },
+        "icon": {
+          "type": "color",
+          "value": "{colors.icon.subtle}"
         }
       },
       "dropdown": {
         "background": {
-          "value": "$colors.bridging.background.ui.01",
-          "type": "color"
+          "type": "color",
+          "value": "$colors.bridging.background.ui.01"
         },
         "border": {
           "enabled": {
-            "value": "$colors.bridging.border.02",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.border.02"
           },
           "hover": {
-            "value": "$colors.bridging.border.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.border.01"
           },
           "active": {
-            "value": "$colors.bridging.border.04",
-            "type": "color"
+            "type": "color",
+            "value": "{colors.bridging.border.01}"
           },
           "error": {
-            "value": "$colors.alert.error",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.alert.error"
           }
         }
       },
       "form": {
         "type": {
           "label": {
-            "value": "$colors.bridging.type.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.text.default"
           },
           "hint": {
-            "value": "$colors.bridging.type.02",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.text.subtle"
           },
           "input": {
-            "value": "$colors.bridging.type.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.text.default"
+          },
+          "placeholder": {
+            "type": "color",
+            "value": "$colors.text.muted"
           },
           "validation": {
             "error": {
-              "value": "$colors.alert.error",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.alert.error"
             },
             "success": {
-              "value": "$colors.bridging.type.01",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.text.default"
             },
             "information": {
-              "value": "$colors.bridging.type.01",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.text.default"
             }
           }
         },
         "icon": {
           "validation": {
             "error": {
-              "value": "$colors.alert.error",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.alert.error"
             },
             "success": {
-              "value": "$colors.alert.success",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.text.default"
             },
             "information": {
-              "value": "$colors.alert.information",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.text.default"
             }
+          },
+          "subtle": {
+            "type": "color",
+            "value": "$colors.text.subtle"
+          },
+          "enabled": {
+            "type": "color",
+            "value": "$colors.text.default"
           }
         },
         "modal": {
           "type": {
             "header": {
-              "value": "$colors.bridging.type.01",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.text.default"
             },
             "copy": {
-              "value": "$colors.bridging.type.01",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.text.default"
             }
           },
           "background": {
             "enabled": {
-              "value": "$colors.bridging.background.level.05",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.bridging.background.level.05"
             }
           }
         }
@@ -954,30 +1186,30 @@
       "link": {
         "default": {
           "enabled": {
-            "value": "$colors.bridging.interactive.link.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.interactive.link.01"
           },
           "hover": {
-            "value": "$colors.bridging.interactive.link.02",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.interactive.link.02"
           },
           "visited": {
-            "value": "$colors.bridging.interactive.link.03",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.interactive.link.03"
           }
         },
         "inverse": {
           "enabled": {
-            "value": "$colors.bridging.interactive.inverse.link.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.interactive.inverse.link.01"
           },
           "hover": {
-            "value": "$colors.bridging.interactive.inverse.link.02",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.interactive.inverse.link.02"
           },
           "visited": {
-            "value": "$colors.bridging.interactive.inverse.link.03",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.interactive.inverse.link.03"
           }
         }
       },
@@ -985,85 +1217,110 @@
         "interactive": {
           "border": {
             "enabled": {
-              "value": "{colors.bridging.border.03}",
-              "type": "color"
+              "type": "color",
+              "value": "{colors.bridging.border.03}"
             },
             "hover": {
-              "value": "{colors.bridging.border.03}",
-              "type": "color"
+              "type": "color",
+              "value": "{colors.bridging.border.03}"
             },
             "pressed": {
-              "value": "$colors.bridging.interactive.pressed.01",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.bridging.interactive.pressed.01"
             },
             "selected": {
-              "value": "$colors.bridging.border.04",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.bridging.border.04"
             },
             "error": {
-              "value": "$colors.alert.error",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.alert.error"
             }
           },
           "background": {
             "enabled": {
-              "value": "$colors.bridging.background.ui.01",
               "type": "color",
+              "value": "$colors.bridging.background.ui.01",
               "description": "Align with base UI value"
             },
             "hover": {
-              "value": "$colors.bridging.background.level.01",
               "type": "color",
+              "value": "$colors.bridging.background.level.01",
               "description": "Allowance for darkmode value"
             },
             "pressed": {
-              "value": "$colors.bridging.background.level.02",
               "type": "color",
+              "value": "$colors.bridging.background.level.02",
               "description": "Allowance for darkmode value"
             },
             "selected": {
-              "value": "$colors.bridging.background.level.01",
+              "enabled": {
+                "value": "$colors.bridging.interactive.background.ui.01",
+                "type": "color",
+                "description": "Align with base UI value"
+              },
+              "hover": {
+                "value": "$colors.bridging.interactive.background.level.01",
+                "type": "color",
+                "description": "Allowance for darkmode value"
+              },
+              "pressed": {
+                "value": "$colors.bridging.interactive.background.level.02",
+                "type": "color",
+                "description": "Allowance for darkmode value"
+              },
+              "selected": {
+                "value": "$colors.bridging.interactive.background.level.01",
+                "type": "color",
+                "description": "Allowance for darkmode value"
+              },
+              "error": {
+                "value": "$colors.bridging.interactive.background.ui.01",
+                "type": "color",
+                "description": "Allowance for darkmode value"
+              },
               "type": "color",
+              "value": "$colors.bridging.background.level.01",
               "description": "Allowance for darkmode value"
             },
             "error": {
-              "value": "$colors.bridging.background.ui.01",
               "type": "color",
+              "value": "$colors.bridging.background.ui.01",
               "description": "Allowance for darkmode value"
             }
           }
         },
         "static": {
           "border": {
-            "value": "$colors.bridging.border.03",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.border.03"
           },
           "background": {
             "level0": {
-              "value": "$colors.bridging.background.ui.01",
               "type": "color",
+              "value": "$colors.bridging.background.ui.01",
               "description": "Align with base UI value"
             },
             "level1": {
-              "value": "$colors.bridging.background.level.01",
               "type": "color",
+              "value": "$colors.bridging.background.level.01",
               "description": "Allowance for darkmode value"
             },
             "level5": {
-              "value": "$colors.bridging.background.level.05",
               "type": "color",
+              "value": "$colors.bridging.background.level.05",
               "description": "Allowance for darkmode value"
             }
           }
         },
         "type": {
           "header": {
-            "value": "$colors.bridging.type.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.text.default"
           },
           "body": {
-            "value": "$colors.bridging.type.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.text.default"
           }
         }
       },
@@ -1071,90 +1328,90 @@
         "strip": {
           "background": {
             "promo": {
-              "value": "$colors.alert.information",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.bridging.interactive.03"
             },
             "warning": {
-              "value": "$colors.alert.warning",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.alert.warning"
             },
             "information": {
-              "value": "$colors.alert.information",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.alert.information"
             },
             "error": {
-              "value": "$colors.alert.error",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.alert.error"
             },
             "success": {
-              "value": "$colors.alert.success",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.alert.success"
             }
           }
         },
         "icon": {
           "warning": {
-            "value": "$colors.alert.warning",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.alert.warning"
           },
           "information": {
-            "value": "$colors.alert.information",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.alert.information"
           },
           "error": {
-            "value": "$colors.alert.error",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.alert.error"
           },
           "success": {
-            "value": "$colors.alert.success",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.alert.success"
           },
           "disabled": {
-            "value": "$colors.bridging.interactive.disabled.03",
             "type": "color",
+            "value": "$colors.bridging.interactive.disabled.03",
             "description": "Using null colour from alert range"
           }
         }
       },
       "typography": {
         "enabled": {
-          "value": "$colors.bridging.type.01",
-          "type": "color"
+          "type": "color",
+          "value": "$colors.text.default"
         },
         "muted": {
-          "value": "$colors.bridging.type.02",
-          "type": "color"
+          "type": "color",
+          "value": "$colors.text.subtle"
         },
         "highlight": {
-          "value": "$colors.bridging.type.highlight.01",
-          "type": "color"
+          "type": "color",
+          "value": "$colors.text.highlight.01"
         },
         "error": {
-          "value": "$colors.alert.error",
-          "type": "color"
+          "type": "color",
+          "value": "$colors.alert.error"
         },
         "inverse": {
           "enabled": {
-            "value": "$colors.bridging.type.05",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.text.onDark"
           }
         },
         "secondary": {
           "highlight": {
-            "value": "$colors.bridging.type.highlight.02",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.text.highlight.02"
           }
         }
       },
       "scrim": {
-        "value": "$colors.bridging.background.modal",
-        "type": "color"
+        "type": "color",
+        "value": "$colors.bridging.background.modal"
       },
       "modal": {
         "static": {
           "dividingLine": {
-            "value": "$colors.bridging.border.03",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.border.03"
           }
         }
       }
@@ -1163,52 +1420,52 @@
   "borderRadius": {
     "component": {
       "button": {
-        "value": "$borderRadius.bridging.form.round",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "value": "$borderRadius.bridging.form.round"
       },
       "radio": {
-        "value": "$borderRadius.bridging.form.round",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "value": "$borderRadius.bridging.form.round"
       },
       "textInput": {
-        "value": "$borderRadius.bridging.default",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "value": "$borderRadius.bridging.default"
       },
       "dropdown": {
-        "value": "$borderRadius.bridging.default",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "value": "$borderRadius.bridging.default"
       },
       "checkbox": {
-        "value": "2px",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "value": "2px"
       },
       "card": {
         "radius": {
-          "value": "$borderRadius.bridging.default",
           "type": "borderRadius",
+          "value": "$borderRadius.bridging.default",
           "description": "DEPRECATED"
         },
         "radius0": {
-          "value": "$borderRadius.bridging.default",
           "type": "borderRadius",
+          "value": "$borderRadius.bridging.default",
           "description": "DEPRECATED"
         },
         "radius1": {
-          "value": "$borderRadius.bridging.default",
           "type": "borderRadius",
+          "value": "$borderRadius.bridging.default",
           "description": "DEPRECATED"
         },
         "radius00": {
-          "value": "$borderRadius.radius00",
-          "type": "borderRadius"
+          "type": "borderRadius",
+          "value": "$borderRadius.radius00"
         },
         "radius01": {
-          "value": "$borderRadius.radius01",
-          "type": "borderRadius"
+          "type": "borderRadius",
+          "value": "$borderRadius.radius01"
         },
         "radius02": {
-          "value": "$borderRadius.radius02",
-          "type": "borderRadius"
+          "type": "borderRadius",
+          "value": "$borderRadius.radius02"
         }
       }
     }
@@ -1216,44 +1473,44 @@
   "borderWidth": {
     "component": {
       "button": {
-        "value": "$borderWidth.bridging.form.default",
-        "type": "borderWidth"
+        "type": "borderWidth",
+        "value": "$borderWidth.bridging.form.default"
       },
       "radio": {
         "border": {
           "enabled": {
-            "value": "$borderWidth.bridging.form.default",
-            "type": "borderWidth"
+            "type": "borderWidth",
+            "value": "$borderWidth.bridging.form.default"
           },
           "selected": {
-            "value": "$borderWidth.bridging.form.selected",
-            "type": "borderWidth"
+            "type": "borderWidth",
+            "value": "$borderWidth.bridging.form.selected"
           }
         }
       },
       "textInput": {
-        "value": "$borderWidth.bridging.default",
-        "type": "borderWidth"
+        "type": "borderWidth",
+        "value": "$borderWidth.bridging.default"
       },
       "dropdown": {
-        "value": "$borderWidth.bridging.default",
-        "type": "borderWidth"
+        "type": "borderWidth",
+        "value": "$borderWidth.bridging.default"
       },
       "checkbox": {
         "border": {
-          "value": "$borderWidth.bridging.form.default",
-          "type": "borderWidth"
+          "type": "borderWidth",
+          "value": "$borderWidth.bridging.form.default"
         }
       },
       "card": {
         "enabled": {
-          "value": "$borderWidth.bridging.default",
-          "type": "borderWidth"
+          "type": "borderWidth",
+          "value": "$borderWidth.bridging.default"
         },
         "interactive": {
           "selected": {
-            "value": "$borderWidth.bridging.form.default",
-            "type": "borderWidth"
+            "type": "borderWidth",
+            "value": "$borderWidth.bridging.form.default"
           }
         }
       }
@@ -1262,6 +1519,7 @@
   "boxShadow": {
     "component": {
       "button": {
+        "type": "boxShadow",
         "value": {
           "x": "0px",
           "y": "4px",
@@ -1269,13 +1527,13 @@
           "color": "$colors.elevation.opacity02",
           "blur": "12px",
           "description": "Same values as boxShadow.elevation02"
-        },
-        "type": "boxShadow"
+        }
       },
       "card": {
         "static": {
           "background": {
             "level1": {
+              "type": "boxShadow",
               "value": {
                 "x": "0px",
                 "y": "2px",
@@ -1284,20 +1542,20 @@
                 "blur": "8px",
                 "description": "Same values as boxShadow.elevation01",
                 "type": "dropShadow"
-              },
-              "type": "boxShadow"
+              }
             },
             "level5": {
+              "type": "boxShadow",
               "value": {
                 "x": "0px",
                 "y": "16px",
                 "blur": "32px",
                 "spread": "2px",
                 "color": "$colors.elevation.opacity02"
-              },
-              "type": "boxShadow"
+              }
             },
             "test": {
+              "type": "boxShadow",
               "value": {
                 "x": "0",
                 "y": "8",
@@ -1305,14 +1563,14 @@
                 "spread": "1",
                 "color": "$colors.primary.01",
                 "type": "dropShadow"
-              },
-              "type": "boxShadow"
+              }
             }
           }
         },
         "interactive": {
           "background": {
             "enabled": {
+              "type": "boxShadow",
               "value": {
                 "x": "0px",
                 "y": "2px",
@@ -1320,10 +1578,10 @@
                 "color": "$colors.elevation.opacity02",
                 "blur": "8px",
                 "description": "Same values as boxShadow.elevation01"
-              },
-              "type": "boxShadow"
+              }
             },
             "hover": {
+              "type": "boxShadow",
               "value": {
                 "x": "0px",
                 "y": "8px",
@@ -1331,10 +1589,10 @@
                 "color": "$colors.elevation.opacity02",
                 "blur": "16px",
                 "description": "Same values as boxShadow.elevation02"
-              },
-              "type": "boxShadow"
+              }
             },
             "selected": {
+              "type": "boxShadow",
               "value": {
                 "x": "0px",
                 "y": "2px",
@@ -1342,10 +1600,523 @@
                 "color": "$colors.elevation.opacity02",
                 "blur": "8px",
                 "description": "Same values as boxShadow.elevation01"
-              },
-              "type": "boxShadow"
+              }
             }
           }
+        }
+      }
+    }
+  },
+  "typography": {
+    "component": {
+      "header": {
+        "overline01 (18)": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "$fontWeights.component.bold",
+            "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.02",
+            "fontSize": "$fontSizes.lg.03",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03"
+          }
+        },
+        "overline02 (14)": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "$fontFamilies.02",
+            "fontWeight": "$fontWeights.component.bold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.01",
+            "fontSize": "$fontSizes.lg.01",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.01"
+          }
+        },
+        "sm": {
+          "display (52)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.sm.10",
+              "fontSize": "$fontSizes.sm.10",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.10"
+            }
+          },
+          "title01 (40)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.sm.08",
+              "fontSize": "$fontSizes.sm.08",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.08"
+            }
+          },
+          "title02 (28)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.sm.07",
+              "fontSize": "$fontSizes.sm.07",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.07"
+            }
+          },
+          "title03 (24)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.sm.06",
+              "fontSize": "$fontSizes.sm.06",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.06"
+            }
+          },
+          "title04 (22)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.03",
+              "fontSize": "$fontSizes.sm.05",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.05"
+            }
+          },
+          "title05 (18)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$fontSizes.sm.05",
+              "fontSize": "$fontSizes.sm.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.03"
+            }
+          },
+          "title06 (16)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.sm.02",
+              "fontSize": "$fontSizes.sm.02",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.02"
+            }
+          }
+        },
+        "md": {
+          "display (58)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.displayRatio * $fontSizes.md.10",
+              "fontSize": "$fontSizes.md.10",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.10"
+            }
+          },
+          "title01 (44)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.08",
+              "fontSize": "$fontSizes.md.08",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.08"
+            }
+          },
+          "title02 (32)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.07",
+              "fontSize": "$fontSizes.md.07",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.07"
+            }
+          },
+          "title03 (26)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.06",
+              "fontSize": "$fontSizes.md.06",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.06"
+            }
+          },
+          "title04 (24)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.05",
+              "fontSize": "$fontSizes.md.05",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.05"
+            }
+          },
+          "title05 (20)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.04",
+              "fontSize": "$fontSizes.md.04",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.04"
+            }
+          },
+          "title06 (18)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.03",
+              "fontSize": "$fontSizes.md.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.03"
+            }
+          }
+        },
+        "lg": {
+          "display (64)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.10",
+              "fontSize": "$fontSizes.lg.10",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.10"
+            }
+          },
+          "title01 (48)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.08",
+              "fontSize": "$fontSizes.lg.08",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.08"
+            }
+          },
+          "title02 (36)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.01",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.07",
+              "fontSize": "$fontSizes.lg.07",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.07"
+            }
+          },
+          "title03 (28)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.06",
+              "fontSize": "$fontSizes.lg.06",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+            }
+          },
+          "title04 (24)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.05",
+              "fontSize": "$fontSizes.lg.05",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.05"
+            }
+          },
+          "title05 (20)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.04",
+              "fontSize": "$fontSizes.lg.04",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.04"
+            }
+          },
+          "title06 (18)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.03",
+              "fontSize": "$fontSizes.lg.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03"
+            }
+          }
+        }
+      },
+      "body": {
+        "sm": {
+          "bodyXXL (20)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.04",
+              "fontSize": "$fontSizes.sm.04",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.04"
+            }
+          },
+          "bodyXL (18)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.03",
+              "fontSize": "$fontSizes.sm.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.03"
+            }
+          },
+          "bodyL (16)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.02",
+              "fontSize": "$fontSizes.sm.02",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.02"
+            }
+          },
+          "bodyL (16) - Roomy": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.roomyRatio * $fontSizes.sm.02",
+              "fontSize": "$fontSizes.sm.02",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.02"
+            }
+          },
+          "bodyM (14)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.01",
+              "fontSize": "$fontSizes.sm.01",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.01"
+            }
+          },
+          "bodyS (14)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.01",
+              "fontSize": "$fontSizes.sm.01",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.01"
+            }
+          },
+          "bodyXS (12)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.00",
+              "fontSize": "$fontSizes.sm.00",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.00"
+            }
+          }
+        },
+        "md": {
+          "bodyXXL (24)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.05",
+              "fontSize": "$fontSizes.md.05",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.05"
+            }
+          },
+          "bodyXL (20)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.04",
+              "fontSize": "$fontSizes.md.04",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.04"
+            }
+          },
+          "bodyL (18)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.03",
+              "fontSize": "$fontSizes.md.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.03"
+            }
+          },
+          "bodyL (18) - Roomy": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.roomyRatio * $fontSizes.md.03",
+              "fontSize": "$fontSizes.md.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.03"
+            }
+          },
+          "bodyM (16)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.02",
+              "fontSize": "$fontSizes.md.02",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.02"
+            }
+          },
+          "bodyS (14)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.01",
+              "fontSize": "$fontSizes.md.01",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.01"
+            }
+          },
+          "bodyXS (12)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.md.00",
+              "fontSize": "$fontSizes.md.00",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.00"
+            }
+          }
+        },
+        "lg": {
+          "bodyXXL (28)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.06",
+              "fontSize": "$fontSizes.lg.06",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.06"
+            }
+          },
+          "bodyXL (22)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.light",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.sm.05",
+              "fontSize": "$fontSizes.sm.05",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.05"
+            }
+          },
+          "bodyL (18)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.03",
+              "fontSize": "$fontSizes.lg.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03"
+            }
+          },
+          "bodyL (18) - Roomy": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.roomyRatio * $fontSizes.lg.03",
+              "fontSize": "$fontSizes.lg.03",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03"
+            }
+          },
+          "bodyM (16)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.02",
+              "fontSize": "$fontSizes.lg.02",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.02"
+            }
+          },
+          "bodyS (14)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.01",
+              "fontSize": "$fontSizes.lg.01",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.01"
+            }
+          },
+          "bodyXS (12)": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.02",
+              "fontWeight": "$fontWeights.component.regular",
+              "lineHeight": "$lineHeights.bodyRatio * $fontSizes.lg.00",
+              "fontSize": "$fontSizes.lg.00",
+              "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.00"
+            }
+          }
+        }
+      },
+      "button": {
+        "sm": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "$fontFamilies.component.button",
+            "fontWeight": "$fontWeights.component.semibold",
+            "lineHeight": "$lineHeights.component.button.sm * $fontSizes.component.button.sm",
+            "fontSize": "$fontSizes.component.button.sm",
+            "paragraphSpacing": "$paragraphSpacing.component.button.sm * $fontSizes.component.button.sm"
+          }
+        },
+        "lg": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "$fontFamilies.component.button",
+            "fontWeight": "$fontWeights.component.semibold",
+            "lineHeight": "$lineHeights.component.button.lg * $fontSizes.component.button.lg",
+            "fontSize": "$fontSizes.component.button.lg",
+            "paragraphSpacing": "$paragraphSpacing.component.button.lg * $fontSizes.component.button.lg"
+          }
+        },
+        "underline": {
+          "sm": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.component.button",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$lineHeights.component.button.sm * $fontSizes.component.button.sm",
+              "fontSize": "$fontSizes.component.button.sm",
+              "paragraphSpacing": "$paragraphSpacing.component.button.sm * $fontSizes.component.button.sm"
+            }
+          },
+          "lg": {
+            "type": "typography",
+            "value": {
+              "fontFamily": "$fontFamilies.component.button",
+              "fontWeight": "$fontWeights.component.semibold",
+              "lineHeight": "$lineHeights.component.button.lg * $fontSizes.component.button.lg",
+              "fontSize": "$fontSizes.component.button.lg",
+              "paragraphSpacing": "$paragraphSpacing.component.button.lg * $fontSizes.component.button.lg"
+            }
+          }
+        }
+      },
+      "radio": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "$fontFamilies.component.form",
+          "fontWeight": "$fontWeights.component.regular",
+          "lineHeight": "$lineHeights.component.form * $fontSizes.component.form.input",
+          "fontSize": "$fontSizes.component.form.input",
+          "paragraphSpacing": "$paragraphSpacing.component.form * $fontSizes.component.form.input"
         }
       }
     }
@@ -1353,56 +2124,56 @@
   "fontFamilies": {
     "component": {
       "01": {
-        "value": "$fontFamilies.01",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "value": "$fontFamilies.01"
       },
       "02": {
-        "value": "$fontFamilies.02",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "value": "$fontFamilies.02"
       },
       "button": {
-        "value": "$fontFamilies.bridging.form",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "value": "$fontFamilies.bridging.form"
       },
       "radio": {
-        "value": "$fontFamilies.bridging.form",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "value": "$fontFamilies.bridging.form"
       },
       "form": {
-        "value": "$fontFamilies.bridging.form",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "value": "$fontFamilies.bridging.form"
       }
     }
   },
   "fontWeights": {
     "component": {
       "light": {
-        "value": "$fontWeights.light",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "value": "$fontWeights.light"
       },
       "regular": {
-        "value": "$fontWeights.regular",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "value": "$fontWeights.regular"
       },
       "semibold": {
-        "value": "$fontWeights.semibold",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "value": "$fontWeights.semibold"
       },
       "bold": {
-        "value": "$fontWeights.bold",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "value": "$fontWeights.bold"
       },
       "button": {
-        "value": "$fontWeights.semibold",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "value": "$fontWeights.semibold"
       },
       "radio": {
-        "value": "$fontWeights.bridging.form",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "value": "$fontWeights.bridging.form"
       },
       "form": {
-        "value": "$fontWeights.bridging.form",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "value": "$fontWeights.bridging.form"
       }
     }
   },
@@ -1410,168 +2181,168 @@
     "component": {
       "sm": {
         "10": {
-          "value": "$fontSizes.sm.10",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.sm.10"
         },
         "00": {
-          "value": "$fontSizes.sm.00",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.sm.00"
         },
         "01": {
-          "value": "$fontSizes.sm.01",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.sm.01"
         },
         "02": {
-          "value": "$fontSizes.sm.02",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.sm.02"
         },
         "03": {
-          "value": "$fontSizes.sm.03",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.sm.03"
         },
         "04": {
-          "value": "$fontSizes.sm.04",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.sm.04"
         },
         "05": {
-          "value": "$fontSizes.sm.05",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.sm.05"
         },
         "06": {
-          "value": "$fontSizes.sm.06",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.sm.06"
         },
         "07": {
-          "value": "$fontSizes.sm.07",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.sm.07"
         },
         "08": {
-          "value": "$fontSizes.sm.08",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.sm.08"
         },
         "09": {
-          "value": "$fontSizes.sm.09",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.sm.09"
         }
       },
       "md": {
         "10": {
-          "value": "$fontSizes.md.10",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.md.10"
         },
         "00": {
-          "value": "$fontSizes.md.00",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.md.00"
         },
         "01": {
-          "value": "$fontSizes.md.01",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.md.01"
         },
         "02": {
-          "value": "$fontSizes.md.02",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.md.02"
         },
         "03": {
-          "value": "$fontSizes.md.03",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.md.03"
         },
         "04": {
-          "value": "$fontSizes.md.04",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.md.04"
         },
         "05": {
-          "value": "$fontSizes.md.05",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.md.05"
         },
         "06": {
-          "value": "$fontSizes.md.06",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.md.06"
         },
         "07": {
-          "value": "$fontSizes.md.07",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.md.07"
         },
         "08": {
-          "value": "$fontSizes.md.08",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.md.08"
         },
         "09": {
-          "value": "$fontSizes.md.09",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.md.09"
         }
       },
       "lg": {
         "10": {
-          "value": "$fontSizes.lg.10",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.lg.10"
         },
         "00": {
-          "value": "$fontSizes.lg.00",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.lg.00"
         },
         "01": {
-          "value": "$fontSizes.lg.01",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.lg.01"
         },
         "02": {
-          "value": "$fontSizes.lg.02",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.lg.02"
         },
         "03": {
-          "value": "$fontSizes.lg.03",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.lg.03"
         },
         "04": {
-          "value": "$fontSizes.lg.04",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.lg.04"
         },
         "05": {
-          "value": "$fontSizes.lg.05",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.lg.05"
         },
         "06": {
-          "value": "$fontSizes.lg.06",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.lg.06"
         },
         "07": {
-          "value": "$fontSizes.lg.07",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.lg.07"
         },
         "08": {
-          "value": "$fontSizes.lg.08",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.lg.08"
         },
         "09": {
-          "value": "$fontSizes.lg.09",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.lg.09"
         }
       },
       "button": {
         "sm": {
-          "value": "$fontSizes.bridging.form.01",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.bridging.form.01"
         },
         "lg": {
-          "value": "$fontSizes.bridging.form.02",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.bridging.form.02"
         }
       },
       "form": {
         "label": {
-          "value": "$fontSizes.bridging.form.02",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.bridging.form.02"
         },
         "hint": {
-          "value": "$fontSizes.bridging.form.01",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.bridging.form.01"
         },
         "input": {
-          "value": "$fontSizes.bridging.form.02",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.bridging.form.02"
         },
         "validation": {
-          "value": "$fontSizes.bridging.form.01",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "value": "$fontSizes.bridging.form.01"
         }
       }
     }
@@ -1579,74 +2350,74 @@
   "lineHeights": {
     "component": {
       "display": {
-        "value": "$lineHeights.displayRatio",
         "type": "lineHeights",
+        "value": "$lineHeights.displayRatio",
         "description": "ratio"
       },
       "header": {
-        "value": "$lineHeights.headerRatio",
         "type": "lineHeights",
+        "value": "$lineHeights.headerRatio",
         "description": "ratio"
       },
       "body": {
-        "value": "$lineHeights.bodyRatio",
         "type": "lineHeights",
+        "value": "$lineHeights.bodyRatio",
         "description": "ratio"
       },
       "roomy": {
-        "value": "$lineHeights.roomyRatio",
         "type": "lineHeights",
+        "value": "$lineHeights.roomyRatio",
         "description": "ratio"
       },
       "button": {
         "sm": {
-          "value": "$sizing.03 / 14",
-          "type": "lineHeights"
+          "type": "lineHeights",
+          "value": "$sizing.03 / 14"
         },
         "lg": {
-          "value": "$lineHeights.bridging.form",
-          "type": "lineHeights"
+          "type": "lineHeights",
+          "value": "$lineHeights.bridging.form"
         }
       },
       "radio": {
-        "value": "$lineHeights.bridging.form",
-        "type": "lineHeights"
+        "type": "lineHeights",
+        "value": "$lineHeights.bridging.form"
       },
       "form": {
-        "value": "$lineHeights.bridging.form",
-        "type": "lineHeights"
+        "type": "lineHeights",
+        "value": "$lineHeights.bridging.form"
       }
     }
   },
   "paragraphSpacing": {
     "component": {
       "0": {
-        "value": "$paragraphSpacing.0",
         "type": "paragraphSpacing",
+        "value": "$paragraphSpacing.0",
         "description": "ratio"
       },
       "1": {
-        "value": "$paragraphSpacing.1",
         "type": "paragraphSpacing",
+        "value": "$paragraphSpacing.1",
         "description": "ratio"
       },
       "button": {
         "sm": {
-          "value": "$paragraphSpacing.bridging.form",
-          "type": "paragraphSpacing"
+          "type": "paragraphSpacing",
+          "value": "$paragraphSpacing.bridging.form"
         },
         "lg": {
-          "value": "$paragraphSpacing.bridging.form",
-          "type": "paragraphSpacing"
+          "type": "paragraphSpacing",
+          "value": "$paragraphSpacing.bridging.form"
         }
       },
       "radio": {
-        "value": "$paragraphSpacing.bridging.form",
-        "type": "paragraphSpacing"
+        "type": "paragraphSpacing",
+        "value": "$paragraphSpacing.bridging.form"
       },
       "form": {
-        "value": "$paragraphSpacing.bridging.form",
-        "type": "paragraphSpacing"
+        "type": "paragraphSpacing",
+        "value": "$paragraphSpacing.bridging.form"
       }
     }
   },
@@ -1655,61 +2426,61 @@
       "icon": {
         "functional": {
           "sm": {
-            "value": "$sizing.01 * 3",
-            "type": "sizing"
+            "type": "sizing",
+            "value": "$sizing.01 * 3"
           },
           "md": {
-            "value": "$sizing.01 * 4",
-            "type": "sizing"
+            "type": "sizing",
+            "value": "$sizing.01 * 4"
           },
           "lg": {
-            "value": "$sizing.01 * 6",
-            "type": "sizing"
+            "type": "sizing",
+            "value": "$sizing.01 * 6"
           },
           "xl": {
-            "value": "$sizing.01 * 8",
-            "type": "sizing"
+            "type": "sizing",
+            "value": "$sizing.01 * 8"
           }
         },
         "decorative": {
           "sm": {
-            "value": "$sizing.01 * 3",
-            "type": "sizing"
+            "type": "sizing",
+            "value": "$sizing.01 * 3"
           },
           "md": {
-            "value": "$sizing.01 * 4",
-            "type": "sizing"
+            "type": "sizing",
+            "value": "$sizing.01 * 4"
           },
           "lg": {
-            "value": "$sizing.01 * 6",
-            "type": "sizing"
+            "type": "sizing",
+            "value": "$sizing.01 * 6"
           },
           "xl": {
-            "value": "$sizing.01 * 8",
-            "type": "sizing"
+            "type": "sizing",
+            "value": "$sizing.01 * 8"
           }
         }
       },
       "illustration": {
         "xs": {
-          "value": "$sizing.01 * 15",
-          "type": "sizing"
+          "type": "sizing",
+          "value": "$sizing.01 * 15"
         },
         "sm": {
-          "value": "$sizing.01 * 24",
-          "type": "sizing"
+          "type": "sizing",
+          "value": "$sizing.01 * 24"
         },
         "md": {
-          "value": "$sizing.01 * 33",
-          "type": "sizing"
+          "type": "sizing",
+          "value": "$sizing.01 * 33"
         },
         "lg": {
-          "value": "$sizing.01 * 42",
-          "type": "sizing"
+          "type": "sizing",
+          "value": "$sizing.01 * 42"
         },
         "xl": {
-          "value": "$sizing.01 * 51",
-          "type": "sizing"
+          "type": "sizing",
+          "value": "$sizing.01 * 51"
         }
       }
     }
@@ -1717,8 +2488,8 @@
   "opacity": {
     "component": {
       "scrim": {
-        "value": "$opacity.bridging.01",
         "type": "opacity",
+        "value": "$opacity.bridging.01",
         "description": "Scrim opacity value"
       }
     }
