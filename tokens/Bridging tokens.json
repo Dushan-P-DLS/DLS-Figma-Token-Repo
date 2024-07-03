@@ -60,12 +60,12 @@
         "02": {
           "type": "color",
           "value": "$colors.primary.02",
-          "description": "🗑️"
+          "description": ""
         },
         "03": {
           "type": "color",
           "value": "$colors.secondary.04",
-          "description": "(OLD) Reserve for a tertiary button colour or tertiary interaction colour.\n🎯This is onlt being used on the stripe of the \"notification card\".\n"
+          "description": "Reserve for a tertiary button colour or tertiary interaction colour"
         },
         "link": {
           "01": {
@@ -98,7 +98,7 @@
           "03": {
             "type": "color",
             "value": "$colors.tint.primary.01.70",
-            "description": "Secondary inverse pressed; Tertiary inverse pressed.\n🗑️"
+            "description": "Secondary inverse pressed; Tertiary inverse pressed"
           }
         },
         "hover": {
@@ -121,13 +121,12 @@
           },
           "02": {
             "type": "color",
-            "value": "$colors.primary.02",
-            "description": "🗑️"
+            "value": "$colors.primary.02"
           },
           "03": {
             "type": "color",
             "value": "$colors.secondary.04",
-            "description": "🗑️"
+            "description": ""
           },
           "link": {
             "01": {
@@ -186,48 +185,8 @@
         "focus": {
           "01": {
             "type": "color",
-            "value": "#1097E0",
-            "description": "Focus Pink"
-          },
-          "02": {
-            "type": "color",
-            "value": "$colors.mobile.01",
-            "description": "iOS interactive colour"
-          },
-          "03": {
-            "type": "color",
-            "value": "$colors.gradient.01",
-            "description": "iOS interactive"
-          }
-        },
-        "selected": {
-          "bg": {
-            "default": {
-              "type": "color",
-              "value": "{colors.tint.primary.01.10}"
-            },
-            "hover": {
-              "type": "color",
-              "value": "{colors.tint.primary.01.20}"
-            },
-            "pressed": {
-              "type": "color",
-              "value": "{colors.tint.primary.01.30}"
-            }
-          },
-          "border": {
-            "default": {
-              "type": "color",
-              "value": "{colors.primary.01}"
-            },
-            "hover": {
-              "type": "color",
-              "value": "{colors.tint.primary.01.110}"
-            },
-            "pressed": {
-              "type": "color",
-              "value": "{colors.tint.primary.01.110}"
-            }
+            "value": "$colors.tint.tertiary.03.40",
+            "description": "Accessibility focus colour"
           }
         }
       },
@@ -256,6 +215,175 @@
           "type": "color",
           "value": "$colors.static.neutral.08",
           "description": ""
+        }
+      },
+      "icon": {
+        "01": {
+          "type": "color",
+          "value": "$colors.neutral.01",
+          "description": "Primary icon; input icon"
+        },
+        "02": {
+          "type": "color",
+          "value": "$colors.neutral.02",
+          "description": "Secondary icon colour"
+        },
+        "03": {
+          "type": "color",
+          "value": "$colors.neutral.03",
+          "description": "Inactive icon colour"
+        },
+        "04": {
+          "type": "color",
+          "value": "$colors.bridging.interactive.01",
+          "description": "Interactive icon colour"
+        },
+        "05": {
+          "type": "color",
+          "value": "$colors.static.neutral.08",
+          "description": "icon on interactive colour"
+        },
+        "highlight": {
+          "01": {
+            "type": "color",
+            "value": "$colors.bridging.interactive.01"
+          },
+          "02": {
+            "type": "color",
+            "value": "$colors.secondary.04"
+          }
+        },
+        "pressed": {
+          "01": {
+            "type": "color",
+            "value": "$colors.tint.primary.01.20"
+          },
+          "02": {
+            "type": "color",
+            "value": "$colors.tint.primary.01.80"
+          }
+        },
+        "hover": {
+          "01": {
+            "type": "color",
+            "value": "$colors.static.neutral.08"
+          },
+          "02": {
+            "type": "color",
+            "value": "$colors.bridging.interactive.01"
+          }
+        },
+        "inverse": {
+          "pressed": {
+            "01": {
+              "type": "color",
+              "value": "$colors.tint.primary.01.80"
+            },
+            "02": {
+              "type": "color",
+              "value": "$colors.tint.primary.01.20"
+            }
+          },
+          "hover": {
+            "01": {
+              "type": "color",
+              "value": "$colors.bridging.interactive.01"
+            }
+          }
+        }
+      },
+      "focus": {
+        "01": {
+          "type": "color",
+          "value": "$colors.tint.tertiary.03.40",
+          "description": "Focus Pink"
+        },
+        "02": {
+          "type": "color",
+          "value": "$colors.mobile.01",
+          "description": "iOS interactive colour"
+        },
+        "03": {
+          "type": "color",
+          "value": "$colors.gradient.01",
+          "description": "iOS interactive"
+        }
+      },
+      "type": {
+        "01": {
+          "type": "color",
+          "value": "$colors.neutral.01",
+          "description": "Body copy;Headers;Input labels;Input text"
+        },
+        "02": {
+          "type": "color",
+          "value": "$colors.neutral.02",
+          "description": "Secondary text colour"
+        },
+        "03": {
+          "type": "color",
+          "value": "$colors.neutral.03",
+          "description": "Inactive text colour"
+        },
+        "04": {
+          "type": "color",
+          "value": "$colors.bridging.interactive.01",
+          "description": "Interactive text colour"
+        },
+        "05": {
+          "type": "color",
+          "value": "$colors.static.neutral.08",
+          "description": "Text on interactive colour"
+        },
+        "highlight": {
+          "01": {
+            "type": "color",
+            "value": "$colors.bridging.interactive.01",
+            "description": "Primary highlight"
+          },
+          "02": {
+            "type": "color",
+            "value": "$colors.secondary.04",
+            "description": "Secondary highlight"
+          }
+        },
+        "pressed": {
+          "01": {
+            "type": "color",
+            "value": "$colors.tint.primary.01.20"
+          },
+          "02": {
+            "type": "color",
+            "value": "$colors.tint.primary.01.80"
+          }
+        },
+        "hover": {
+          "01": {
+            "type": "color",
+            "value": "$colors.static.neutral.08"
+          },
+          "02": {
+            "type": "color",
+            "value": "$colors.bridging.interactive.01"
+          }
+        },
+        "inverse": {
+          "pressed": {
+            "01": {
+              "type": "color",
+              "value": "$colors.tint.primary.01.80"
+            },
+            "02": {
+              "type": "color",
+              "value": "$colors.tint.primary.01.20"
+            }
+          },
+          "hover": {
+            "01": {
+              "type": "color",
+              "value": "$colors.bridging.interactive.01"
+            }
+          }
         }
       },
       "background": {
@@ -326,54 +454,6 @@
         "type": "color",
         "value": "{colors.static.neutral.08}",
         "description": "This is used for elements that need to be white that sit on various backgrounds."
-      },
-      "highlight": {
-        "01": {
-          "type": "color",
-          "value": "red"
-        },
-        "02": {
-          "type": "color",
-          "value": "$colors.secondary.04"
-        }
-      },
-      "pressed": {
-        "01": {
-          "type": "color",
-          "value": "$colors.tint.primary.01.20"
-        },
-        "02": {
-          "type": "color",
-          "value": "$colors.tint.primary.01.80"
-        }
-      },
-      "hover": {
-        "01": {
-          "type": "color",
-          "value": "$colors.static.neutral.08"
-        },
-        "02": {
-          "type": "color",
-          "value": "$colors.bridging.interactive.01"
-        }
-      },
-      "inverse": {
-        "pressed": {
-          "01": {
-            "type": "color",
-            "value": "$colors.tint.primary.01.80"
-          },
-          "02": {
-            "type": "color",
-            "value": "$colors.tint.primary.01.20"
-          }
-        },
-        "hover": {
-          "01": {
-            "type": "color",
-            "value": "$colors.bridging.interactive.01"
-          }
-        }
       }
     },
     "text": {
@@ -406,56 +486,6 @@
         "type": "color",
         "value": "$colors.static.neutral.08",
         "description": "Text on interactive colour\n\nThis is used for elements that need to be white that sit on various background"
-      },
-      "highlight": {
-        "01": {
-          "type": "color",
-          "value": "$colors.bridging.interactive.01",
-          "description": "Primary highlight"
-        },
-        "02": {
-          "type": "color",
-          "value": "$colors.secondary.04",
-          "description": "Secondary highlight"
-        }
-      },
-      "pressed": {
-        "01": {
-          "type": "color",
-          "value": "$colors.tint.primary.01.20"
-        },
-        "02": {
-          "type": "color",
-          "value": "$colors.tint.primary.01.80"
-        }
-      },
-      "hover": {
-        "01": {
-          "type": "color",
-          "value": "$colors.static.neutral.08"
-        },
-        "02": {
-          "type": "color",
-          "value": "$colors.bridging.interactive.01"
-        }
-      },
-      "inverse": {
-        "pressed": {
-          "01": {
-            "type": "color",
-            "value": "$colors.tint.primary.01.80"
-          },
-          "02": {
-            "type": "color",
-            "value": "$colors.tint.primary.01.20"
-          }
-        },
-        "hover": {
-          "01": {
-            "type": "color",
-            "value": "$colors.bridging.interactive.01"
-          }
-        }
       }
     },
     "input": {
@@ -516,6 +546,16 @@
           "type": "color",
           "value": "{colors.primary.01}"
         }
+      }
+    },
+    "border": {
+      "default": {
+        "type": "color",
+        "value": "{colors.neutral.03}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{colors.neutral.05}"
       }
     }
   },
