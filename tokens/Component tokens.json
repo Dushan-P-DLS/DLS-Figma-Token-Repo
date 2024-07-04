@@ -433,57 +433,57 @@
             "primary": {
               "enabled": {
                 "type": "color",
-                "value": "$colors.text.onDark",
+                "value": "$colors.bridging.type.05",
                 "description": "Primary enabled text"
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.text.onDark",
+                "value": "$colors.bridging.type.05",
                 "description": "Primary hover text"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.text.pressed.01",
+                "value": "$colors.bridging.type.pressed.01",
                 "description": "Primary pressed text"
               }
             },
             "secondary": {
               "enabled": {
                 "type": "color",
-                "value": "$colors.text.04",
+                "value": "$colors.bridging.type.04",
                 "description": "Secondary enabled text"
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.text.hover.02",
+                "value": "$colors.bridging.type.hover.02",
                 "description": "Secondary hover text"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.text.pressed.02",
+                "value": "$colors.bridging.type.pressed.02",
                 "description": "Secondary pressed text"
               }
             },
             "tertiary": {
               "enabled": {
                 "type": "color",
-                "value": "$colors.text.04",
+                "value": "$colors.bridging.type.04",
                 "description": "Tertiary enabled text"
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.text.hover.02",
+                "value": "$colors.bridging.type.hover.02",
                 "description": "Tertiary hover text"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.text.pressed.02",
+                "value": "$colors.bridging.type.pressed.02",
                 "description": "Tertiary presed text"
               }
             },
             "disabled": {
               "type": "color",
-              "value": "$colors.text.subtle",
+              "value": "$colors.bridging.type.02",
               "description": "Disabled text"
             }
           },
@@ -491,57 +491,57 @@
             "primary": {
               "enabled": {
                 "type": "color",
-                "value": "$colors.icon.onDark",
+                "value": "$colors.bridging.icon.05",
                 "description": "Primary enabled icon"
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.icon.onDark",
+                "value": "$colors.bridging.icon.05",
                 "description": "Primary hover icon"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.icon.pressed.01",
+                "value": "$colors.bridging.icon.pressed.01",
                 "description": "Primary pressed icon"
               }
             },
             "secondary": {
               "enabled": {
                 "type": "color",
-                "value": "$colors.icon.04",
+                "value": "$colors.bridging.icon.04",
                 "description": "Secondary enabled icon"
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.icon.hover.02",
+                "value": "$colors.bridging.icon.hover.02",
                 "description": "Secondary hover icon"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.icon.pressed.02",
+                "value": "$colors.bridging.icon.pressed.02",
                 "description": "Secondary pressed icon"
               }
             },
             "tertiary": {
               "enabled": {
                 "type": "color",
-                "value": "$colors.icon.04",
+                "value": "$colors.bridging.icon.04",
                 "description": "Tertiary enabled icon"
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.icon.hover.02",
+                "value": "$colors.bridging.icon.hover.02",
                 "description": "Tertiary hover icon"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.icon.pressed.02",
+                "value": "$colors.bridging.icon.pressed.02",
                 "description": "Tertiary presed icon"
               }
             },
             "disabled": {
               "type": "color",
-              "value": "$colors.icon.subtle",
+              "value": "$colors.bridging.icon.02",
               "description": "Disabled icon"
             }
           },
@@ -618,17 +618,17 @@
             "primary": {
               "enabled": {
                 "type": "color",
-                "value": "$colors.text.04",
+                "value": "$colors.bridging.type.04",
                 "description": "Inverse primary enabled text"
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.text.inverse.hover.01",
+                "value": "$colors.bridging.type.inverse.hover.01",
                 "description": "Inverse primary hover text"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.text.inverse.pressed.02",
+                "value": "$colors.bridging.type.inverse.pressed.02",
                 "description": "Inverse primary pressed text"
               }
             },
@@ -640,12 +640,12 @@
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.text.inverse.hover.01",
+                "value": "$colors.bridging.type.inverse.hover.01",
                 "description": "Inverse secondary hover text"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.text.inverse.pressed.02",
+                "value": "$colors.bridging.type.inverse.pressed.02",
                 "description": "Inverse secondary pressed text"
               }
             },
@@ -657,18 +657,18 @@
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.text.inverse.hover.01",
+                "value": "$colors.bridging.type.inverse.hover.01",
                 "description": "Inverse tertiary hover text"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.text.inverse.pressed.02",
+                "value": "$colors.bridging.type.inverse.pressed.02",
                 "description": "Inverse tertiary pressed text"
               }
             },
             "disabled": {
               "type": "color",
-              "value": "$colors.text.subtle",
+              "value": "$colors.bridging.type.02",
               "description": "Inverse disabled text"
             }
           },
@@ -676,17 +676,17 @@
             "primary": {
               "enabled": {
                 "type": "color",
-                "value": "$colors.icon.04",
+                "value": "$colors.bridging.icon.04",
                 "description": "Inverse primary enabled icon"
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.icon.inverse.hover.01",
+                "value": "$colors.bridging.icon.inverse.hover.01",
                 "description": "Inverse primary hover icon"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.icon.inverse.pressed.02",
+                "value": "$colors.bridging.icon.inverse.pressed.02",
                 "description": "Inverse primary pressed icon"
               }
             },
@@ -698,12 +698,12 @@
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.icon.inverse.hover.01",
+                "value": "$colors.bridging.icon.inverse.hover.01",
                 "description": "Inverse secondary hover icon"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.icon.inverse.pressed.02",
+                "value": "$colors.bridging.icon.inverse.pressed.02",
                 "description": "Inverse secondary pressed icon"
               }
             },
@@ -715,18 +715,18 @@
               },
               "hover": {
                 "type": "color",
-                "value": "$colors.icon.inverse.hover.01",
+                "value": "$colors.bridging.icon.inverse.hover.01",
                 "description": "Inverse tertiary hover icon"
               },
               "pressed": {
                 "type": "color",
-                "value": "$colors.icon.inverse.pressed.02",
+                "value": "$colors.bridging.icon.inverse.pressed.02",
                 "description": "Inverse tertiary pressed icon"
               }
             },
             "disabled": {
               "type": "color",
-              "value": "$colors.icon.subtle",
+              "value": "$colors.bridging.icon.02",
               "description": "Inverse disabled icon"
             }
           },
@@ -753,7 +753,7 @@
           },
           "pressed": {
             "type": "color",
-            "value": "$colors.bridging.border.01"
+            "value": "$colors.bridging.interactive.pressed.01"
           },
           "error": {
             "type": "color",
@@ -777,106 +777,16 @@
         "type": {
           "enabled": {
             "type": "color",
-            "value": "$colors.text.default"
+            "value": "$colors.bridging.type.01"
           },
           "disabled": {
             "type": "color",
-            "value": "$colors.text.subtle"
+            "value": "$colors.bridging.type.02"
           }
         },
         "background": {
           "type": "color",
           "value": "$colors.bridging.background.ui.01"
-        },
-        "card": {
-          "border": {
-            "enabled": {
-              "type": "color",
-              "value": "$colors.bridging.border.02"
-            },
-            "hover": {
-              "type": "color",
-              "value": "$colors.bridging.border.01"
-            },
-            "pressed": {
-              "type": "color",
-              "value": "{colors.bridging.border.01}"
-            },
-            "error": {
-              "type": "color",
-              "value": "$colors.alert.error"
-            }
-          },
-          "selected": {
-            "border": {
-              "enabled": {
-                "type": "color",
-                "value": "{colors.bridging.interactive.selected.border.default}"
-              },
-              "hover": {
-                "type": "color",
-                "value": "{colors.bridging.interactive.selected.border.hover}"
-              },
-              "pressed": {
-                "type": "color",
-                "value": "{colors.bridging.interactive.selected.border.pressed}"
-              },
-              "error": {
-                "type": "color",
-                "value": "$colors.alert.error"
-              }
-            },
-            "bg": {
-              "default": {
-                "type": "color",
-                "value": "{colors.bridging.interactive.selected.bg.default}"
-              },
-              "hover": {
-                "type": "color",
-                "value": "{colors.bridging.interactive.selected.bg.hover}"
-              },
-              "pressed": {
-                "type": "color",
-                "value": "{colors.bridging.interactive.selected.bg.pressed}"
-              },
-              "error": {
-                "type": "color",
-                "value": "$colors.bridging.background.ui.01"
-              }
-            }
-          },
-          "type": {
-            "enabled": {
-              "type": "color",
-              "value": "$colors.text.default"
-            },
-            "disabled": {
-              "type": "color",
-              "value": "$colors.text.subtle"
-            }
-          },
-          "background": {
-            "tttt": {
-              "type": "color",
-              "value": "$colors.bridging.background.ui.01"
-            },
-            "error": {
-              "type": "color",
-              "value": "$colors.bridging.background.ui.01"
-            },
-            "default": {
-              "type": "color",
-              "value": "{colors.neutral.08}"
-            },
-            "hover": {
-              "type": "color",
-              "value": "{colors.neutral.07}"
-            },
-            "pressed": {
-              "type": "color",
-              "value": "{colors.neutral.06}"
-            }
-          }
         }
       },
       "checkbox": {
@@ -896,10 +806,6 @@
           "error": {
             "type": "color",
             "value": "$colors.alert.error"
-          },
-          "disabled": {
-            "type": "color",
-            "value": "$colors.bridging.interactive.disabled.03"
           }
         },
         "background": {
@@ -926,139 +832,17 @@
         },
         "icon": {
           "type": "color",
-          "value": "$colors.icon.onDark"
-        },
-        "card": {
-          "border": {
-            "enabled": {
-              "type": "color",
-              "value": "$colors.bridging.border.02"
-            },
-            "hover": {
-              "type": "color",
-              "value": "$colors.bridging.border.01"
-            },
-            "pressed": {
-              "type": "color",
-              "value": "$colors.bridging.border.01"
-            },
-            "error": {
-              "type": "color",
-              "value": "$colors.alert.error"
-            }
-          },
-          "selected": {
-            "border": {
-              "enabled": {
-                "type": "color",
-                "value": "{colors.bridging.interactive.selected.border.default}"
-              },
-              "hover": {
-                "type": "color",
-                "value": "{colors.bridging.interactive.selected.border.hover}"
-              },
-              "pressed": {
-                "type": "color",
-                "value": "{colors.bridging.interactive.selected.border.pressed}"
-              },
-              "error": {
-                "type": "color",
-                "value": "$colors.alert.error"
-              }
-            },
-            "bg": {
-              "default": {
-                "type": "color",
-                "value": "{colors.bridging.interactive.selected.bg.default}"
-              },
-              "hover": {
-                "type": "color",
-                "value": "{colors.bridging.interactive.selected.bg.hover}"
-              },
-              "pressed": {
-                "type": "color",
-                "value": "{colors.bridging.interactive.selected.bg.pressed}"
-              },
-              "error": {
-                "type": "color",
-                "value": "$colors.bridging.background.ui.01"
-              }
-            }
-          },
-          "type": {
-            "enabled": {
-              "type": "color",
-              "value": "$colors.text.default"
-            },
-            "disabled": {
-              "type": "color",
-              "value": "$colors.text.subtle"
-            }
-          },
-          "background": {
-            "tttt": {
-              "type": "color",
-              "value": "$colors.bridging.background.ui.01"
-            },
-            "default": {
-              "type": "color",
-              "value": "{colors.neutral.08}"
-            },
-            "hover": {
-              "type": "color",
-              "value": "{colors.neutral.07}"
-            },
-            "pressed": {
-              "type": "color",
-              "value": "{colors.neutral.06}"
-            },
-            "error": {
-              "type": "color",
-              "value": "{colors.neutral.08}"
-            }
-          }
+          "value": "$colors.bridging.icon.05"
         }
       },
       "focus": {
         "type": "color",
-        "value": "#1097e0",
-        "description": "Figma- Need to update bridging token as this is a hex.\n- Original: $colors.bridging.focus.01"
+        "value": "$colors.bridging.focus.01"
       },
       "textInput": {
         "background": {
-          "hover": {
-            "value": "{colors.neutral.07}",
-            "type": "color"
-          },
           "type": "color",
           "value": "$colors.bridging.background.ui.01"
-        },
-        "hover": {
-          "hover": {
-            "value": "{colors.neutral.07}",
-            "type": "color"
-          },
-          "type": "color",
-          "value": "$colors.bridging.background.ui.01",
-          "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
-        },
-        "active": {
-          "hover": {
-            "value": "{colors.neutral.07}",
-            "type": "color"
-          },
-          "type": "color",
-          "value": "$colors.bridging.background.ui.01",
-          "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
-        },
-        "disabled": {
-          "hover": {
-            "value": "{colors.neutral.07}",
-            "type": "color"
-          },
-          "type": "color",
-          "value": "$colors.bridging.background.ui.01",
-          "description": "⚠️ This is a placeholder and is only used to swap out the new bridging tokens. It should be deleted."
         },
         "border": {
           "enabled": {
@@ -1071,16 +855,12 @@
           },
           "active": {
             "type": "color",
-            "value": "{colors.bridging.border.01}"
+            "value": "$colors.bridging.border.04"
           },
           "error": {
             "type": "color",
             "value": "$colors.alert.error"
           }
-        },
-        "icon": {
-          "type": "color",
-          "value": "{colors.icon.subtle}"
         }
       },
       "dropdown": {
@@ -1099,7 +879,7 @@
           },
           "active": {
             "type": "color",
-            "value": "{colors.bridging.border.01}"
+            "value": "$colors.bridging.border.04"
           },
           "error": {
             "type": "color",
@@ -1111,19 +891,15 @@
         "type": {
           "label": {
             "type": "color",
-            "value": "$colors.text.default"
+            "value": "$colors.bridging.type.01"
           },
           "hint": {
             "type": "color",
-            "value": "$colors.text.subtle"
+            "value": "$colors.bridging.type.02"
           },
           "input": {
             "type": "color",
-            "value": "$colors.text.default"
-          },
-          "placeholder": {
-            "type": "color",
-            "value": "$colors.text.muted"
+            "value": "$colors.bridging.type.01"
           },
           "validation": {
             "error": {
@@ -1132,11 +908,11 @@
             },
             "success": {
               "type": "color",
-              "value": "$colors.text.default"
+              "value": "$colors.bridging.type.01"
             },
             "information": {
               "type": "color",
-              "value": "$colors.text.default"
+              "value": "$colors.bridging.type.01"
             }
           }
         },
@@ -1148,31 +924,23 @@
             },
             "success": {
               "type": "color",
-              "value": "$colors.text.default"
+              "value": "$colors.alert.success"
             },
             "information": {
               "type": "color",
-              "value": "$colors.text.default"
+              "value": "$colors.alert.information"
             }
-          },
-          "subtle": {
-            "type": "color",
-            "value": "$colors.text.subtle"
-          },
-          "enabled": {
-            "type": "color",
-            "value": "$colors.text.default"
           }
         },
         "modal": {
           "type": {
             "header": {
               "type": "color",
-              "value": "$colors.text.default"
+              "value": "$colors.bridging.type.01"
             },
             "copy": {
               "type": "color",
-              "value": "$colors.text.default"
+              "value": "$colors.bridging.type.01"
             }
           },
           "background": {
@@ -1254,31 +1022,6 @@
               "description": "Allowance for darkmode value"
             },
             "selected": {
-              "enabled": {
-                "value": "$colors.bridging.interactive.background.ui.01",
-                "type": "color",
-                "description": "Align with base UI value"
-              },
-              "hover": {
-                "value": "$colors.bridging.interactive.background.level.01",
-                "type": "color",
-                "description": "Allowance for darkmode value"
-              },
-              "pressed": {
-                "value": "$colors.bridging.interactive.background.level.02",
-                "type": "color",
-                "description": "Allowance for darkmode value"
-              },
-              "selected": {
-                "value": "$colors.bridging.interactive.background.level.01",
-                "type": "color",
-                "description": "Allowance for darkmode value"
-              },
-              "error": {
-                "value": "$colors.bridging.interactive.background.ui.01",
-                "type": "color",
-                "description": "Allowance for darkmode value"
-              },
               "type": "color",
               "value": "$colors.bridging.background.level.01",
               "description": "Allowance for darkmode value"
@@ -1316,11 +1059,11 @@
         "type": {
           "header": {
             "type": "color",
-            "value": "$colors.text.default"
+            "value": "$colors.bridging.type.01"
           },
           "body": {
             "type": "color",
-            "value": "$colors.text.default"
+            "value": "$colors.bridging.type.01"
           }
         }
       },
@@ -1376,15 +1119,15 @@
       "typography": {
         "enabled": {
           "type": "color",
-          "value": "$colors.text.default"
+          "value": "$colors.bridging.type.01"
         },
         "muted": {
           "type": "color",
-          "value": "$colors.text.subtle"
+          "value": "$colors.bridging.type.02"
         },
         "highlight": {
           "type": "color",
-          "value": "$colors.text.highlight.01"
+          "value": "$colors.bridging.type.highlight.01"
         },
         "error": {
           "type": "color",
@@ -1393,13 +1136,13 @@
         "inverse": {
           "enabled": {
             "type": "color",
-            "value": "$colors.text.onDark"
+            "value": "$colors.bridging.type.05"
           }
         },
         "secondary": {
           "highlight": {
             "type": "color",
-            "value": "$colors.text.highlight.02"
+            "value": "$colors.bridging.type.highlight.02"
           }
         }
       },
