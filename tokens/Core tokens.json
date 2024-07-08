@@ -1826,6 +1826,10 @@
       "type": "spacing",
       "value": "1px"
     },
+    "50": {
+      "type": "spacing",
+      "value": "2px"
+    },
     "100": {
       "type": "spacing",
       "value": "4px"
@@ -1889,14 +1893,6 @@
     "3200": {
       "type": "spacing",
       "value": "128px"
-    },
-    "050": {
-      "type": "spacing",
-      "value": "2px"
-    },
-    "0000": {
-      "type": "spacing",
-      "value": "69"
     }
   },
   "space-test": {
