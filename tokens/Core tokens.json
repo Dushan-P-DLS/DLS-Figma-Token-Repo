@@ -1894,43 +1894,5 @@
       "type": "spacing",
       "value": "2px"
     }
-  },
-  "space-test": {
-    "25": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
-      "type": "sizing",
-      "value": "69"
-    },
-    "100": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
-      "type": "sizing",
-      "value": "69"
-    },
-    "00": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
-      "type": "sizing",
-      "value": "69px"
-    },
-    "050": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
-      "type": "sizing",
-      "value": "69"
-    }
   }
 }
