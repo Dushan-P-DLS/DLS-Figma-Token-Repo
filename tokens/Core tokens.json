@@ -36,15 +36,6 @@
       "type": "spacing",
       "value": "8"
     },
-    "12px": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
-      "type": "spacing",
-      "value": "12"
-    },
     "02": {
       "type": "spacing",
       "value": "16"
@@ -1801,20 +1792,6 @@
           }
         }
       }
-    }
-  },
-  "lineHeight": {
-    "16": {
-      "type": "lineHeights",
-      "value": "16px"
-    },
-    "20": {
-      "type": "lineHeights",
-      "value": "20px"
-    },
-    "24": {
-      "type": "lineHeights",
-      "value": "24px"
     }
   },
   "space": {

@@ -795,6 +795,10 @@
             "type": "color",
             "value": "$colors.bridging.border.02"
           },
+          "disabled": {
+            "type": "color",
+            "value": "{colors.neutral.03}"
+          },
           "hover": {
             "type": "color",
             "value": "$colors.bridging.border.01"
