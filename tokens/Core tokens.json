@@ -1818,18 +1818,6 @@
     }
   },
   "space": {
-    "0": {
-      "type": "spacing",
-      "value": "0px"
-    },
-    "25": {
-      "type": "spacing",
-      "value": "1px"
-    },
-    "50": {
-      "type": "spacing",
-      "value": "2px"
-    },
     "100": {
       "type": "spacing",
       "value": "4px"
@@ -1893,6 +1881,18 @@
     "3200": {
       "type": "spacing",
       "value": "128px"
+    },
+    "000": {
+      "type": "spacing",
+      "value": "0px"
+    },
+    "025": {
+      "type": "spacing",
+      "value": "1px"
+    },
+    "050": {
+      "type": "spacing",
+      "value": "2px"
     }
   },
   "space-test": {
