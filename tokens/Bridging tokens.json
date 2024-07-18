@@ -295,7 +295,7 @@
       "focus": {
         "01": {
           "type": "color",
-          "value": "$colors.tint.tertiary.03.40",
+          "value": "#1097E0",
           "description": "Focus Pink"
         },
         "02": {
