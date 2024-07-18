@@ -557,77 +557,222 @@
         "type": "color",
         "value": "{colors.neutral.05}"
       }
-    }
-  },
-  "fontSizes": {
-    "bridging": {
-      "form": {
-        "01": {
-          "type": "fontSizes",
-          "value": "$fontSizes.lg.01",
-          "description": "Default font size for form hint & validation"
+    },
+    "action": {
+      "primary": {
+        "default": {
+          "type": "color",
+          "value": "{colors.primary.01}"
         },
-        "02": {
-          "type": "fontSizes",
-          "value": "$fontSizes.lg.02",
-          "description": "Default font size for form labels & input"
+        "hover": {
+          "type": "color",
+          "value": "{colors.tint.primary.01.80}"
+        },
+        "pressed": {
+          "type": "color",
+          "value": "{colors.tint.primary.01.70}"
+        },
+        "fg": {
+          "type": "color",
+          "value": "{colors.neutral.08}"
+        },
+        "border": {
+          "type": "color",
+          "value": "{colors.neutral.08}"
+        }
+      },
+      "secondary": {
+        "default": {
+          "type": "color",
+          "value": "rgba({colors.neutral.08}, 0)"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{colors.tint.primary.01.10}"
+        },
+        "pressed": {
+          "type": "color",
+          "value": "{colors.tint.primary.01.20}"
+        },
+        "fg": {
+          "type": "color",
+          "value": "{colors.primary.01}"
+        },
+        "border": {
+          "type": "color",
+          "value": "{colors.primary.01}"
+        }
+      },
+      "utility": {
+        "default": {
+          "type": "color",
+          "value": "{colors.neutral.08}"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{colors.neutral.06}"
+        },
+        "pressed": {
+          "type": "color",
+          "value": "{colors.neutral.04}"
+        },
+        "border": {
+          "type": "color",
+          "value": "{colors.neutral.03}",
+          "description": "This won't be a11y so the component needs to have a visual que to achieve a11y."
+        },
+        "fg": {
+          "type": "color",
+          "value": "{colors.neutral.00}"
+        },
+        "inverse": {
+          "default": {
+            "type": "color",
+            "value": "{colors.neutral.01}"
+          },
+          "hover": {
+            "type": "color",
+            "value": "{colors.neutral.01}"
+          },
+          "pressed": {
+            "type": "color",
+            "value": "{colors.neutral.02}"
+          },
+          "border": {
+            "type": "color",
+            "value": "{colors.neutral.06}"
+          },
+          "fg": {
+            "type": "color",
+            "value": "{colors.neutral.08}"
+          }
+        }
+      },
+      "link": {
+        "default": {
+          "type": "color",
+          "value": "{colors.primary.01}"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{colors.tint.primary.01.90}"
+        },
+        "pressed": {
+          "type": "color",
+          "value": "{colors.tint.primary.01.80}"
+        },
+        "visited": {
+          "type": "color",
+          "value": "{colors.secondary.04}"
+        },
+        "muted": {
+          "default": {
+            "type": "color",
+            "value": "{colors.neutral.01}"
+          },
+          "hover": {
+            "type": "color",
+            "value": "{colors.neutral.02}"
+          },
+          "pressed": {
+            "type": "color",
+            "value": "{colors.neutral.03}"
+          },
+          "visited": {
+            "type": "color",
+            "value": "{colors.secondary.04}"
+          }
+        },
+        "inverse": {
+          "default": {
+            "type": "color",
+            "value": "{colors.neutral.08}"
+          },
+          "hover": {
+            "type": "color",
+            "value": "{colors.neutral.06}"
+          },
+          "pressed": {
+            "type": "color",
+            "value": "{colors.neutral.04}"
+          },
+          "visited": {
+            "type": "color",
+            "value": "{colors.tint.secondary.03.40}"
+          }
         }
       }
-    }
-  },
-  "borderWidth": {
-    "bridging": {
-      "default": {
-        "type": "borderWidth",
-        "value": "$borderWidth.border01",
-        "description": "Default spacing"
-      },
-      "form": {
+    },
+    "fontSizes": {
+      "bridging": {
+        "form": {
+          "01": {
+            "type": "fontSizes",
+            "value": "$fontSizes.lg.01",
+            "description": "Default font size for form hint & validation"
+          },
+          "02": {
+            "type": "fontSizes",
+            "value": "$fontSizes.lg.02",
+            "description": "Default font size for form labels & input"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "bridging": {
         "default": {
           "type": "borderWidth",
-          "value": "$borderWidth.border02",
-          "description": "Button width 2px"
+          "value": "$borderWidth.border01",
+          "description": "Default spacing"
         },
-        "selected": {
-          "type": "borderWidth",
-          "value": "$borderWidth.border03",
-          "description": "Radio/checkbox selected width 6px"
+        "form": {
+          "default": {
+            "type": "borderWidth",
+            "value": "$borderWidth.border02",
+            "description": "Button width 2px"
+          },
+          "selected": {
+            "type": "borderWidth",
+            "value": "$borderWidth.border03",
+            "description": "Radio/checkbox selected width 6px"
+          }
         }
       }
-    }
-  },
-  "borderRadius": {
-    "bridging": {
-      "default": {
-        "type": "borderRadius",
-        "value": "$borderRadius.radius00",
-        "description": "Default spacing"
-      },
-      "form": {
-        "round": {
+    },
+    "borderRadius": {
+      "bridging": {
+        "default": {
           "type": "borderRadius",
-          "value": "$borderRadius.radius08",
-          "description": "Button; radio button"
+          "value": "$borderRadius.radius00",
+          "description": "Default spacing"
+        },
+        "form": {
+          "round": {
+            "type": "borderRadius",
+            "value": "$borderRadius.radius08",
+            "description": "Button; radio button"
+          }
+        },
+        "none": {
+          "type": "borderRadius",
+          "value": "0px"
         }
-      },
-      "none": {
-        "type": "borderRadius",
-        "value": "0px"
       }
-    }
-  },
-  "boxShadow": {
-    "bridging": {
-      "form": {
-        "button": {
-          "type": "boxShadow",
-          "value": {
-            "x": "0px",
-            "y": "4px",
-            "spread": "1px",
-            "color": "$colors.elevation.opacity02",
-            "blur": "12px",
-            "description": "Elevation 02"
+    },
+    "boxShadow": {
+      "bridging": {
+        "form": {
+          "button": {
+            "type": "boxShadow",
+            "value": {
+              "x": "0px",
+              "y": "4px",
+              "spread": "1px",
+              "color": "$colors.elevation.opacity02",
+              "blur": "12px",
+              "description": "Elevation 02"
+            }
           }
         }
       }
