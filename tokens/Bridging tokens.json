@@ -2,48 +2,48 @@
   "spacing": {
     "bridging": {
       "default": {
-        "value": "$spacing.02",
         "type": "spacing",
+        "value": "$spacing.02",
         "description": "Default spacing"
       },
-      "md": {
-        "value": "$spacing.02",
-        "type": "spacing",
-        "description": "Medium spacing"
-      },
       "sm": {
-        "value": "$spacing.01",
         "type": "spacing",
+        "value": "$spacing.01",
         "description": "Small spacing"
       },
-      "lg": {
-        "value": "$spacing.03",
+      "md": {
         "type": "spacing",
+        "value": "$spacing.02",
+        "description": "Medium spacing"
+      },
+      "lg": {
+        "type": "spacing",
+        "value": "$spacing.03",
         "description": "Large spacing"
       },
       "form": {
         "type": {
           "padding": {
-            "value": "$spacing.01 + ($spacing.01 / 2)",
             "type": "spacing",
+            "value": "$spacing.01 + ($spacing.01 / 2)",
             "description": "12px padding for form text"
           }
         }
       },
       "padding": {
         "04": {
-          "value": "$spacing.04",
           "type": "spacing",
+          "value": "$spacing.04",
           "description": "padding 32px"
         },
         "05": {
-          "value": "$spacing.05",
           "type": "spacing",
+          "value": "$spacing.05",
           "description": "padding 40px"
         },
         "06": {
-          "value": "$spacing.06",
           "type": "spacing",
+          "value": "$spacing.06",
           "description": "padding 48px"
         }
       }
@@ -53,335 +53,335 @@
     "bridging": {
       "interactive": {
         "01": {
-          "value": "$colors.primary.01",
           "type": "color",
-          "description": "Primary interactive colour; Primary buttons; links"
+          "value": "$colors.primary.01",
+          "description": "Primary interactive colour;Primary buttons; links"
         },
         "02": {
-          "value": "$colors.primary.02",
           "type": "color",
+          "value": "$colors.primary.02",
           "description": ""
         },
         "03": {
-          "value": "$colors.secondary.04",
           "type": "color",
+          "value": "$colors.secondary.04",
           "description": "Reserve for a tertiary button colour or tertiary interaction colour"
         },
         "link": {
           "01": {
-            "value": "$colors.primary.01",
             "type": "color",
+            "value": "$colors.primary.01",
             "description": "Default interaction link colour"
           },
           "02": {
-            "value": "$colors.tint.primary.01.80",
             "type": "color",
+            "value": "$colors.tint.primary.01.80",
             "description": "Default hover link colour"
           },
           "03": {
-            "value": "$colors.secondary.04",
             "type": "color",
+            "value": "$colors.secondary.04",
             "description": "Default visited link"
           }
         },
         "pressed": {
           "01": {
-            "value": "$colors.tint.primary.01.110",
             "type": "color",
+            "value": "$colors.tint.primary.01.110",
             "description": "interactive01 pressed"
           },
           "02": {
-            "value": "$colors.tint.primary.01.30",
             "type": "color",
+            "value": "$colors.tint.primary.01.30",
             "description": "Secondary pressed; Tertiary pressed; Primary inverse pressed"
           },
           "03": {
-            "value": "$colors.tint.primary.01.70",
             "type": "color",
+            "value": "$colors.tint.primary.01.70",
             "description": "Secondary inverse pressed; Tertiary inverse pressed"
           }
         },
         "hover": {
           "01": {
-            "value": "$colors.tint.primary.01.80",
             "type": "color",
+            "value": "$colors.tint.primary.01.80",
             "description": "Interactive01 hover;Secondary inverse hover; Tertiary inverse hover"
           },
           "02": {
-            "value": "$colors.tint.primary.01.20",
             "type": "color",
+            "value": "$colors.tint.primary.01.20",
             "description": "Secondary hover; Tertiary hover; Primary inverse hover"
           }
         },
         "inverse": {
           "01": {
-            "value": "$colors.static.neutral.08",
             "type": "color",
+            "value": "$colors.static.neutral.08",
             "description": "Inverse text colour; Inverse icon colour; Inverse button colour"
           },
           "02": {
-            "value": "$colors.primary.02",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.primary.02"
           },
           "03": {
-            "value": "$colors.secondary.04",
             "type": "color",
+            "value": "$colors.secondary.04",
             "description": ""
           },
           "link": {
             "01": {
-              "value": "$colors.static.neutral.08",
               "type": "color",
+              "value": "$colors.static.neutral.08",
               "description": "Enabled link colour"
             },
             "02": {
-              "value": "$colors.tint.primary.01.20",
               "type": "color",
+              "value": "$colors.tint.primary.01.20",
               "description": "Inverse hover colour"
             },
             "03": {
-              "value": "$colors.tint.primary.01.30",
               "type": "color",
+              "value": "$colors.tint.primary.01.30",
               "description": "Inverse visited colour"
             }
           },
           "pressed": {
             "01": {
-              "value": "$colors.tint.primary.01.30",
               "type": "color",
+              "value": "$colors.tint.primary.01.30",
               "description": "Inverse primary button pressed colour"
             },
             "02": {
-              "value": "$colors.tint.primary.01.70",
               "type": "color",
+              "value": "$colors.tint.primary.01.70",
               "description": "Inverse secondary/tertiary pressed colour"
             }
           },
           "hover": {
             "01": {
-              "value": "$colors.tint.primary.01.20",
               "type": "color",
+              "value": "$colors.tint.primary.01.20",
               "description": "Inverse button hover colour"
             }
           }
         },
         "disabled": {
           "01": {
-            "value": "$colors.static.neutral.04",
             "type": "color",
+            "value": "$colors.static.neutral.04",
             "description": "Disabled backgrounds;Disabled fields;Disabled border"
           },
           "02": {
-            "value": "$colors.static.neutral.02",
             "type": "color",
+            "value": "$colors.static.neutral.02",
             "description": "Disabled text on colors.bridging.disabled.01; Disabled icons"
           },
           "03": {
-            "value": "$colors.alert.null",
             "type": "color",
+            "value": "$colors.alert.null",
             "description": "Alert colour designation defined as null"
           }
         },
         "focus": {
           "01": {
-            "value": "#1097E0",
             "type": "color",
+            "value": "#1097E0",
             "description": "Accessibility focus colour"
           }
         }
       },
       "border": {
         "01": {
-          "value": "$colors.neutral.01",
           "type": "color",
+          "value": "$colors.neutral.01",
           "description": "Primary border colour"
         },
         "02": {
-          "value": "$colors.neutral.02",
           "type": "color",
+          "value": "$colors.neutral.02",
           "description": "Secondary border colour"
         },
         "03": {
-          "value": "$colors.neutral.05",
           "type": "color",
+          "value": "$colors.neutral.05",
           "description": "Tertiary border colour"
         },
         "04": {
-          "value": "$colors.primary.01",
           "type": "color",
+          "value": "$colors.primary.01",
           "description": "Interactive border colour"
         },
         "05": {
-          "value": "$colors.static.neutral.08",
           "type": "color",
+          "value": "$colors.static.neutral.08",
           "description": ""
         }
       },
       "icon": {
         "01": {
-          "value": "$colors.neutral.01",
           "type": "color",
+          "value": "$colors.neutral.01",
           "description": "Primary icon; input icon"
         },
         "02": {
-          "value": "$colors.neutral.02",
           "type": "color",
+          "value": "$colors.neutral.02",
           "description": "Secondary icon colour"
         },
         "03": {
-          "value": "$colors.neutral.03",
           "type": "color",
+          "value": "$colors.neutral.03",
           "description": "Inactive icon colour"
         },
         "04": {
-          "value": "$colors.bridging.interactive.01",
           "type": "color",
+          "value": "$colors.bridging.interactive.01",
           "description": "Interactive icon colour"
         },
         "05": {
-          "value": "$colors.static.neutral.08",
           "type": "color",
+          "value": "$colors.static.neutral.08",
           "description": "icon on interactive colour"
         },
         "highlight": {
           "01": {
-            "value": "$colors.bridging.interactive.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.interactive.01"
           },
           "02": {
-            "value": "$colors.secondary.04",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.secondary.04"
           }
         },
         "pressed": {
           "01": {
-            "value": "$colors.tint.primary.01.20",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.tint.primary.01.20"
           },
           "02": {
-            "value": "$colors.tint.primary.01.80",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.tint.primary.01.80"
           }
         },
         "hover": {
           "01": {
-            "value": "$colors.static.neutral.08",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.static.neutral.08"
           },
           "02": {
-            "value": "$colors.bridging.interactive.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.interactive.01"
           }
         },
         "inverse": {
           "pressed": {
             "01": {
-              "value": "$colors.tint.primary.01.80",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.tint.primary.01.80"
             },
             "02": {
-              "value": "$colors.tint.primary.01.20",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.tint.primary.01.20"
             }
           },
           "hover": {
             "01": {
-              "value": "$colors.bridging.interactive.01",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.bridging.interactive.01"
             }
           }
         }
       },
       "focus": {
         "01": {
-          "value": "$colors.tint.tertiary.03.40",
           "type": "color",
+          "value": "#1097E0",
           "description": "Focus Pink"
         },
         "02": {
-          "value": "$colors.mobile.01",
           "type": "color",
+          "value": "$colors.mobile.01",
           "description": "iOS interactive colour"
         },
         "03": {
-          "value": "$colors.gradient.01",
           "type": "color",
+          "value": "$colors.gradient.01",
           "description": "iOS interactive"
         }
       },
       "type": {
         "01": {
-          "value": "$colors.neutral.01",
           "type": "color",
+          "value": "$colors.neutral.01",
           "description": "Body copy;Headers;Input labels;Input text"
         },
         "02": {
-          "value": "$colors.neutral.02",
           "type": "color",
+          "value": "$colors.neutral.02",
           "description": "Secondary text colour"
         },
         "03": {
-          "value": "$colors.neutral.03",
           "type": "color",
+          "value": "$colors.neutral.03",
           "description": "Inactive text colour"
         },
         "04": {
-          "value": "$colors.bridging.interactive.01",
           "type": "color",
+          "value": "$colors.bridging.interactive.01",
           "description": "Interactive text colour"
         },
         "05": {
-          "value": "$colors.static.neutral.08",
           "type": "color",
+          "value": "$colors.static.neutral.08",
           "description": "Text on interactive colour"
         },
         "highlight": {
           "01": {
-            "value": "$colors.bridging.interactive.01",
             "type": "color",
+            "value": "$colors.bridging.interactive.01",
             "description": "Primary highlight"
           },
           "02": {
-            "value": "$colors.secondary.04",
             "type": "color",
+            "value": "$colors.secondary.04",
             "description": "Secondary highlight"
           }
         },
         "pressed": {
           "01": {
-            "value": "$colors.tint.primary.01.20",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.tint.primary.01.20"
           },
           "02": {
-            "value": "$colors.tint.primary.01.80",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.tint.primary.01.80"
           }
         },
         "hover": {
           "01": {
-            "value": "$colors.static.neutral.08",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.static.neutral.08"
           },
           "02": {
-            "value": "$colors.bridging.interactive.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.bridging.interactive.01"
           }
         },
         "inverse": {
           "pressed": {
             "01": {
-              "value": "$colors.tint.primary.01.80",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.tint.primary.01.80"
             },
             "02": {
-              "value": "$colors.tint.primary.01.20",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.tint.primary.01.20"
             }
           },
           "hover": {
             "01": {
-              "value": "$colors.bridging.interactive.01",
-              "type": "color"
+              "type": "color",
+              "value": "$colors.bridging.interactive.01"
             }
           }
         }
@@ -389,117 +389,391 @@
       "background": {
         "ui": {
           "01": {
-            "value": "$colors.neutral.08",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.neutral.08"
           },
           "04": {
-            "value": "$colors.neutral.01",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.neutral.01"
           }
         },
         "level": {
           "01": {
-            "value": "$colors.neutral.08",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.neutral.08"
           },
           "02": {
-            "value": "$colors.neutral.08",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.neutral.08"
           },
           "03": {
-            "value": "$colors.neutral.08",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.neutral.08"
           },
           "04": {
-            "value": "$colors.neutral.08",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.neutral.08"
           },
           "05": {
-            "value": "$colors.neutral.08",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.neutral.08"
           },
           "gradient01": {
-            "value": "$colors.gradient.05",
-            "type": "color"
+            "type": "color",
+            "value": "$colors.gradient.05"
           }
         },
         "modal": {
-          "value": "$colors.neutral.01",
-          "type": "color"
+          "type": "color",
+          "value": "$colors.neutral.01"
         }
       }
-    }
-  },
-  "fontSizes": {
-    "bridging": {
-      "form": {
-        "01": {
-          "value": "$fontSizes.lg.01",
-          "type": "fontSizes",
-          "description": "Default font size for form hint & validation"
-        },
-        "02": {
-          "value": "$fontSizes.lg.02",
-          "type": "fontSizes",
-          "description": "Default font size for form labels & input"
-        }
-      }
-    }
-  },
-  "borderWidth": {
-    "bridging": {
+    },
+    "icon": {
       "default": {
-        "value": "$borderWidth.border01",
-        "type": "borderWidth",
-        "description": "Default spacing"
+        "type": "color",
+        "value": "$colors.neutral.01",
+        "description": "Primary icon; input icon\n⭐Somehow the icons have been moved under the interactive section.\n\n"
       },
-      "form": {
-        "default": {
-          "value": "$borderWidth.border02",
-          "type": "borderWidth",
-          "description": "Button width 2px"
+      "subtle": {
+        "type": "color",
+        "value": "$colors.neutral.02",
+        "description": "Secondary icon colour"
+      },
+      "muted": {
+        "type": "color",
+        "value": "$colors.neutral.03",
+        "description": "Inactive icon colour"
+      },
+      "04": {
+        "type": "color",
+        "value": "$colors.bridging.interactive.01",
+        "description": "Interactive icon colour"
+      },
+      "onDark": {
+        "type": "color",
+        "value": "{colors.static.neutral.08}",
+        "description": "This is used for elements that need to be white that sit on various backgrounds."
+      }
+    },
+    "text": {
+      "default": {
+        "type": "color",
+        "value": "{colors.neutral.01}",
+        "description": "Body copy;Headers;Input labels;Input text\n$colors.neutral.01"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "$colors.neutral.02",
+        "description": "Secondary text colour"
+      },
+      "muted": {
+        "type": "color",
+        "value": "$colors.neutral.03",
+        "description": "Inactive text colour"
+      },
+      "04": {
+        "type": "color",
+        "value": "$colors.bridging.interactive.01",
+        "description": "Interactive text colour\n⚠️ This might not be in use ⚠️"
+      },
+      "onDark": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
+        },
+        "type": "color",
+        "value": "$colors.static.neutral.08",
+        "description": "Text on interactive colour\n\nThis is used for elements that need to be white that sit on various background"
+      }
+    },
+    "input": {
+      "bg": {
+        "enabled": {
+          "type": "color",
+          "value": "{colors.neutral.08}"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{colors.neutral.07}"
+        },
+        "active": {
+          "type": "color",
+          "value": "{colors.neutral.08}"
+        },
+        "error": {
+          "type": "color",
+          "value": "{colors.tint.tertiary.04.10}"
+        },
+        "disabled": {
+          "type": "color",
+          "value": "{colors.neutral.06}"
+        }
+      },
+      "border": {
+        "enabled": {
+          "type": "color",
+          "value": "{colors.bridging.border.02}"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{colors.bridging.border.01}"
+        },
+        "active": {
+          "type": "color",
+          "value": "{colors.bridging.border.01}"
+        },
+        "error": {
+          "type": "color",
+          "value": "{colors.alert.error}"
         },
         "selected": {
-          "value": "$borderWidth.border03",
-          "type": "borderWidth",
-          "description": "Radio/checkbox selected width 6px"
+          "type": "color",
+          "value": "{colors.primary.01}"
+        },
+        "disabled": {
+          "type": "color",
+          "value": "rgba({colors.neutral.06}, 0)"
+        }
+      },
+      "selected": {
+        "fg": {
+          "type": "color",
+          "value": "{colors.neutral.08}"
+        },
+        "bg": {
+          "type": "color",
+          "value": "{colors.primary.01}"
         }
       }
-    }
-  },
-  "borderRadius": {
-    "bridging": {
+    },
+    "border": {
       "default": {
-        "value": "$borderRadius.radius00",
-        "type": "borderRadius",
-        "description": "Default spacing"
+        "type": "color",
+        "value": "{colors.neutral.03}"
       },
-      "form": {
-        "round": {
-          "value": "$borderRadius.radius08",
-          "type": "borderRadius",
-          "description": "Button; radio button"
+      "subtle": {
+        "type": "color",
+        "value": "{colors.neutral.05}"
+      }
+    },
+    "action": {
+      "primary": {
+        "default": {
+          "type": "color",
+          "value": "{colors.primary.01}"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{colors.tint.primary.01.80}"
+        },
+        "pressed": {
+          "type": "color",
+          "value": "{colors.tint.primary.01.70}"
+        },
+        "fg": {
+          "type": "color",
+          "value": "{colors.neutral.08}"
+        },
+        "border": {
+          "type": "color",
+          "value": "{colors.neutral.08}"
         }
       },
-      "none": {
-        "value": "0px",
-        "type": "borderRadius"
-      }
-    }
-  },
-  "boxShadow": {
-    "bridging": {
-      "form": {
-        "button": {
-          "value": {
-            "x": "0px",
-            "y": "4px",
-            "spread": "1px",
-            "color": "$colors.elevation.opacity02",
-            "blur": "12px",
-            "description": "Elevation 02"
+      "secondary": {
+        "default": {
+          "type": "color",
+          "value": "rgba({colors.neutral.08}, 0)"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{colors.tint.primary.01.10}"
+        },
+        "pressed": {
+          "type": "color",
+          "value": "{colors.tint.primary.01.20}"
+        },
+        "fg": {
+          "type": "color",
+          "value": "{colors.primary.01}"
+        },
+        "border": {
+          "type": "color",
+          "value": "{colors.primary.01}"
+        }
+      },
+      "utility": {
+        "default": {
+          "type": "color",
+          "value": "{colors.neutral.08}"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{colors.neutral.06}"
+        },
+        "pressed": {
+          "type": "color",
+          "value": "{colors.neutral.04}"
+        },
+        "border": {
+          "type": "color",
+          "value": "{colors.neutral.03}",
+          "description": "This won't be a11y so the component needs to have a visual que to achieve a11y."
+        },
+        "fg": {
+          "type": "color",
+          "value": "{colors.neutral.00}"
+        },
+        "inverse": {
+          "default": {
+            "type": "color",
+            "value": "{colors.neutral.01}"
           },
-          "type": "boxShadow"
+          "hover": {
+            "type": "color",
+            "value": "{colors.neutral.01}"
+          },
+          "pressed": {
+            "type": "color",
+            "value": "{colors.neutral.02}"
+          },
+          "border": {
+            "type": "color",
+            "value": "{colors.neutral.06}"
+          },
+          "fg": {
+            "type": "color",
+            "value": "{colors.neutral.08}"
+          }
+        }
+      },
+      "link": {
+        "default": {
+          "type": "color",
+          "value": "{colors.primary.01}"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{colors.tint.primary.01.90}"
+        },
+        "pressed": {
+          "type": "color",
+          "value": "{colors.tint.primary.01.80}"
+        },
+        "visited": {
+          "type": "color",
+          "value": "{colors.secondary.04}"
+        },
+        "muted": {
+          "default": {
+            "type": "color",
+            "value": "{colors.neutral.01}"
+          },
+          "hover": {
+            "type": "color",
+            "value": "{colors.neutral.02}"
+          },
+          "pressed": {
+            "type": "color",
+            "value": "{colors.neutral.03}"
+          },
+          "visited": {
+            "type": "color",
+            "value": "{colors.secondary.04}"
+          }
+        },
+        "inverse": {
+          "default": {
+            "type": "color",
+            "value": "{colors.neutral.08}"
+          },
+          "hover": {
+            "type": "color",
+            "value": "{colors.neutral.06}"
+          },
+          "pressed": {
+            "type": "color",
+            "value": "{colors.neutral.04}"
+          },
+          "visited": {
+            "type": "color",
+            "value": "{colors.tint.secondary.03.40}"
+          }
+        }
+      }
+    },
+    "fontSizes": {
+      "bridging": {
+        "form": {
+          "01": {
+            "type": "fontSizes",
+            "value": "$fontSizes.lg.01",
+            "description": "Default font size for form hint & validation"
+          },
+          "02": {
+            "type": "fontSizes",
+            "value": "$fontSizes.lg.02",
+            "description": "Default font size for form labels & input"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "bridging": {
+        "default": {
+          "type": "borderWidth",
+          "value": "$borderWidth.border01",
+          "description": "Default spacing"
+        },
+        "form": {
+          "default": {
+            "type": "borderWidth",
+            "value": "$borderWidth.border02",
+            "description": "Button width 2px"
+          },
+          "selected": {
+            "type": "borderWidth",
+            "value": "$borderWidth.border03",
+            "description": "Radio/checkbox selected width 6px"
+          }
+        }
+      }
+    },
+    "borderRadius": {
+      "bridging": {
+        "default": {
+          "type": "borderRadius",
+          "value": "$borderRadius.radius00",
+          "description": "Default spacing"
+        },
+        "form": {
+          "round": {
+            "type": "borderRadius",
+            "value": "$borderRadius.radius08",
+            "description": "Button; radio button"
+          }
+        },
+        "none": {
+          "type": "borderRadius",
+          "value": "0px"
+        }
+      }
+    },
+    "boxShadow": {
+      "bridging": {
+        "form": {
+          "button": {
+            "type": "boxShadow",
+            "value": {
+              "x": "0px",
+              "y": "4px",
+              "spread": "1px",
+              "color": "$colors.elevation.opacity02",
+              "blur": "12px",
+              "description": "Elevation 02"
+            }
+          }
         }
       }
     }
@@ -507,8 +781,8 @@
   "fontFamilies": {
     "bridging": {
       "form": {
-        "value": "$fontFamilies.02",
         "type": "fontFamilies",
+        "value": "$fontFamilies.02",
         "description": "Default font family for forms"
       }
     }
@@ -516,8 +790,8 @@
   "fontWeights": {
     "bridging": {
       "form": {
-        "value": "$fontWeights.regular",
         "type": "fontWeights",
+        "value": "$fontWeights.regular",
         "description": "Default font weight for forms"
       }
     }
@@ -525,8 +799,8 @@
   "lineHeights": {
     "bridging": {
       "form": {
-        "value": "$lineHeights.bodyRatio",
         "type": "lineHeights",
+        "value": "$lineHeights.bodyRatio",
         "description": "Default line height for forms"
       }
     }
@@ -534,8 +808,8 @@
   "paragraphSpacing": {
     "bridging": {
       "form": {
-        "value": "$paragraphSpacing.1",
         "type": "paragraphSpacing",
+        "value": "$paragraphSpacing.1",
         "description": "Default paragraph spacing for forms"
       }
     }
@@ -543,9 +817,49 @@
   "opacity": {
     "bridging": {
       "01": {
-        "value": "{opacity.48}",
         "type": "opacity",
+        "value": "{opacity.48}",
         "description": "Scrim opacity value"
+      }
+    }
+  },
+  "border": {
+    "small": {
+      "type": "borderWidth",
+      "value": "{borderWidth.border01}"
+    },
+    "medium": {
+      "type": "borderWidth",
+      "value": "{borderWidth.border02}"
+    }
+  },
+  "input": {
+    "radius": {
+      "type": "borderRadius",
+      "value": "{borderRadius.radius01}"
+    }
+  },
+  "icon": {
+    "size": {
+      "small": {
+        "type": "sizing",
+        "value": "{sizing.02}"
+      },
+      "medium": {
+        "type": "sizing",
+        "value": "{sizing.03}"
+      },
+      "large": {
+        "type": "sizing",
+        "value": "{sizing.04}"
+      },
+      "x-large": {
+        "type": "sizing",
+        "value": "{sizing.06}"
+      },
+      "jumbo": {
+        "type": "sizing",
+        "value": "{sizing.08}"
       }
     }
   }
