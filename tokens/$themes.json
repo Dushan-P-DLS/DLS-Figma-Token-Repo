@@ -8,15 +8,11 @@
       "typography.header.sm.title02 (28)": "S:f7b8e1ef810d7ad6a3b471b08dc6ec5d200956df,",
       "typography.header.sm.title03 (24)": "S:ce29f0d10300265e4ba00658020081bf7022717d,",
       "typography.header.md.display (58)": "S:ead9009c0535844c40e0c1b91b345ff7b10e1a52,",
-      "typography.header.md.title01 (44)": "S:49e00855f7e8bde9b9724528aeee487c84756e76,",
       "typography.header.md.title02 (32)": "S:eafe82a2962048f05d4d1b9cdaebed40715c843a,",
-      "typography.header.md.title03 (26)": "S:064af6394c808cc39cb4fe2621a2b7433e5b5c31,",
       "typography.header.md.title04 (24)": "S:548402eb0e20289ea7a17bf63e453e63b03f946f,",
       "typography.header.md.title05 (20)": "S:faa5eb137cebad847aed47cff76a2d7ad6cc011d,",
       "typography.header.md.title06 (18)": "S:992918b5ce263f2e29d59a9429fe4e3b36b65587,",
       "typography.header.lg.display (50)": "S:fdfc9d7131cc907abf3186d8d678f729b5a771e9,",
-      "typography.header.lg.title01 (48)": "S:e498bc4c03a8f888559a69e4e188a4375ca5e363,",
-      "typography.header.lg.title02 (36)": "S:806053c13e9f077724a3c6db0dd01ddeac2e436e,",
       "typography.header.lg.title03 (28)": "S:00c66e8eb1634c30375bcbcbc1e0fbac54036ee5,",
       "typography.header.lg.title04 (24)": "S:491c9bf4bc65ee9f081161e88617d198de2dbc14,",
       "typography.header.lg.title05 (20)": "S:3cbe378b14697e62ed003cd72e0a7fb0dca45c47,",
@@ -45,7 +41,11 @@
       "typography.header.sm.title01 (32)": "S:0b50bb16b7c0b906e7cfc668b702d88dfcd64de2,",
       "typography.header.sm.title04 (20)": "S:b7d020c9dfa5586a5e885b293f4161ede31fb136,",
       "typography.header.sm.title05 (16)": "S:47f5243706e8dd429c3a7166d2676a0954bf1304,",
-      "typography.header.sm.title06 (14)": "S:8948935388ad20471aa75474c28945f62bc91da8,"
+      "typography.header.sm.title06 (14)": "S:8948935388ad20471aa75474c28945f62bc91da8,",
+      "typography.header.md.title01 (36)": "S:49e00855f7e8bde9b9724528aeee487c84756e76,",
+      "typography.header.md.title03 (28)": "S:064af6394c808cc39cb4fe2621a2b7433e5b5c31,",
+      "typography.header.lg.title01 (46)": "S:e498bc4c03a8f888559a69e4e188a4375ca5e363,",
+      "typography.header.lg.title02 (32)": "S:806053c13e9f077724a3c6db0dd01ddeac2e436e,"
     },
     "selectedTokenSets": {
       "Core tokens": "enabled"
