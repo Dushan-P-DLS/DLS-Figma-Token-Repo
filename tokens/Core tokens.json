@@ -1399,7 +1399,7 @@
             "fontSize": "$fontSizes.sm.06"
           }
         },
-        "title04 (22)": {
+        "title04 (20)": {
           "type": "typography",
           "value": {
             "fontFamily": "$fontFamilies.02",
@@ -1409,7 +1409,7 @@
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.04"
           }
         },
-        "title05 (18)": {
+        "title05 (16)": {
           "type": "typography",
           "value": {
             "fontFamily": "$fontFamilies.02",
@@ -1419,7 +1419,7 @@
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.02"
           }
         },
-        "title06 (16)": {
+        "title06 (14)": {
           "type": "typography",
           "value": {
             "fontFamily": "$fontFamilies.02",

@@ -7,9 +7,6 @@
       "typography.header.sm.display (52)": "S:afa484c3af24eeda6f43b988c9d39d18e487a6c7,",
       "typography.header.sm.title02 (28)": "S:f7b8e1ef810d7ad6a3b471b08dc6ec5d200956df,",
       "typography.header.sm.title03 (24)": "S:ce29f0d10300265e4ba00658020081bf7022717d,",
-      "typography.header.sm.title04 (22)": "S:b7d020c9dfa5586a5e885b293f4161ede31fb136,",
-      "typography.header.sm.title05 (18)": "S:47f5243706e8dd429c3a7166d2676a0954bf1304,",
-      "typography.header.sm.title06 (16)": "S:8948935388ad20471aa75474c28945f62bc91da8,",
       "typography.header.md.display (58)": "S:ead9009c0535844c40e0c1b91b345ff7b10e1a52,",
       "typography.header.md.title01 (44)": "S:49e00855f7e8bde9b9724528aeee487c84756e76,",
       "typography.header.md.title02 (32)": "S:eafe82a2962048f05d4d1b9cdaebed40715c843a,",
@@ -45,7 +42,10 @@
       "typography.body.lg.bodyM (16)": "S:03b9a5467a092a06c16c6354f1edb43b0e2ed9db,",
       "typography.body.lg.bodyS (14)": "S:4d46c740cad10a83a8ca11c53972fb9e6df0623b,",
       "typography.body.lg.bodyXS (12)": "S:632824b7c56b01a313760c9632902c54b1463857,",
-      "typography.header.sm.title01 (32)": "S:0b50bb16b7c0b906e7cfc668b702d88dfcd64de2,"
+      "typography.header.sm.title01 (32)": "S:0b50bb16b7c0b906e7cfc668b702d88dfcd64de2,",
+      "typography.header.sm.title04 (20)": "S:b7d020c9dfa5586a5e885b293f4161ede31fb136,",
+      "typography.header.sm.title05 (16)": "S:47f5243706e8dd429c3a7166d2676a0954bf1304,",
+      "typography.header.sm.title06 (14)": "S:8948935388ad20471aa75474c28945f62bc91da8,"
     },
     "selectedTokenSets": {
       "Core tokens": "enabled"
