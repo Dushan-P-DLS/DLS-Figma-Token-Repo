@@ -702,77 +702,77 @@
           }
         }
       }
-    },
-    "fontSizes": {
-      "bridging": {
-        "form": {
-          "01": {
-            "type": "fontSizes",
-            "value": "$fontSizes.lg.01",
-            "description": "Default font size for form hint & validation"
-          },
-          "02": {
-            "type": "fontSizes",
-            "value": "$fontSizes.lg.02",
-            "description": "Default font size for form labels & input"
-          }
+    }
+  },
+  "fontSizes": {
+    "bridging": {
+      "form": {
+        "01": {
+          "type": "fontSizes",
+          "value": "$fontSizes.lg.01",
+          "description": "Default font size for form hint & validation"
+        },
+        "02": {
+          "type": "fontSizes",
+          "value": "$fontSizes.lg.02",
+          "description": "Default font size for form labels & input"
         }
       }
-    },
-    "borderWidth": {
-      "bridging": {
+    }
+  },
+  "borderWidth": {
+    "bridging": {
+      "default": {
+        "type": "borderWidth",
+        "value": "$borderWidth.border01",
+        "description": "Default spacing"
+      },
+      "form": {
         "default": {
           "type": "borderWidth",
-          "value": "$borderWidth.border01",
-          "description": "Default spacing"
+          "value": "$borderWidth.border02",
+          "description": "Button width 2px"
         },
-        "form": {
-          "default": {
-            "type": "borderWidth",
-            "value": "$borderWidth.border02",
-            "description": "Button width 2px"
-          },
-          "selected": {
-            "type": "borderWidth",
-            "value": "$borderWidth.border03",
-            "description": "Radio/checkbox selected width 6px"
-          }
+        "selected": {
+          "type": "borderWidth",
+          "value": "$borderWidth.border03",
+          "description": "Radio/checkbox selected width 6px"
         }
       }
-    },
-    "borderRadius": {
-      "bridging": {
-        "default": {
+    }
+  },
+  "borderRadius": {
+    "bridging": {
+      "default": {
+        "type": "borderRadius",
+        "value": "$borderRadius.radius00",
+        "description": "Default spacing"
+      },
+      "form": {
+        "round": {
           "type": "borderRadius",
-          "value": "$borderRadius.radius00",
-          "description": "Default spacing"
-        },
-        "form": {
-          "round": {
-            "type": "borderRadius",
-            "value": "$borderRadius.radius08",
-            "description": "Button; radio button"
-          }
-        },
-        "none": {
-          "type": "borderRadius",
-          "value": "0px"
+          "value": "$borderRadius.radius08",
+          "description": "Button; radio button"
         }
+      },
+      "none": {
+        "type": "borderRadius",
+        "value": "0px"
       }
-    },
-    "boxShadow": {
-      "bridging": {
-        "form": {
-          "button": {
-            "type": "boxShadow",
-            "value": {
-              "x": "0px",
-              "y": "4px",
-              "spread": "1px",
-              "color": "$colors.elevation.opacity02",
-              "blur": "12px",
-              "description": "Elevation 02"
-            }
+    }
+  },
+  "boxShadow": {
+    "bridging": {
+      "form": {
+        "button": {
+          "type": "boxShadow",
+          "value": {
+            "x": "0px",
+            "y": "4px",
+            "spread": "1px",
+            "color": "$colors.elevation.opacity02",
+            "blur": "12px",
+            "description": "Elevation 02"
           }
         }
       }
