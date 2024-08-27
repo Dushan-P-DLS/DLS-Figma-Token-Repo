@@ -690,7 +690,6 @@
       "typography.component.header.md.title04 (24)": "S:86f139e0db28e4893738de3982ab41929c860710,",
       "typography.component.header.md.title05 (20)": "S:15f30c57c39a41a68d7eeb6b4087b2ba1476eead,",
       "typography.component.header.md.title06 (18)": "S:23aa006486f304b3752360a8bf57f2e7cdbfb773,",
-      "typography.component.header.lg.display (64)": "S:c804de23bfa330336dfb656ef6117e7de5d09c3a,",
       "typography.component.header.lg.title01 (48)": "S:fd5ace60e3a0381a0bfab3b80fef24fdc46a9838,",
       "typography.component.header.lg.title02 (36)": "S:e760e77701b416a237686a8bfb632e24c9d0fe3e,",
       "typography.component.header.lg.title03 (28)": "S:f9cc0bd9fad3d51504c86290ce631c7945fd7772,",
@@ -729,7 +728,8 @@
       "boxShadow.component.card.static.background.test": "S:a290e0ef832644a12747f5a17738a97e25af6852,",
       "boxShadow.component.card.interactive.background.enabled": "S:dbae9eefb4a6460e744d751b75e66f71c2c22de3,",
       "boxShadow.component.card.interactive.background.hover": "S:8452658208d36ec7d85d872a2ab250f9e9138a90,",
-      "boxShadow.component.card.interactive.background.selected": "S:f75dd4a671421cbb15fb56b9f71bc54d0bdcb818,"
+      "boxShadow.component.card.interactive.background.selected": "S:f75dd4a671421cbb15fb56b9f71bc54d0bdcb818,",
+      "typography.component.header.lg.displayXL (64)": "S:c804de23bfa330336dfb656ef6117e7de5d09c3a,"
     },
     "selectedTokenSets": {
       "Core tokens": "source",

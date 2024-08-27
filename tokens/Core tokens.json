@@ -1246,7 +1246,7 @@
   "lineHeights": {
     "displayRatio": {
       "type": "lineHeights",
-      "value": "1",
+      "value": "1.25",
       "description": "ratio"
     },
     "headerRatio": {
@@ -1518,6 +1518,16 @@
       },
       "lg": {
         "display (50)": {
+          "value": {
+            "fontFamily": "$fontFamilies.01",
+            "fontWeight": "$fontWeights.figma.semibold",
+            "lineHeight": "$lineHeights.displayRatio * $fontSizes.lg.09",
+            "fontSize": "$fontSizes.lg.09",
+            "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.09"
+          },
+          "type": "typography"
+        },
+        "displayXL": {
           "value": {
             "fontFamily": "$fontFamilies.01",
             "fontWeight": "$fontWeights.figma.semibold",
