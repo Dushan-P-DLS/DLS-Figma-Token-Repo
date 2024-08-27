@@ -44,8 +44,8 @@
       "typography.header.md.title03 (28)": "S:064af6394c808cc39cb4fe2621a2b7433e5b5c31,",
       "typography.header.lg.title01 (46)": "S:e498bc4c03a8f888559a69e4e188a4375ca5e363,",
       "typography.header.lg.title02 (32)": "S:806053c13e9f077724a3c6db0dd01ddeac2e436e,",
-      "typography.header.md.display (40)": "S:ead9009c0535844c40e0c1b91b345ff7b10e1a52,",
-      "typography.header.sm.display (36)": "S:afa484c3af24eeda6f43b988c9d39d18e487a6c7,"
+      "typography.header.sm.display (36)": "S:afa484c3af24eeda6f43b988c9d39d18e487a6c7,",
+      "typography.header.md.display (50)": "S:ead9009c0535844c40e0c1b91b345ff7b10e1a52,"
     },
     "selectedTokenSets": {
       "Core tokens": "enabled"

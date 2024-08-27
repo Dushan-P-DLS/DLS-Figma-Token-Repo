@@ -1357,7 +1357,7 @@
   },
   "typography": {
     "header": {
-      "overline01 (18)": {
+      "overline01 (16)": {
         "value": {
           "fontFamily": "$fontFamilies.02",
           "fontWeight": "$fontWeights.figma.bold",
@@ -1450,7 +1450,7 @@
         }
       },
       "md": {
-        "display (40)": {
+        "display (50)": {
           "value": {
             "fontFamily": "$fontFamilies.01",
             "fontWeight": "$fontWeights.figma.semibold",
@@ -1460,7 +1460,7 @@
           },
           "type": "typography"
         },
-        "displayXL (50)": {
+        "displayXL (58)": {
           "value": {
             "fontFamily": "$fontFamilies.01",
             "fontWeight": "$fontWeights.figma.semibold",
@@ -1542,7 +1542,7 @@
           },
           "type": "typography"
         },
-        "displayXL": {
+        "displayXL (64)": {
           "value": {
             "fontFamily": "$fontFamilies.01",
             "fontWeight": "$fontWeights.figma.semibold",
