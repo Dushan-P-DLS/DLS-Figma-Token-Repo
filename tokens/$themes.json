@@ -4,10 +4,8 @@
     "name": "Core Tokens",
     "$figmaStyleReferences": {
       "typography.header.overline01 (16)": "S:aeb65517bbdd5ef1ab079b791ed68ea96b5a1f0c,",
-      "typography.header.sm.display (52)": "S:afa484c3af24eeda6f43b988c9d39d18e487a6c7,",
       "typography.header.sm.title02 (28)": "S:f7b8e1ef810d7ad6a3b471b08dc6ec5d200956df,",
       "typography.header.sm.title03 (24)": "S:ce29f0d10300265e4ba00658020081bf7022717d,",
-      "typography.header.md.display (58)": "S:ead9009c0535844c40e0c1b91b345ff7b10e1a52,",
       "typography.header.md.title02 (32)": "S:eafe82a2962048f05d4d1b9cdaebed40715c843a,",
       "typography.header.md.title04 (24)": "S:548402eb0e20289ea7a17bf63e453e63b03f946f,",
       "typography.header.md.title05 (20)": "S:faa5eb137cebad847aed47cff76a2d7ad6cc011d,",
@@ -45,7 +43,9 @@
       "typography.header.md.title01 (36)": "S:49e00855f7e8bde9b9724528aeee487c84756e76,",
       "typography.header.md.title03 (28)": "S:064af6394c808cc39cb4fe2621a2b7433e5b5c31,",
       "typography.header.lg.title01 (46)": "S:e498bc4c03a8f888559a69e4e188a4375ca5e363,",
-      "typography.header.lg.title02 (32)": "S:806053c13e9f077724a3c6db0dd01ddeac2e436e,"
+      "typography.header.lg.title02 (32)": "S:806053c13e9f077724a3c6db0dd01ddeac2e436e,",
+      "typography.header.md.display (40)": "S:ead9009c0535844c40e0c1b91b345ff7b10e1a52,",
+      "typography.header.sm.display (36)": "S:afa484c3af24eeda6f43b988c9d39d18e487a6c7,"
     },
     "selectedTokenSets": {
       "Core tokens": "enabled"
@@ -686,12 +686,9 @@
       "typography.component.header.md.display (58)": "S:e71c219a4069e8c66ccd35d91f658e61d64f8582,",
       "typography.component.header.md.title01 (44)": "S:faf2d759fe76116cd00ca5a75d0825469eb95520,",
       "typography.component.header.md.title02 (32)": "S:e3826cb2c39f7cf440e48bf79c7da7642159af7a,",
-      "typography.component.header.md.title03 (26)": "S:57967c806ed16f0e88051d94c8025d8798705789,",
       "typography.component.header.md.title04 (24)": "S:86f139e0db28e4893738de3982ab41929c860710,",
       "typography.component.header.md.title05 (20)": "S:15f30c57c39a41a68d7eeb6b4087b2ba1476eead,",
       "typography.component.header.md.title06 (18)": "S:23aa006486f304b3752360a8bf57f2e7cdbfb773,",
-      "typography.component.header.lg.title01 (48)": "S:fd5ace60e3a0381a0bfab3b80fef24fdc46a9838,",
-      "typography.component.header.lg.title02 (36)": "S:e760e77701b416a237686a8bfb632e24c9d0fe3e,",
       "typography.component.header.lg.title03 (28)": "S:f9cc0bd9fad3d51504c86290ce631c7945fd7772,",
       "typography.component.header.lg.title04 (24)": "S:019cc7863c51ce4a05a9951cdccb71a5df5d9df6,",
       "typography.component.header.lg.title05 (20)": "S:9662271f49962bee16af9200bcf0ce820c24fe88,",
@@ -729,7 +726,10 @@
       "boxShadow.component.card.interactive.background.enabled": "S:dbae9eefb4a6460e744d751b75e66f71c2c22de3,",
       "boxShadow.component.card.interactive.background.hover": "S:8452658208d36ec7d85d872a2ab250f9e9138a90,",
       "boxShadow.component.card.interactive.background.selected": "S:f75dd4a671421cbb15fb56b9f71bc54d0bdcb818,",
-      "typography.component.header.lg.displayXL (64)": "S:c804de23bfa330336dfb656ef6117e7de5d09c3a,"
+      "typography.component.header.lg.displayXL (64)": "S:c804de23bfa330336dfb656ef6117e7de5d09c3a,",
+      "typography.component.header.lg.title01 (46)": "S:fd5ace60e3a0381a0bfab3b80fef24fdc46a9838,",
+      "typography.component.header.lg.title02 (32)": "S:e760e77701b416a237686a8bfb632e24c9d0fe3e,",
+      "typography.component.header.md.title03 (28)": "S:57967c806ed16f0e88051d94c8025d8798705789,"
     },
     "selectedTokenSets": {
       "Core tokens": "source",
