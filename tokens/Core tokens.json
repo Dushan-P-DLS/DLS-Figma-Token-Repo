@@ -1417,7 +1417,7 @@
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.headerRatio01 * $fontSizes.sm.02",
+            "lineHeight": "$lineHeights.headerRatio * $fontSizes.sm.02",
             "fontSize": "$fontSizes.sm.02",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.02"
           },
@@ -1427,7 +1427,7 @@
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.headerRatio01 * $fontSizes.sm.01",
+            "lineHeight": "$lineHeights.headerRatio * $fontSizes.sm.01",
             "fontSize": "$fontSizes.sm.01",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.sm.01"
           },
@@ -1499,7 +1499,7 @@
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.headerRatio01 * $fontSizes.md.04",
+            "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.04",
             "fontSize": "$fontSizes.md.04",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.04"
           },
@@ -1509,7 +1509,7 @@
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.headerRatio01 * $fontSizes.md.03",
+            "lineHeight": "$lineHeights.headerRatio * $fontSizes.md.03",
             "fontSize": "$fontSizes.md.03",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.md.03"
           },
@@ -1581,7 +1581,7 @@
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.headerRatio01 * $fontSizes.lg.04",
+            "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.04",
             "fontSize": "$fontSizes.lg.04",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.04"
           },
@@ -1591,7 +1591,7 @@
           "value": {
             "fontFamily": "$fontFamilies.02",
             "fontWeight": "$fontWeights.figma.semibold",
-            "lineHeight": "$lineHeights.headerRatio01 * $fontSizes.lg.03",
+            "lineHeight": "$lineHeights.headerRatio * $fontSizes.lg.03",
             "fontSize": "$fontSizes.lg.03",
             "paragraphSpacing": "$paragraphSpacing.1 * $fontSizes.lg.03"
           },
