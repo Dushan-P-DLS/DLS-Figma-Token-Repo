@@ -1885,5 +1885,13 @@
       "type": "spacing",
       "value": "2px"
     }
+  },
+  "color": {
+    "super": {
+      "x": {
+        "value": "purple",
+        "type": "color"
+      }
+    }
   }
 }
