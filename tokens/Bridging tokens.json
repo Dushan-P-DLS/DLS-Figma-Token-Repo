@@ -551,7 +551,7 @@
     "border": {
       "default": {
         "type": "color",
-        "value": "{colors.neutral.03}"
+        "value": "{colors.neutral.02}"
       },
       "subtle": {
         "type": "color",
