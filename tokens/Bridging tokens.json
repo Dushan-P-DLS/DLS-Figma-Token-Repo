@@ -579,6 +579,28 @@
         "border": {
           "type": "color",
           "value": "{colors.neutral.08}"
+        },
+        "onDark": {
+          "default": {
+            "type": "color",
+            "value": "{colors.neutral.08}"
+          },
+          "hover": {
+            "type": "color",
+            "value": "{colors.neutral.02}"
+          },
+          "pressed": {
+            "type": "color",
+            "value": "{colors.neutral.03}"
+          },
+          "border": {
+            "type": "color",
+            "value": "{colors.neutral.06}"
+          },
+          "fg": {
+            "type": "color",
+            "value": "{colors.neutral.08}"
+          }
         }
       },
       "secondary": {
