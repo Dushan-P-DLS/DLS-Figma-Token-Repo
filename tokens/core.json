@@ -1311,11 +1311,6 @@
       "value": "8px"
     },
     "radius-12": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "type": "borderRadius",
       "value": "12px"
     },
@@ -1328,11 +1323,6 @@
       "value": "128px"
     },
     "radius-24": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "type": "borderRadius",
       "value": "24px"
     },
@@ -1341,11 +1331,6 @@
       "value": "64px"
     },
     "round": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "type": "borderRadius",
       "value": "9999px"
     }

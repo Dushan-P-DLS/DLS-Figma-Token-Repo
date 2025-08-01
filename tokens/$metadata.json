@@ -1,7 +1,8 @@
 {
   "tokenSetOrder": [
-    "Core tokens",
-    "Bridging tokens",
-    "Component tokens"
+    "core",
+    "bridging",
+    "component",
+    "Styles"
   ]
 }

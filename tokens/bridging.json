@@ -478,11 +478,6 @@
         "description": "Interactive text colour\n⚠️ This might not be in use ⚠️"
       },
       "onDark": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
         "type": "color",
         "value": "$colors.static.neutral.08",
         "description": "Text on interactive colour\n\nThis is used for elements that need to be white that sit on various background"
