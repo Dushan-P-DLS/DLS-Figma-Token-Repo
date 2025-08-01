@@ -841,7 +841,7 @@
       },
       "focus": {
         "type": "color",
-        "value": "$colors.bridging.focus.02"
+        "value": "$colors.bridging.focus.01"
       },
       "textInput": {
         "background": {
